@@ -1,0 +1,49 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+  --coral: #c73530;
+  --font-tektur: "Tektur", sans-serif;
+  --font-lexend: "Lexend", sans-serif;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-coral: var(--coral);
+  --font-tektur: var(--font-tektur);
+  --font-lexend: var(--font-lexend);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #ffffff;
+    --foreground: #ededed;
+    --coral: #c73530;
+  }
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-lexend), var(--font-tektur) ,sans-serif;
+}
+
+.loader {
+  border: 10px solid #f3f3f3;
+  border-top: 10px solid var(--coral);
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

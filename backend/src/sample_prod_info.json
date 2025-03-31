@@ -1,0 +1,3326 @@
+[
+    {
+        "id": 6,
+        "product_dsc": "ACUC.BR.CUBOS WHITWORTHS 500GR",
+        "product_short_dsc": "ACUC.BR.FRUTOGA",
+        "_20231226": 0.4162588483358294
+    },
+    {
+        "id": 11,
+        "product_dsc": "NOVILHO BIFE DA VAZIA A\u00c7",
+        "product_short_dsc": "NOV BIFE VAZIA",
+        "_20231226": 0.8610247133667238
+    },
+    {
+        "id": 17,
+        "product_dsc": "A\u00c7\u00daCAR DE COCO CEM PORCENTO 250G",
+        "product_short_dsc": "A\u00c7\u00daC DE COC 0,2",
+        "_20231226": 0.7865867120347496
+    },
+    {
+        "id": 21,
+        "product_dsc": "COSTELETA AC\u00c9M RED VIT BRANCA COMPRA/AT",
+        "product_short_dsc": "COSTELETA AC\u00c9M",
+        "_20231226": 0.8654053172871952
+    },
+    {
+        "id": 26,
+        "product_dsc": "A\u00c7\u00daCAR WHITWORTHS DEMERARA 500G",
+        "product_short_dsc": "A\u00c7\u00daC WHITW 500G",
+        "_20231226": 0.8748480681637847
+    },
+    {
+        "id": 32,
+        "product_dsc": "FIGO DA INDIA CNT KG",
+        "product_short_dsc": "FIGO INDIA",
+        "_20231226": 0.8987093289951236
+    },
+    {
+        "id": 34,
+        "product_dsc": "RISOTTO TREVIJANO DE OUTONO 280G",
+        "product_short_dsc": "RISOTTO 280G",
+        "_20231226": 0.8887781345061551
+    },
+    {
+        "id": 44,
+        "product_dsc": "NECTARINA NACIONAL CNT B EMB 1 KG",
+        "product_short_dsc": "NECTARINA 1 KG",
+        "_20231226": 0.6552578633679568
+    },
+    {
+        "id": 47,
+        "product_dsc": "ABRUNHO NACIONAL  C. 30+ CNT 500 G",
+        "product_short_dsc": "ABRUNHO 500 G",
+        "_20231226": 0.8891112484289576
+    },
+    {
+        "id": 50,
+        "product_dsc": "MACA GRANNY SMITH CNT CAL.75/85 KG ILHAS",
+        "product_short_dsc": "MACA GRANNY SMI",
+        "_20231226": 0.8324205290658704
+    },
+    {
+        "id": 51,
+        "product_dsc": "FARINHA DE SOJA SALUTEM 400G",
+        "product_short_dsc": "FAR DE SOJA 400",
+        "_20231226": 0.8858417849522481
+    },
+    {
+        "id": 76,
+        "product_dsc": "PAPAIA DE AVI\u00c3O KG ILHAS",
+        "product_short_dsc": "PAPAIA DE AVI\u00c3O",
+        "_20231226": 0.8036033962155285
+    },
+    {
+        "id": 81,
+        "product_dsc": "(A\u00c7) NOV. ESTUFAR S/OSSO ANGUS AT KG",
+        "product_short_dsc": "ANGUS EST. S/OS",
+        "_20231226": 0.658796015424773
+    },
+    {
+        "id": 92,
+        "product_dsc": "CAMAR\u00c3O 10/20 SELVA COZ REF 500G CNT.SEL",
+        "product_short_dsc": "CAM 10/20 SELE",
+        "_20231226": 0.8939151506097704
+    },
+    {
+        "id": 95,
+        "product_dsc": "LIRO IMPERIAL POSTA",
+        "product_short_dsc": "LIRIO IMP POSTA",
+        "_20231226": 0.6569181872799487
+    },
+    {
+        "id": 99,
+        "product_dsc": "QUINOA SALUTEM 1KG",
+        "product_short_dsc": "QUINOA 1KG",
+        "_20231226": 0.8032817776002127
+    },
+    {
+        "id": 101,
+        "product_dsc": "FUSILLI GR\u00c3O BICO SEITZ S/GL\u00daTEN 300G",
+        "product_short_dsc": "FUSILLI GR\u00c3O",
+        "_20231226": 0.4807019637388673
+    },
+    {
+        "id": 106,
+        "product_dsc": "FARINHA ESPIGA T55 1 KG",
+        "product_short_dsc": "FARINHA ESPIGA",
+        "_20231226": 0.6559507499305963
+    },
+    {
+        "id": 109,
+        "product_dsc": "PICANHA BOVINO ANGUS LS",
+        "product_short_dsc": "PICANH BOV ANGU",
+        "_20231226": 0.6565598209018249
+    },
+    {
+        "id": 110,
+        "product_dsc": "MA\u00c7\u00c3 ALCOB IGP R0 APPLE KID 60/65 800 G",
+        "product_short_dsc": "MA\u00c7\u00c3 APPLE KID",
+        "_20231226": 0.7874927004960802
+    },
+    {
+        "id": 111,
+        "product_dsc": "CANTARILHO ALGARVE",
+        "product_short_dsc": "CANTARILHO",
+        "_20231226": 0.8010254707511638
+    },
+    {
+        "id": 114,
+        "product_dsc": "SEMOLA MILHO S/F ESPIGA 500GR",
+        "product_short_dsc": "SEMOLA MILHO",
+        "_20231226": 0.7535902756446734
+    },
+    {
+        "id": 117,
+        "product_dsc": "HAMB\u00daRGUER SALM\u00c3O E BACALHAU 110G",
+        "product_short_dsc": "HAMB SALMAO BAC",
+        "_20231226": 0.7740921320701702
+    },
+    {
+        "id": 122,
+        "product_dsc": "POLVO INTEIRO COZIDO NUCHAR KG",
+        "product_short_dsc": "POLVO NUCHAR",
+        "_20231226": 0.8823181737897701
+    },
+    {
+        "id": 125,
+        "product_dsc": "FAR ESPELTA+BAT DOC CEMPORCENTO 500G",
+        "product_short_dsc": "FAR POLENTA 500",
+        "_20231226": 0.7144774086762626
+    },
+    {
+        "id": 126,
+        "product_dsc": "ARROZ AGULHA LYNCE 1KG",
+        "product_short_dsc": "ARR AGUL LYNCE",
+        "_20231226": 0.8482856143528666
+    },
+    {
+        "id": 127,
+        "product_dsc": "FOLHAS LASANHA MILANEZA S/GL\u00daTEN 250G",
+        "product_short_dsc": "FOLHAS LASANHA",
+        "_20231226": 0.7685461565241289
+    },
+    {
+        "id": 140,
+        "product_dsc": "C\u00c2NTARO M\u00c9DIO A\u00c7ORES (-700G)",
+        "product_short_dsc": "C\u00c2NTARO M\u00c9DIO",
+        "_20231226": 0.7193674812912701
+    },
+    {
+        "id": 144,
+        "product_dsc": "BANANITO CNT KG",
+        "product_short_dsc": "BANANITO",
+        "_20231226": 0.8816740904009769
+    },
+    {
+        "id": 145,
+        "product_dsc": "(I) BOV VAZIA WAGYU FAT CONG BEEFCO KG",
+        "product_short_dsc": "BOV VAZIA WAGYU",
+        "_20231226": 0.8021693350635924
+    },
+    {
+        "id": 146,
+        "product_dsc": "FARINHA INTEGRAL AVEIA NACIONAL 800G",
+        "product_short_dsc": "FAR AVEIA 800G",
+        "_20231226": 0.5016351095251276
+    },
+    {
+        "id": 154,
+        "product_dsc": "TAGLIATELLE SEMOLA BARILLA 500G",
+        "product_short_dsc": "TAGLIATELLE SEM",
+        "_20231226": 0.7675731025009286
+    },
+    {
+        "id": 155,
+        "product_dsc": "ADO\u00c7ANTE CANDEREL STICKS 100G",
+        "product_short_dsc": "EDUL CD ST100G",
+        "_20231226": 0.7896078723705863
+    },
+    {
+        "id": 161,
+        "product_dsc": "UVA PRETA SGRAINHA VALE DA ROSA 800GR AZ",
+        "product_short_dsc": "UVA PR S GR 800",
+        "_20231226": 0.7592212849009595
+    },
+    {
+        "id": 163,
+        "product_dsc": "MASSA RUMMO FUSILLOTTE N\u00ba 155 500G",
+        "product_short_dsc": "MASSA RUMMO",
+        "_20231226": 0.7521909279652126
+    },
+    {
+        "id": 165,
+        "product_dsc": "GELEIA AGAVE ORIGENS BIO BIO 360ML",
+        "product_short_dsc": "GELEIA AGAVE",
+        "_20231226": 0.8285311954473902
+    },
+    {
+        "id": 166,
+        "product_dsc": "A\u00c7\u00daCAR C\u00d4CO ORIGENS BIO 250G",
+        "product_short_dsc": "A\u00c7\u00daCAR C\u00d4CO",
+        "_20231226": 0.5479201260380719
+    },
+    {
+        "id": 167,
+        "product_dsc": "FEIJAO MANTEIGA CACAROLA 500GR",
+        "product_short_dsc": "FEIJ C\u00c7 MT500G",
+        "_20231226": 0.8868972856725583
+    },
+    {
+        "id": 169,
+        "product_dsc": "PESCADA MEDIA",
+        "product_short_dsc": "PESCADA MEDIA",
+        "_20231226": 0.5036622502423972
+    },
+    {
+        "id": 170,
+        "product_dsc": "CEREJA 24+ 500 GR",
+        "product_short_dsc": "CEREJA 500",
+        "_20231226": 0.5275445152492187
+    },
+    {
+        "id": 178,
+        "product_dsc": "NOVILHO BIFE/PE\u00c7A DO REDONDO (BALC\u00c3O)",
+        "product_short_dsc": "BIFE/PE\u00c7A REDON",
+        "_20231226": 0.6609592998191485
+    },
+    {
+        "id": 180,
+        "product_dsc": "TAPIOCA BRASILEIRA GLOBO 250GR",
+        "product_short_dsc": "TAPIOCA GLOBO",
+        "_20231226": 0.8578696286729921
+    },
+    {
+        "id": 181,
+        "product_dsc": "PENNE DELVERDE SEM GL\u00daTEN 400G",
+        "product_short_dsc": "PENNE 400G",
+        "_20231226": 0.8893658746370311
+    },
+    {
+        "id": 182,
+        "product_dsc": "LULA DESCONGELADA KG",
+        "product_short_dsc": "LULA DESCONG",
+        "_20231226": 0.41969987636488815
+    },
+    {
+        "id": 188,
+        "product_dsc": "FARI.CENTEIO INTEG.BIOL\u00d3GICA SEARA 500GR",
+        "product_short_dsc": "FARI.CENTEIO IN",
+        "_20231226": 0.7830911516633213
+    },
+    {
+        "id": 197,
+        "product_dsc": "PARAFUSOS XPRESS INSULAR 500G",
+        "product_short_dsc": "PARAFUSOS XPRES",
+        "_20231226": 0.6120142853281039
+    },
+    {
+        "id": 203,
+        "product_dsc": "MAS CASARECCE MOLDE BRONZE MILANEZA 500G",
+        "product_short_dsc": "MASSA MILANEZA",
+        "_20231226": 0.8516832702340216
+    },
+    {
+        "id": 204,
+        "product_dsc": "MAS.SPAGHETTI NERO DI SEPIA GAROFALO500G",
+        "product_short_dsc": "MAS SPAGHETTI N",
+        "_20231226": 0.8244835480427579
+    },
+    {
+        "id": 206,
+        "product_dsc": "PIMP\u00c3O ENCARNADO",
+        "product_short_dsc": "PIMP\u00c3O ENCARNAD",
+        "_20231226": 0.5648811616220576
+    },
+    {
+        "id": 210,
+        "product_dsc": "VAZIA VITEL\u00c3O MERTOLENGA DOP LS",
+        "product_short_dsc": "VAZIA VIT MERTO",
+        "_20231226": 0.8564133891064538
+    },
+    {
+        "id": 225,
+        "product_dsc": "MERO POSTA EMBALADO LOJA",
+        "product_short_dsc": "MERO POSTA EMB",
+        "_20231226": 0.8834300851428496
+    },
+    {
+        "id": 226,
+        "product_dsc": "FAR TRIGO C/FER SUP FINA CONTINENTE 1KG",
+        "product_short_dsc": "FAR CONTI SUP",
+        "_20231226": 0.8738112650582474
+    },
+    {
+        "id": 227,
+        "product_dsc": "FARINHA CONTINENTE P/P\u00c3O R\u00daSTICO 1KG",
+        "product_short_dsc": "FAR.CNT RUST",
+        "_20231226": 0.7368280429234896
+    },
+    {
+        "id": 231,
+        "product_dsc": "MASSA MACARR\u00c3O GRANDE CONTINENTE 500G",
+        "product_short_dsc": "MACARR\u00c3O 500G",
+        "_20231226": 0.8062006366204331
+    },
+    {
+        "id": 244,
+        "product_dsc": "MA\u00c7\u00c3 GOLDEN NAC CNT KIDS R0 60/65 800 G",
+        "product_short_dsc": "MA\u00c7\u00c3 GOLDEN R0",
+        "_20231226": 0.7985485621359384
+    },
+    {
+        "id": 251,
+        "product_dsc": "FAR.TRIGO SELF RAISING INSULAR 1KG",
+        "product_short_dsc": "FAR INSULAR RA",
+        "_20231226": 0.8380498816165406
+    },
+    {
+        "id": 258,
+        "product_dsc": "MASSA MACARR\u00c3O RISCADO A PORTUGESA 500GR",
+        "product_short_dsc": "MASSA MACARR\u00c3O",
+        "_20231226": 0.7639737420585689
+    },
+    {
+        "id": 277,
+        "product_dsc": "A\u00c7\u00daCAR MASCAVADO CONTINENTE 50STICK 200G",
+        "product_short_dsc": "A\u00c7\u00daC MASC 0,200",
+        "_20231226": 0.8863782044341112
+    },
+    {
+        "id": 283,
+        "product_dsc": "MASSA MACARRONETE CLASSICO INSULAR 500GR",
+        "product_short_dsc": "MACARRONET INSU",
+        "_20231226": 0.8539121507294345
+    },
+    {
+        "id": 290,
+        "product_dsc": "DOURADA M\u00c9DIA (200-600G)",
+        "product_short_dsc": "DOURADA MEDIA",
+        "_20231226": 0.5010679273854355
+    },
+    {
+        "id": 291,
+        "product_dsc": "MASSA LASAGNE SEMOLA LA MOLISANA 500G",
+        "product_short_dsc": "MASSA LASAGNE S",
+        "_20231226": 0.7624377724354885
+    },
+    {
+        "id": 292,
+        "product_dsc": "ARROZ EXT LONGO VAPORIZADO SALUD\u00c3ES 1KG",
+        "product_short_dsc": "ARR VAP SALU",
+        "_20231226": 0.8944441868163231
+    },
+    {
+        "id": 295,
+        "product_dsc": "MAS. MACARRON. VINCADO INSULAR 1000GR",
+        "product_short_dsc": "MAS MAC INS 100",
+        "_20231226": 0.607716774997206
+    },
+    {
+        "id": 296,
+        "product_dsc": "MASSA LINGUINE CONT.SELE\u00c7\u00c3O ITALIA 500G",
+        "product_short_dsc": "MASS LINGUINE 0",
+        "_20231226": 0.8118304256499174
+    },
+    {
+        "id": 297,
+        "product_dsc": "ATUM DESCONGELADO LOMBO CDP",
+        "product_short_dsc": "ATUM DESC LOMBO",
+        "_20231226": 0.8178457645424999
+    },
+    {
+        "id": 298,
+        "product_dsc": "FRANGO PERNAS CFA A\u00c7ORES",
+        "product_short_dsc": "FRANGO PERNAS",
+        "_20231226": 0.730372580136927
+    },
+    {
+        "id": 299,
+        "product_dsc": "MA\u00c7\u00c3 CANDINE IGP ALCOBA\u00c7A CAL.75/85 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 CANDINE",
+        "_20231226": 0.8754925967284216
+    },
+    {
+        "id": 303,
+        "product_dsc": "MASSA ESTRELINHA CONTINENTE 250G",
+        "product_short_dsc": "MASSA EST",
+        "_20231226": 0.8172615624722225
+    },
+    {
+        "id": 304,
+        "product_dsc": "MASSA SPAGHETTONI N\u00ba 7 MILANEZA 500G",
+        "product_short_dsc": "ESPG SPAGH",
+        "_20231226": 0.7333473689136568
+    },
+    {
+        "id": 307,
+        "product_dsc": "ROMA CNT KG",
+        "product_short_dsc": "ROMA",
+        "_20231226": 0.8457811225776728
+    },
+    {
+        "id": 314,
+        "product_dsc": "LOMBOS DE PESCADA FRESCA KG",
+        "product_short_dsc": "LOMBOS PESCADA",
+        "_20231226": 0.8638668011737465
+    },
+    {
+        "id": 315,
+        "product_dsc": "ARROZ AGULHA BOM SUCESSO 1KG",
+        "product_short_dsc": "ARR AGUL B SUCE",
+        "_20231226": 0.6974557104724449
+    },
+    {
+        "id": 334,
+        "product_dsc": "MEL\u00c3O AMARELO INTEIRO CNT KG",
+        "product_short_dsc": "MELAO AMARELO",
+        "_20231226": 0.8611837218092363
+    },
+    {
+        "id": 335,
+        "product_dsc": "ANONA CNT KG",
+        "product_short_dsc": "ANONA",
+        "_20231226": 0.7941233726124813
+    },
+    {
+        "id": 340,
+        "product_dsc": "NECTARINA CAL. A KG AZ",
+        "product_short_dsc": "NECTARINA KG",
+        "_20231226": 0.8733981954153298
+    },
+    {
+        "id": 344,
+        "product_dsc": "FRANGO PEITO EMB. SUINIPICO",
+        "product_short_dsc": "FRANGO PEITO EM",
+        "_20231226": 0.7665701416326908
+    },
+    {
+        "id": 345,
+        "product_dsc": "MELANO CNT KG",
+        "product_short_dsc": "MELANO",
+        "_20231226": 0.7694956311575061
+    },
+    {
+        "id": 355,
+        "product_dsc": "CODORNIZ FRESCA UN - AT",
+        "product_short_dsc": "CODORNIZ UN AT",
+        "_20231226": 0.7665722340105571
+    },
+    {
+        "id": 356,
+        "product_dsc": "FARINHA DE MANDIOCA CONTINENTE 500G",
+        "product_short_dsc": "FAR MANDIOC CNT",
+        "_20231226": 0.7726346708542855
+    },
+    {
+        "id": 364,
+        "product_dsc": "KIWI VERDE IMP KG",
+        "product_short_dsc": "KIWI VERDE KG",
+        "_20231226": 0.8615579599685933
+    },
+    {
+        "id": 366,
+        "product_dsc": "MANDARINA REGIONAL KG",
+        "product_short_dsc": "MANDARINA REGI.",
+        "_20231226": 0.7844961606428908
+    },
+    {
+        "id": 368,
+        "product_dsc": "FAR.TRIGO FINAC/F BRANCA NEVE 1KG",
+        "product_short_dsc": "FAR BR NEVE C/F",
+        "_20231226": 0.8924168293772033
+    },
+    {
+        "id": 372,
+        "product_dsc": "CAVALA KG",
+        "product_short_dsc": "CAVALA KG",
+        "_20231226": 0.5791358995281742
+    },
+    {
+        "id": 375,
+        "product_dsc": "MAS.FINA INSULAR 1KG",
+        "product_short_dsc": "MASSA INSULAR",
+        "_20231226": 0.8780175385775347
+    },
+    {
+        "id": 376,
+        "product_dsc": "NOVILHO ACEM COMPRIDO (BALC\u00c3O) A\u00c7ORES",
+        "product_short_dsc": "NOV.ACEM COMP",
+        "_20231226": 0.7488921463671563
+    },
+    {
+        "id": 378,
+        "product_dsc": "FRANGO PEDACOS ATM LS CFA",
+        "product_short_dsc": "FRANGO PEDACOS",
+        "_20231226": 0.4301615251372741
+    },
+    {
+        "id": 386,
+        "product_dsc": "CARAPAU NEGRAO",
+        "product_short_dsc": "CARAPAU NEGRAO",
+        "_20231226": 0.4842644943928013
+    },
+    {
+        "id": 387,
+        "product_dsc": "FRANGO COXAS A\u00c7ORAVES",
+        "product_short_dsc": "COXAS FRANGO",
+        "_20231226": 0.818326032744002
+    },
+    {
+        "id": 391,
+        "product_dsc": "MASSA FOLHAS LASANHA INT MILANEZA 500G",
+        "product_short_dsc": "MASSA FOLHAS LA",
+        "_20231226": 0.5231916433955274
+    },
+    {
+        "id": 398,
+        "product_dsc": "LENTILHAS VERDES SEARA BIO 500G",
+        "product_short_dsc": "LENTILHAS VERDE",
+        "_20231226": 0.811654766203875
+    },
+    {
+        "id": 399,
+        "product_dsc": "FRANGO ASAS ATM LS CFA",
+        "product_short_dsc": "FRANGO ASAS ATM",
+        "_20231226": 0.8924464140388856
+    },
+    {
+        "id": 404,
+        "product_dsc": "MELOA CANTALUPE  BRASIL FRAC CNT KG",
+        "product_short_dsc": "MELOA CANTALUPE",
+        "_20231226": 0.5318287287195981
+    },
+    {
+        "id": 408,
+        "product_dsc": "TRIGO SARRACENO OSOBAYA MONOLITH 900G",
+        "product_short_dsc": "TRIGO SARRACENO",
+        "_20231226": 0.5592956298625857
+    },
+    {
+        "id": 410,
+        "product_dsc": "FRANGO ASAS CFA A\u00c7ORES",
+        "product_short_dsc": "FRANGO ASAS",
+        "_20231226": 0.6500721364073049
+    },
+    {
+        "id": 411,
+        "product_dsc": "PAPAIA MADEIRA KG FRAC",
+        "product_short_dsc": "PAPAIA FRAC",
+        "_20231226": 0.8520518225319713
+    },
+    {
+        "id": 412,
+        "product_dsc": "MACA STARKING CAL.75/80KG",
+        "product_short_dsc": "MACA STARKING C",
+        "_20231226": 0.8390146510592826
+    },
+    {
+        "id": 417,
+        "product_dsc": "CARAPAU MEDIO",
+        "product_short_dsc": "CARAPAU MEDIO",
+        "_20231226": 0.5376665395039868
+    },
+    {
+        "id": 431,
+        "product_dsc": "FRANGO BIFE DPCA ACORES",
+        "product_short_dsc": "FRANGO BIFE",
+        "_20231226": 0.7189778154218179
+    },
+    {
+        "id": 432,
+        "product_dsc": "ESPETADAS SALM\u00c3O 150G",
+        "product_short_dsc": "ESPET SALM\u00c3O",
+        "_20231226": 0.8982389702951457
+    },
+    {
+        "id": 433,
+        "product_dsc": "A\u00c7\u00daCAR DE CANA INTEGRAL CEMPORC 500G",
+        "product_short_dsc": "A\u00c7\u00daC DE CANA IN",
+        "_20231226": 0.6763726454757113
+    },
+    {
+        "id": 435,
+        "product_dsc": "MASSA PENNE DELVERDE INTEG 500G",
+        "product_short_dsc": "MASSA PENNE",
+        "_20231226": 0.8131588931862116
+    },
+    {
+        "id": 437,
+        "product_dsc": "(I)AMIDO MILHO CONTINENTE 400G",
+        "product_short_dsc": "AMIDO MILH 400G",
+        "_20231226": 0.7332021873111989
+    },
+    {
+        "id": 442,
+        "product_dsc": "FAR S/F ESPIGA T55 5KG",
+        "product_short_dsc": "FAR T55 ESPIGA",
+        "_20231226": 0.8837166805576298
+    },
+    {
+        "id": 444,
+        "product_dsc": "SALADA MEL/UVA/KIW/MNG 600 GR",
+        "product_short_dsc": "SALADA 52",
+        "_20231226": 0.7992786694939853
+    },
+    {
+        "id": 445,
+        "product_dsc": "FRANGO PEITO C/ OSSO E S/ PELE CFA A\u00c7",
+        "product_short_dsc": "FRANGO PEITO C/",
+        "_20231226": 0.43867683460379014
+    },
+    {
+        "id": 446,
+        "product_dsc": "FRANGO TEMPERADO P/ GRELHAR CFA A\u00c7",
+        "product_short_dsc": "FRANGO TEMPERAD",
+        "_20231226": 0.8944608091297443
+    },
+    {
+        "id": 450,
+        "product_dsc": "PENNE ARR INT DALLA COSTA S/GL\u00da BIO 250G",
+        "product_short_dsc": "PENNE ARR INT",
+        "_20231226": 0.7006849007965519
+    },
+    {
+        "id": 457,
+        "product_dsc": "FRANGO INTEIRO C/M GRANEL CONTINENTE",
+        "product_short_dsc": "FRANGO C/M AT",
+        "_20231226": 0.8460360397241629
+    },
+    {
+        "id": 460,
+        "product_dsc": "UVA BRANCA S/ GRAINHA CNT KG",
+        "product_short_dsc": "UVA BRANCA S/GR",
+        "_20231226": 0.5114953977145146
+    },
+    {
+        "id": 472,
+        "product_dsc": "LIMAO GALEGO KG ACORES/ LIMA",
+        "product_short_dsc": "LIMAO GALEGO",
+        "_20231226": 0.8506447911427109
+    },
+    {
+        "id": 474,
+        "product_dsc": "TAINHA A\u00c7ORES (-3000G)",
+        "product_short_dsc": "TAINHA A\u00c7ORES",
+        "_20231226": 0.6790963498035257
+    },
+    {
+        "id": 475,
+        "product_dsc": "CHICHARRO PEQUENO A\u00c7ORES KG",
+        "product_short_dsc": "CHICHARRO PEQU",
+        "_20231226": 0.8248565015697489
+    },
+    {
+        "id": 483,
+        "product_dsc": "(I) VITELA TOMAHAWK LS",
+        "product_short_dsc": "VITELA TOMAHAWK",
+        "_20231226": 0.8463290008915237
+    },
+    {
+        "id": 494,
+        "product_dsc": "OSTRA ESPECIAL 500G",
+        "product_short_dsc": "OSTRA ESP 500G",
+        "_20231226": 0.40487742888939726
+    },
+    {
+        "id": 498,
+        "product_dsc": "ARROZ CIGALA GIGANTE 1KG",
+        "product_short_dsc": "ARROZ",
+        "_20231226": 0.8390470513499177
+    },
+    {
+        "id": 503,
+        "product_dsc": "(I) BOV THIN SKIRT (ENTRA) ANGUS CONG KG",
+        "product_short_dsc": "BOV THIN SJK AN",
+        "_20231226": 0.898167865225769
+    },
+    {
+        "id": 504,
+        "product_dsc": "ESPIRAIS C/ VEGETAIS NACIONAL 500 GR",
+        "product_short_dsc": "ESPIRAIS C/ VEG",
+        "_20231226": 0.8864658246932535
+    },
+    {
+        "id": 505,
+        "product_dsc": "PERNINHA DE FRANGO CONGELADA 1 KG",
+        "product_short_dsc": "PERNINHA DE FRA",
+        "_20231226": 0.683792834003332
+    },
+    {
+        "id": 506,
+        "product_dsc": "COELHO INTEIRO CONTINENTE",
+        "product_short_dsc": "COELHO INTEIRO",
+        "_20231226": 0.8506534472367935
+    },
+    {
+        "id": 511,
+        "product_dsc": "JARDINEIRA VITEL\u00c3O MERTOLENGA DOP LS",
+        "product_short_dsc": "VITEL\u00c3O JARDINE",
+        "_20231226": 0.19490377422203933
+    },
+    {
+        "id": 519,
+        "product_dsc": "CEREJA 24+ 500 G ILHAS",
+        "product_short_dsc": "CEREJA 24+ 500",
+        "_20231226": 0.5040000543224009
+    },
+    {
+        "id": 521,
+        "product_dsc": "ABACAXI DE AVI\u00c3O PREMIUM FR KG",
+        "product_short_dsc": "ABACAXI DE AV F",
+        "_20231226": 0.7958407148517676
+    },
+    {
+        "id": 523,
+        "product_dsc": "(I) VITELA MINHOTA BIFE ALCATRA SKP",
+        "product_short_dsc": "V. MINHOTA ALCA",
+        "_20231226": 0.8458323061357427
+    },
+    {
+        "id": 525,
+        "product_dsc": "UVA BRANCA S/GRAINHA CNT 750G",
+        "product_short_dsc": "UVA BRANCA S/GR",
+        "_20231226": 0.8956976721695794
+    },
+    {
+        "id": 527,
+        "product_dsc": "MASSA ESTRELINHAS MOA\u00c7OR 250G",
+        "product_short_dsc": "ESTREL MOACOR",
+        "_20231226": 0.8190154978189608
+    },
+    {
+        "id": 528,
+        "product_dsc": "MELANCIA POUCAS SEMENTES INT CNT KG",
+        "product_short_dsc": "MELANC P SEM",
+        "_20231226": 0.7677168391521221
+    },
+    {
+        "id": 531,
+        "product_dsc": "CASTANHA 70/80 CNT KG (MADEIRA)",
+        "product_short_dsc": "CASTANHA",
+        "_20231226": 0.8390158052820447
+    },
+    {
+        "id": 555,
+        "product_dsc": "(A\u00c7) NOVILHO BIFE DO CORTADOR DPCA KG",
+        "product_short_dsc": "(A\u00c7) NOVILHO BI",
+        "_20231226": 0.7272317349782048
+    },
+    {
+        "id": 557,
+        "product_dsc": "NOVILHO JARDINEIRA 2\u00aa A\u00c7",
+        "product_short_dsc": "NOV JARDINEI 2\u00aa",
+        "_20231226": 0.8013374027764884
+    },
+    {
+        "id": 572,
+        "product_dsc": "LIMA CNT KG",
+        "product_short_dsc": "LIMA",
+        "_20231226": 0.6505983444721186
+    },
+    {
+        "id": 573,
+        "product_dsc": "NOVILHO COSTELETA ACEM A\u00c7",
+        "product_short_dsc": "NOV COST ACEM",
+        "_20231226": 0.8681716179732418
+    },
+    {
+        "id": 606,
+        "product_dsc": "QUINOA TIPIAK EXPRESS SELECTION 2*100G",
+        "product_short_dsc": "QUINOA 100G",
+        "_20231226": 0.5855163993586014
+    },
+    {
+        "id": 610,
+        "product_dsc": "MA\u00c7\u00c3 GOLDEN CNT CAL 63/73 1.5 KG ILH",
+        "product_short_dsc": "MA\u00c7\u00c3 GOLDEN",
+        "_20231226": 0.6724546063716647
+    },
+    {
+        "id": 623,
+        "product_dsc": "(I) M\u00c3O VITELA S/ OSSO CONG EMB. KG",
+        "product_short_dsc": "M\u00c3O VITELA S/ O",
+        "_20231226": 0.7923057974609311
+    },
+    {
+        "id": 624,
+        "product_dsc": "MEL\u00c3O AMARELO FRAC CNT KG ILHAS",
+        "product_short_dsc": "MEL\u00c3O AMAR FRAC",
+        "_20231226": 0.8163054049988568
+    },
+    {
+        "id": 627,
+        "product_dsc": "HAMB\u00daRGUER BACALHAU/ESPINAFRES UN 80G",
+        "product_short_dsc": "HAMB\u00daRG UN 80G",
+        "_20231226": 0.794126721043634
+    },
+    {
+        "id": 632,
+        "product_dsc": "PERA PACKAMS CNT CAL.65/75 KG",
+        "product_short_dsc": "PERA PACKAMS",
+        "_20231226": 0.7950137323744046
+    },
+    {
+        "id": 636,
+        "product_dsc": "ESPIRAIS MILANEZA SEM GL\u00daTEN 500G",
+        "product_short_dsc": "S/GLUTEN ESPIRA",
+        "_20231226": 0.768441013405973
+    },
+    {
+        "id": 639,
+        "product_dsc": "BERBIG\u00c3O FRESCO KG",
+        "product_short_dsc": "BERBIG\u00c3O",
+        "_20231226": 0.8901193025941317
+    },
+    {
+        "id": 644,
+        "product_dsc": "MEL\u00c3O VERDE PREMIUM BRASIL KG ILHAS",
+        "product_short_dsc": "MEL\u00c3O VERDE PRE",
+        "_20231226": 0.852852009523706
+    },
+    {
+        "id": 652,
+        "product_dsc": "ESPARGUETE CNT BIO 500G",
+        "product_short_dsc": "ESPARGUETE",
+        "_20231226": 0.8925495489080564
+    },
+    {
+        "id": 655,
+        "product_dsc": "NOVILHO JARDINEIRA NACIONAL CNT LS",
+        "product_short_dsc": "NOVILHO JARDINE",
+        "_20231226": 0.8793797025114356
+    },
+    {
+        "id": 663,
+        "product_dsc": "(I) (MD) NOVILHO COZER C/OSSO AT",
+        "product_short_dsc": "NOVILHO COZER",
+        "_20231226": 0.8730009409125473
+    },
+    {
+        "id": 667,
+        "product_dsc": "(A\u00c7) FRANGO FRICASSE 1KG CFA",
+        "product_short_dsc": "FRANGO FRICASSE",
+        "_20231226": 0.6848991818490184
+    },
+    {
+        "id": 671,
+        "product_dsc": "(A\u00c7) NOVILHO BIFE DO CORTADOR CFA",
+        "product_short_dsc": "NOV B.CORTADOR",
+        "_20231226": 0.8423951089790802
+    },
+    {
+        "id": 675,
+        "product_dsc": "(I) FRANGO INTEIRO V\u00c1CUO CONTINENTE LS",
+        "product_short_dsc": "FRANGO INT. V\u00c1C",
+        "_20231226": 0.8182641542786009
+    },
+    {
+        "id": 677,
+        "product_dsc": "MA\u00c7\u00c3 REINETA CNT CAL 65/70 EMB. KG",
+        "product_short_dsc": "MA\u00c7\u00c3 REINETA CN",
+        "_20231226": 0.7900307352112581
+    },
+    {
+        "id": 681,
+        "product_dsc": "MA\u00c7A FUJI CAL 65/75 1.5 KG ILHA",
+        "product_short_dsc": "MA\u00c7A FUJI",
+        "_20231226": 0.8651087290649437
+    },
+    {
+        "id": 684,
+        "product_dsc": "MA\u00c7\u00c3 GRANNY SMITH CAL.75/80 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 GRANNY SMI",
+        "_20231226": 0.7648188534711232
+    },
+    {
+        "id": 692,
+        "product_dsc": "ESPETADA DE LULA E CAMAR\u00c3O CDP KG LS",
+        "product_short_dsc": "ESPETADA LULA",
+        "_20231226": 0.8009574793763955
+    },
+    {
+        "id": 694,
+        "product_dsc": "P\u00caSSEGOS ROSA DO ALENTEJO A/AA CNT 600 G",
+        "product_short_dsc": "P\u00caSSEGOS ROSA D",
+        "_20231226": 0.8336234530479203
+    },
+    {
+        "id": 696,
+        "product_dsc": "FAR.TRIGO MOAGEM S/F TERCEIRENSE T65 1KG",
+        "product_short_dsc": "FAR M TERCEI",
+        "_20231226": 0.8308006137822178
+    },
+    {
+        "id": 697,
+        "product_dsc": "FRANGO INTEIRO CONTINENTE 2 UN - KG LS",
+        "product_short_dsc": "FRG INT 2 UN",
+        "_20231226": 0.857880933590106
+    },
+    {
+        "id": 698,
+        "product_dsc": "COUSCOUS DE GR\u00c3O SALUTEM 400G",
+        "product_short_dsc": "COUSCOUS DE GR\u00c3",
+        "_20231226": 0.8526759481756029
+    },
+    {
+        "id": 708,
+        "product_dsc": "ABACAXI FRACIONADO EMB. KG",
+        "product_short_dsc": "ABACAXI EMB. KG",
+        "_20231226": 0.7317224385823791
+    },
+    {
+        "id": 716,
+        "product_dsc": "LULA FRESCA KG",
+        "product_short_dsc": "LULA",
+        "_20231226": 0.5314778789193102
+    },
+    {
+        "id": 720,
+        "product_dsc": "PESSEGO PARAGUAYO CNT CAL.A KG",
+        "product_short_dsc": "PESSEGO PARAGUA",
+        "_20231226": 0.8047617148425269
+    },
+    {
+        "id": 723,
+        "product_dsc": "MORANGO SEABERRY 500 G",
+        "product_short_dsc": "MORANGO SEABERR",
+        "_20231226": 0.8507918709409941
+    },
+    {
+        "id": 734,
+        "product_dsc": "PLATERINA CNT CAL.A/AA KG",
+        "product_short_dsc": "PLATERINA",
+        "_20231226": 0.8877697714572426
+    },
+    {
+        "id": 738,
+        "product_dsc": "NOVILHO GANSO REDONDO ANGUS AT",
+        "product_short_dsc": "GANSO REDONDO N",
+        "_20231226": 0.7632460934613678
+    },
+    {
+        "id": 739,
+        "product_dsc": "LIMAO CAL.2/3/4/5 KG MSA (AZ)",
+        "product_short_dsc": "LIMAO KG",
+        "_20231226": 0.6292134477526973
+    },
+    {
+        "id": 740,
+        "product_dsc": "POTA DESCONGELADA KG",
+        "product_short_dsc": "POTA DESCONG",
+        "_20231226": 0.414841922460145
+    },
+    {
+        "id": 743,
+        "product_dsc": "PITAYA KG (AZ)",
+        "product_short_dsc": "PITAYA KG PITAY",
+        "_20231226": 0.8706175535907035
+    },
+    {
+        "id": 745,
+        "product_dsc": "UVA ROSADA/PRETA S/GR EXTRA DOCE 500 G",
+        "product_short_dsc": "UVA ROSADA",
+        "_20231226": 0.5532309225488911
+    },
+    {
+        "id": 746,
+        "product_dsc": "ABACATE REGIONAL KG",
+        "product_short_dsc": "ABACATE REGIONA",
+        "_20231226": 0.8565873404431
+    },
+    {
+        "id": 753,
+        "product_dsc": "MARACUJA AMARELO CNT KG",
+        "product_short_dsc": "MARACUJA AMAREL",
+        "_20231226": 0.8996468111712338
+    },
+    {
+        "id": 755,
+        "product_dsc": "FRANGO COXINHAS ATM SODIPRAVE",
+        "product_short_dsc": "FRG COXINHAS",
+        "_20231226": 0.8782283194102435
+    },
+    {
+        "id": 757,
+        "product_dsc": "PESCO\u00c7OS DE PERU CONTINENTE LS",
+        "product_short_dsc": "PESCO\u00c7OS PERU",
+        "_20231226": 0.8788715875494435
+    },
+    {
+        "id": 760,
+        "product_dsc": "A\u00c7\u00daCAR EM P\u00d3 SIDUL 500G",
+        "product_short_dsc": "A\u00c7\u00daCAR EM P\u00d3 SI",
+        "_20231226": 0.8227809932863162
+    },
+    {
+        "id": 767,
+        "product_dsc": "ALFONSIM A\u00c7ORES (-1500G)",
+        "product_short_dsc": "ALFONSIM",
+        "_20231226": 0.7917814779290034
+    },
+    {
+        "id": 772,
+        "product_dsc": "MORANGO EMB. 500G (ILHAS)",
+        "product_short_dsc": "MORANGO 500 GR",
+        "_20231226": 0.8642278047123754
+    },
+    {
+        "id": 774,
+        "product_dsc": "MOLHO BASE EXPRESS MAIZENA 250GR",
+        "product_short_dsc": "MOLHO MAIZENA",
+        "_20231226": 0.7730389362284051
+    },
+    {
+        "id": 780,
+        "product_dsc": "FAR. PREP.P/P\u00c3O BRIOCHE C/F B.NEVE 500GR",
+        "product_short_dsc": "FAR PREP P/BRI",
+        "_20231226": 0.8712955311879225
+    },
+    {
+        "id": 782,
+        "product_dsc": "NAVALHEIRAS COZ PAST 500G ERRIGAL",
+        "product_short_dsc": "NAVALHEIRA COZ",
+        "_20231226": 0.7175188210008656
+    },
+    {
+        "id": 786,
+        "product_dsc": "BANANA DAS CANARIAS KG",
+        "product_short_dsc": "BANANA CANARIAS",
+        "_20231226": 0.7605427247224597
+    },
+    {
+        "id": 790,
+        "product_dsc": "SALADA MAMAO 100 GR",
+        "product_short_dsc": "SALADA MAMAO",
+        "_20231226": 0.7668289986852624
+    },
+    {
+        "id": 793,
+        "product_dsc": "ARROZ E/L THAI JASMIN ORIENTE 1KG",
+        "product_short_dsc": "ARR TAY JASM 1",
+        "_20231226": 0.7090973505047018
+    },
+    {
+        "id": 798,
+        "product_dsc": "FARINHA T65 SEM FERMEN.\u00c9 CONTINENTE 1KG",
+        "product_short_dsc": "FAR E CONT S/F",
+        "_20231226": 0.8873457671076381
+    },
+    {
+        "id": 806,
+        "product_dsc": "(A\u00c7O) FRANGO PERNAS CONG. COSTA KG PM",
+        "product_short_dsc": "FR. PERNAS CONG",
+        "_20231226": 0.6437473932538349
+    },
+    {
+        "id": 808,
+        "product_dsc": "ATUM VOADOR LOMBO A\u00c7ORES KG",
+        "product_short_dsc": "ATUM VOADOR LOM",
+        "_20231226": 0.7506281900224749
+    },
+    {
+        "id": 809,
+        "product_dsc": "MA\u00c7A FUJI 75/80 KG (ILHAS)",
+        "product_short_dsc": "MA\u00c7\u00c3 FUJI",
+        "_20231226": 0.8324296075305146
+    },
+    {
+        "id": 811,
+        "product_dsc": "MASSA LINGUINE ALENTEJO NACIONAL 500G",
+        "product_short_dsc": "MASSA LINGUINE",
+        "_20231226": 0.8894096229197088
+    },
+    {
+        "id": 815,
+        "product_dsc": "LASANHA C/OVO DELVERDE 500G",
+        "product_short_dsc": "LASANH DELVERDE",
+        "_20231226": 0.8561996909438472
+    },
+    {
+        "id": 824,
+        "product_dsc": "SALM\u00c3O FILETE CONTINENTE 300G PM",
+        "product_short_dsc": "SALM\u00c3O FIL CNT",
+        "_20231226": 0.8955609208626992
+    },
+    {
+        "id": 825,
+        "product_dsc": "RIGATI CONT.EQUIL ERVILHA E MILHO 250G",
+        "product_short_dsc": "RIGATI 250G",
+        "_20231226": 0.7196729076684424
+    },
+    {
+        "id": 830,
+        "product_dsc": "TAGLIATELLE S/GL\u00daTEN SEITZ 500G",
+        "product_short_dsc": "TAGLIATELLE",
+        "_20231226": 0.6497318265395221
+    },
+    {
+        "id": 832,
+        "product_dsc": "FRANGO STROGONOFF A\u00c7ORAVES KG",
+        "product_short_dsc": "FRANGO STROGONO",
+        "_20231226": 0.8955455798840384
+    },
+    {
+        "id": 834,
+        "product_dsc": "(I) VITELA BRANCA POJADOURO COMPRA/AT",
+        "product_short_dsc": "POJ. VIT. BRANC",
+        "_20231226": 0.8942812625562118
+    },
+    {
+        "id": 841,
+        "product_dsc": "FRANGO COXAS CFA A\u00c7ORES",
+        "product_short_dsc": "FRANGO COXAS",
+        "_20231226": 0.7168189020559196
+    },
+    {
+        "id": 843,
+        "product_dsc": "CX FRUTAS E LEGUMES  ZER0%D",
+        "product_short_dsc": "CAIXA ZER0%D",
+        "_20231226": 0.49421055060236224
+    },
+    {
+        "id": 846,
+        "product_dsc": "POR\u00c7\u00c3O DE ATUM DESCONGELADO 120G",
+        "product_short_dsc": "POR\u00c7\u00c3O ATUM 120",
+        "_20231226": 0.7836835578533509
+    },
+    {
+        "id": 847,
+        "product_dsc": "FRAMBOESA DO ALGARVE MADREFRUTA 125GR",
+        "product_short_dsc": "FRAMBOESA DO AL",
+        "_20231226": 0.862967971551525
+    },
+    {
+        "id": 853,
+        "product_dsc": "CANJINHA DE GALINHA CONTINENTE LS",
+        "product_short_dsc": "CANJINHA GALINH",
+        "_20231226": 0.8290995984428339
+    },
+    {
+        "id": 858,
+        "product_dsc": "A\u00c7\u00daCAR MASCAVADO STICKS COLOMBO 500GR",
+        "product_short_dsc": "A\u00c7\u00daCAR MASCAVAD",
+        "_20231226": 0.8638488347254789
+    },
+    {
+        "id": 867,
+        "product_dsc": "VAZIA VITELA BRANCA COMPRA/AT",
+        "product_short_dsc": "VAZIA VIT. BRAN",
+        "_20231226": 0.8808642510935053
+    },
+    {
+        "id": 871,
+        "product_dsc": "ABACATE CNT KG",
+        "product_short_dsc": "ABACATE",
+        "_20231226": 0.6028829547268304
+    },
+    {
+        "id": 872,
+        "product_dsc": "TAPIOCA EXPRESS TIPIAK 250G",
+        "product_short_dsc": "TAPIOCA EXPRESS",
+        "_20231226": 0.8466537484358704
+    },
+    {
+        "id": 879,
+        "product_dsc": "ABACAXI SWEET FATIADO UN",
+        "product_short_dsc": "ABACAXI FATIADO",
+        "_20231226": 0.2544952660587925
+    },
+    {
+        "id": 883,
+        "product_dsc": "FRANGO MIUDEZAS ATM SODIPRAVE",
+        "product_short_dsc": "FRG MIUDEZAS",
+        "_20231226": 0.865994277676937
+    },
+    {
+        "id": 886,
+        "product_dsc": "FARINHA C\u00d4CO ORIGENS BIO 250G",
+        "product_short_dsc": "FARINHA C\u00d4CO",
+        "_20231226": 0.7112904192683546
+    },
+    {
+        "id": 889,
+        "product_dsc": "(A\u00c7) NOVILHO FIGADO FRESCO CFA KG",
+        "product_short_dsc": "NOV FIGADO",
+        "_20231226": 0.8979034337319565
+    },
+    {
+        "id": 890,
+        "product_dsc": "(A\u00c7) BIFE DE FRANGO AVIGEX",
+        "product_short_dsc": "(A\u00c7) BIFE DE FR",
+        "_20231226": 0.891242668923027
+    },
+    {
+        "id": 892,
+        "product_dsc": "(MAD) ATUM VENTRECHA KG",
+        "product_short_dsc": "ATUM VENTRECHA",
+        "_20231226": 0.8124900020918121
+    },
+    {
+        "id": 893,
+        "product_dsc": "SUMO MAMAO 0.5 LT",
+        "product_short_dsc": "SUMO MAMAO",
+        "_20231226": 0.6546979985150833
+    },
+    {
+        "id": 899,
+        "product_dsc": "AC\u00c9M COMPRIDO NOV ANGUS AT",
+        "product_short_dsc": "AC\u00c9M NOV ANGUS",
+        "_20231226": 0.4769885224205831
+    },
+    {
+        "id": 903,
+        "product_dsc": "LARANJA 75/90 KG",
+        "product_short_dsc": "LARANJA",
+        "_20231226": 0.4047411251495416
+    },
+    {
+        "id": 911,
+        "product_dsc": "A\u00c7UCAR COCO BIO CONTINENTE BIO 500G",
+        "product_short_dsc": "A\u00c7UCAR COCO",
+        "_20231226": 0.8741118964475423
+    },
+    {
+        "id": 915,
+        "product_dsc": "PENNE INTEGRAL RUMMO BIO 500G",
+        "product_short_dsc": "PENNE INT BIO",
+        "_20231226": 0.7200535069510705
+    },
+    {
+        "id": 917,
+        "product_dsc": "CHOCO ALGARVE FRESCO KG",
+        "product_short_dsc": "CHOCO ALGARVE",
+        "_20231226": 0.8536362479741468
+    },
+    {
+        "id": 919,
+        "product_dsc": "MELAO VERDE INTEIRO CNT KG",
+        "product_short_dsc": "MELAO VERDE",
+        "_20231226": 0.8326916126597714
+    },
+    {
+        "id": 921,
+        "product_dsc": "FARINHA TRIGO S/F CONT.POUPANCA T65 5KG",
+        "product_short_dsc": "FAR TRIG 5KG",
+        "_20231226": 0.6878403182086738
+    },
+    {
+        "id": 927,
+        "product_dsc": "ROBALO M\u00c9DIO (200-600G) KG",
+        "product_short_dsc": "ROBALO M\u00c9DIO",
+        "_20231226": 0.8506553038140742
+    },
+    {
+        "id": 928,
+        "product_dsc": "MELOA CANTALUPE  FRAC ILHAS CNT KG",
+        "product_short_dsc": "MELOA CANTALUPE",
+        "_20231226": 0.6264548058986428
+    },
+    {
+        "id": 931,
+        "product_dsc": "MORANGO PREMIUM LEYRE 400 G",
+        "product_short_dsc": "MORANGO LEYRE",
+        "_20231226": 0.8147250772235117
+    },
+    {
+        "id": 934,
+        "product_dsc": "MASSA RUMMO TRIPOLINE N\u00ba 81 500G",
+        "product_short_dsc": "MASSA RUMMO",
+        "_20231226": 0.7953390354950158
+    },
+    {
+        "id": 937,
+        "product_dsc": "SALADA ABA/MNG 300 GR",
+        "product_short_dsc": "SALADA 6",
+        "_20231226": 0.8162276240150856
+    },
+    {
+        "id": 940,
+        "product_dsc": "RISOTTO CONTINENTE 1KG",
+        "product_short_dsc": "ARR RIS CONT 1",
+        "_20231226": 0.7910268917446623
+    },
+    {
+        "id": 951,
+        "product_dsc": "ADO\u00c7ANTE EM P\u00d3 CONTINENTE 90G",
+        "product_short_dsc": "EDUL CNT PO90G",
+        "_20231226": 0.6959084447191705
+    },
+    {
+        "id": 954,
+        "product_dsc": "CEREJA KG CAL. 22 + KG (AZ)",
+        "product_short_dsc": "CEREJA KG",
+        "_20231226": 0.7100263112987176
+    },
+    {
+        "id": 960,
+        "product_dsc": "ABACAXI FRACIONADO KG",
+        "product_short_dsc": "ABACAXI FRACION",
+        "_20231226": 0.8942168739287235
+    },
+    {
+        "id": 962,
+        "product_dsc": "MASSA FUSILLI CONTINENTE ITALIA 500G",
+        "product_short_dsc": "MASS FUSILLI",
+        "_20231226": 0.6841929967674191
+    },
+    {
+        "id": 965,
+        "product_dsc": "MA\u00c7\u00c3 BRAVO ESMOLFE CNT 55/65 EMB. 800 G",
+        "product_short_dsc": "MA\u00c7\u00c3 BRAVO EC C",
+        "_20231226": 0.5151619065964786
+    },
+    {
+        "id": 966,
+        "product_dsc": "MELOA CANTALUPE/CHARENTAIS INTEIR CNT KG",
+        "product_short_dsc": "MELOA CANTALUPE",
+        "_20231226": 0.7213789932412976
+    },
+    {
+        "id": 978,
+        "product_dsc": "TIRAS DE POTA DESCONGELADAS KG",
+        "product_short_dsc": "TIRAS POTAS DES",
+        "_20231226": 0.8683970377008442
+    },
+    {
+        "id": 979,
+        "product_dsc": "ABROTEA (DA COSTA) +800G",
+        "product_short_dsc": "ABROTEA",
+        "_20231226": 0.5595134168398272
+    },
+    {
+        "id": 985,
+        "product_dsc": "NOVILHO COZER 3\u00aa A\u00c7",
+        "product_short_dsc": "NOV COZER 3\u00aa",
+        "_20231226": 0.8255539408389118
+    },
+    {
+        "id": 993,
+        "product_dsc": "NOVILHO JARDINEIRA 2\u00ba ATM LS CFA",
+        "product_short_dsc": "NOVILHO JARDINE",
+        "_20231226": 0.8285916406592237
+    },
+    {
+        "id": 999,
+        "product_dsc": "FEIJ\u00c3O PRETO SEARA BIO 500G",
+        "product_short_dsc": "FEIJ\u00c3O PRETO",
+        "_20231226": 0.8682031419527927
+    },
+    {
+        "id": 1006,
+        "product_dsc": "CORVINA SELVAGEM GRANDE POSTA",
+        "product_short_dsc": "CORVINA SELVAGE",
+        "_20231226": 0.7204232300532782
+    },
+    {
+        "id": 1007,
+        "product_dsc": "NOVILHO CACHA\u00c7O INTEIRO (BALC\u00c3O) A\u00c7ORES",
+        "product_short_dsc": "NOV.CACHA\u00c7O INT",
+        "_20231226": 0.48148312678040855
+    },
+    {
+        "id": 1009,
+        "product_dsc": "AMEIXA PRETA/VERMELHA CAL 45/50 500 G",
+        "product_short_dsc": "AMEIXA 500 G",
+        "_20231226": 0.8601010462320535
+    },
+    {
+        "id": 1012,
+        "product_dsc": "TRIGO-SARRACENO EM GR\u00c3O CEMPORC 500G",
+        "product_short_dsc": "TRIGO-SARRACENO",
+        "_20231226": 0.8960127401900442
+    },
+    {
+        "id": 1016,
+        "product_dsc": "PESSEGO VERMELHO CAL. A/AA/AAA CNT KG",
+        "product_short_dsc": "PESSEGO VERMELH",
+        "_20231226": 0.8204846764354012
+    },
+    {
+        "id": 1020,
+        "product_dsc": "ABR\u00d3TEA M\u00c9DIA A\u00c7ORES (-1.700G)",
+        "product_short_dsc": "ABR\u00d3TEA M\u00c9DIA",
+        "_20231226": 0.8376418450827042
+    },
+    {
+        "id": 1029,
+        "product_dsc": "SALADA MEL\u00c3O 300 G",
+        "product_short_dsc": "SALADA MEL\u00c3O 30",
+        "_20231226": 0.7758215399756065
+    },
+    {
+        "id": 1030,
+        "product_dsc": "KIWI 25/30 CNT KG",
+        "product_short_dsc": "KIWI",
+        "_20231226": 0.8438883566954158
+    },
+    {
+        "id": 1033,
+        "product_dsc": "MELAO BRANCO (CX) (AZ)",
+        "product_short_dsc": "MELAO BRANCO",
+        "_20231226": 0.6252477997775462
+    },
+    {
+        "id": 1034,
+        "product_dsc": "NOVILHO RABADILHA ANGUS AT",
+        "product_short_dsc": "RABADILHA ANGUS",
+        "_20231226": 0.8765143246875933
+    },
+    {
+        "id": 1039,
+        "product_dsc": "PAPAIA DE AVI\u00c3O FRACIONADA KG ILHAS",
+        "product_short_dsc": "PAPAIA AVI\u00c3O FR",
+        "_20231226": 0.826803024357841
+    },
+    {
+        "id": 1040,
+        "product_dsc": "PITAYA AMARELA INTEIRA CNT KG",
+        "product_short_dsc": "PITAYA AMARELA",
+        "_20231226": 0.8159385384524194
+    },
+    {
+        "id": 1044,
+        "product_dsc": "SALADA MELANCIA RISCADA 700 GR",
+        "product_short_dsc": "SAL MELANC RISC",
+        "_20231226": 0.8893654789240801
+    },
+    {
+        "id": 1047,
+        "product_dsc": "FARINHA AVEIA S/ GL\u00daTEN CEM PORC 400G",
+        "product_short_dsc": "FAR AVEI 0,4KG",
+        "_20231226": 0.897077690698035
+    },
+    {
+        "id": 1049,
+        "product_dsc": "ARROZ THAI SALUDAES 500 GR",
+        "product_short_dsc": "ARROZ THAI 500G",
+        "_20231226": 0.5868605754262259
+    },
+    {
+        "id": 1051,
+        "product_dsc": "(A\u00c7) NOV. EST. CHAMB. S/OSSO ANGUS AT KG",
+        "product_short_dsc": "NOV. EST. CHAMB",
+        "_20231226": 0.5922361890715814
+    },
+    {
+        "id": 1054,
+        "product_dsc": "FIGO KG (AZ)",
+        "product_short_dsc": "FIGO KG",
+        "_20231226": 0.6060318455332522
+    },
+    {
+        "id": 1058,
+        "product_dsc": "SAPATEIRA A\u00c7ORES KG",
+        "product_short_dsc": "SAPATEIRA A\u00c7OR.",
+        "_20231226": 0.86386921052012
+    },
+    {
+        "id": 1062,
+        "product_dsc": "FRANGO FIGADOS SODIPRAVE (AT)",
+        "product_short_dsc": "FRG F\u00cdGADOS AT",
+        "_20231226": 0.8823283588865806
+    },
+    {
+        "id": 1064,
+        "product_dsc": "UVA BRANCA IMPORTADA KG (AZ)",
+        "product_short_dsc": "UVA BRANCA IMP",
+        "_20231226": 0.777628689552175
+    },
+    {
+        "id": 1071,
+        "product_dsc": "PAPAIA DE AVI\u00c3O FRACIONADA CNT KG",
+        "product_short_dsc": "PAPAIA FRACIONA",
+        "_20231226": 0.3617208266624623
+    },
+    {
+        "id": 1073,
+        "product_dsc": "MASSA TAGLIATELLE DELVERDE SELECT 500G",
+        "product_short_dsc": "MASSA 500G",
+        "_20231226": 0.7217328770785023
+    },
+    {
+        "id": 1083,
+        "product_dsc": "(MD) PERU BIFE - AT",
+        "product_short_dsc": "PERU BIFE AT",
+        "_20231226": 0.49132047246518457
+    },
+    {
+        "id": 1084,
+        "product_dsc": "FUSILI TRICOLOR CONTINENTE 500GR",
+        "product_short_dsc": "FUSILI TRICOLOR",
+        "_20231226": 0.7575031827962803
+    },
+    {
+        "id": 1087,
+        "product_dsc": "FAROFA SABOR BACON 250G",
+        "product_short_dsc": "FAROFA BACON",
+        "_20231226": 0.7422938986774831
+    },
+    {
+        "id": 1090,
+        "product_dsc": "MAS.ESPIRAIS MILANEZA 500GR",
+        "product_short_dsc": "ESPIR MILANEZA",
+        "_20231226": 0.8237759441289091
+    },
+    {
+        "id": 1094,
+        "product_dsc": "BIFE ATUM DESCONGELADO EMB 200GR - FRIME",
+        "product_short_dsc": "BIF ATUM 200 FR",
+        "_20231226": 0.825626543711121
+    },
+    {
+        "id": 1100,
+        "product_dsc": "PERA MORETTINI CNT 60/75 KG",
+        "product_short_dsc": "PERA MORETTINI",
+        "_20231226": 0.8440373738213919
+    },
+    {
+        "id": 1101,
+        "product_dsc": "NOODLES BLUE DRAGON INTEGRAIS 300G",
+        "product_short_dsc": "NOODLES 300G",
+        "_20231226": 0.8441968586210189
+    },
+    {
+        "id": 1102,
+        "product_dsc": "A\u00c7UCAR COLOMBO PAPEL 1K",
+        "product_short_dsc": "A\u00c7UCAR COLOMBO",
+        "_20231226": 0.88728187546054
+    },
+    {
+        "id": 1105,
+        "product_dsc": "MS SARDINHA GRANDE FRESCA KG",
+        "product_short_dsc": "MS SARDINHA GRA",
+        "_20231226": 0.8747991181776956
+    },
+    {
+        "id": 1106,
+        "product_dsc": "(A\u00c7O) PERU PERNA C/ COXA (BALC\u00c3O) KG",
+        "product_short_dsc": "PERU PERNA C/CO",
+        "_20231226": 0.8443438295644325
+    },
+    {
+        "id": 1116,
+        "product_dsc": "VITELA AROUQUESA BIFE LOMBO - AT",
+        "product_short_dsc": "VIT.AROUQ.LOMBO",
+        "_20231226": 0.8597423925692909
+    },
+    {
+        "id": 1119,
+        "product_dsc": "FRAMBOESA BEIRABAGA 200 G",
+        "product_short_dsc": "FRAMBOESA 200 G",
+        "_20231226": 0.8787219675555792
+    },
+    {
+        "id": 1123,
+        "product_dsc": "TAGLIATELLE NIDO C/OVO NR91 DELVERDE250G",
+        "product_short_dsc": "MASS TGLI 0,250",
+        "_20231226": 0.6921894838511075
+    },
+    {
+        "id": 1127,
+        "product_dsc": "MELANCIA MINI INTEIRA CNT KG",
+        "product_short_dsc": "MELANCIA MINI",
+        "_20231226": 0.6988461834955565
+    },
+    {
+        "id": 1135,
+        "product_dsc": "FARINHA TRIGO INT.BIOGICA SEARA 500GR",
+        "product_short_dsc": "FAR.TRIGO INT.",
+        "_20231226": 0.8691383339547292
+    },
+    {
+        "id": 1145,
+        "product_dsc": "CLEMENTINA NACIONAL CAL 50/60 1KG",
+        "product_short_dsc": "CLEMENTINA 1 KG",
+        "_20231226": 0.7083559931660688
+    },
+    {
+        "id": 1148,
+        "product_dsc": "(I) VITELA MINHOTA BIFE P\u00c1/AC\u00c9M SKP",
+        "product_short_dsc": "V. MINHOTA P\u00c1/A",
+        "_20231226": 0.8961048347671953
+    },
+    {
+        "id": 1155,
+        "product_dsc": "MEL\u00c3O AMARELO INTEIRO CNT KG ILHAS",
+        "product_short_dsc": "MEL\u00c3O AMARELO",
+        "_20231226": 0.7553742709624514
+    },
+    {
+        "id": 1156,
+        "product_dsc": "(SZ) BOVINO VAZIA AMER SUL SKIN 200GR LS",
+        "product_short_dsc": "BOVINO VAZIA AM",
+        "_20231226": 0.7948332174754393
+    },
+    {
+        "id": 1159,
+        "product_dsc": "(A\u00c7) NOVILHO ASSAR ANGUS (BALC\u00c3O) KG",
+        "product_short_dsc": "ANGUS ASSAR",
+        "_20231226": 0.8343021203466547
+    },
+    {
+        "id": 1161,
+        "product_dsc": "TOFU NATURAL UHT ORIGENS BIO 300G",
+        "product_short_dsc": "TOFU NAT UHT 30",
+        "_20231226": 0.686744573942268
+    },
+    {
+        "id": 1168,
+        "product_dsc": "MACA GOLDEN CAL. 65/75 1.5 KG IMP",
+        "product_short_dsc": "MA\u00c7\u00c3 GOLDEN CNT",
+        "_20231226": 0.8742844805764953
+    },
+    {
+        "id": 1173,
+        "product_dsc": "UVA BRANCA S/ GRAINHA EXTRA DOCE 500 G",
+        "product_short_dsc": "UVA BRANCA SEM",
+        "_20231226": 0.8676793207380041
+    },
+    {
+        "id": 1184,
+        "product_dsc": "BESUGO KG",
+        "product_short_dsc": "BESUGO",
+        "_20231226": 0.7833878432606695
+    },
+    {
+        "id": 1188,
+        "product_dsc": "TENT\u00c1CULOS POLVO COZ COMPESCA 250G",
+        "product_short_dsc": "TENT\u00c1CULO POLVO",
+        "_20231226": 0.8524824562134886
+    },
+    {
+        "id": 1196,
+        "product_dsc": "PERCA DO NILO",
+        "product_short_dsc": "PERCA DO NILO",
+        "_20231226": 0.5459457921363814
+    },
+    {
+        "id": 1210,
+        "product_dsc": "MA\u00c7\u00c3 PINK LADY CAL.70+ KG (AZ)",
+        "product_short_dsc": "MA\u00c7\u00c3 PINK LADY",
+        "_20231226": 0.8463361485944462
+    },
+    {
+        "id": 1215,
+        "product_dsc": "SALEMA ALGARVE FRESCA KG",
+        "product_short_dsc": "SALEMA ALGARVE",
+        "_20231226": 0.5555362758230227
+    },
+    {
+        "id": 1218,
+        "product_dsc": "PESSEGO VERMELHO CNT CAL. B 500 G",
+        "product_short_dsc": "PESSEGO CNT 500",
+        "_20231226": 0.811752593077846
+    },
+    {
+        "id": 1219,
+        "product_dsc": "PITAYA AMARELA KG ILHAS",
+        "product_short_dsc": "PITAYA AMARELA",
+        "_20231226": 0.858482755538266
+    },
+    {
+        "id": 1223,
+        "product_dsc": "MASSA COTOVELO VINCADO INSULAR 500G",
+        "product_short_dsc": "COTOV.INSULAR",
+        "_20231226": 0.8975333842401637
+    },
+    {
+        "id": 1225,
+        "product_dsc": "MIRTILO EMB 125 GR A\u00c7",
+        "product_short_dsc": "MIRTILO EMB 125",
+        "_20231226": 0.610605650730414
+    },
+    {
+        "id": 1226,
+        "product_dsc": "ACUCAR ICING SUGAR SIDUL 250GR",
+        "product_short_dsc": "A\u00c7\u00daC SD IS250G",
+        "_20231226": 0.8993280651776743
+    },
+    {
+        "id": 1228,
+        "product_dsc": "BURGUER DE ATUM 2X85G",
+        "product_short_dsc": "BURGUER DE ATUM",
+        "_20231226": 0.879641702523587
+    },
+    {
+        "id": 1234,
+        "product_dsc": "SALMONETE (DA COSTA)",
+        "product_short_dsc": "SALMONETE",
+        "_20231226": 0.5156139245635514
+    },
+    {
+        "id": 1235,
+        "product_dsc": "BERBIG\u00c3O EXTRA",
+        "product_short_dsc": "BERB EXTRA",
+        "_20231226": 0.6807414989623399
+    },
+    {
+        "id": 1236,
+        "product_dsc": "DOURADA DO ALTO MAR (0.6 A 1.2 KG)",
+        "product_short_dsc": "DOURADA ALTO MA",
+        "_20231226": 0.7729976780181526
+    },
+    {
+        "id": 1252,
+        "product_dsc": "ARROZ COMUM LONGO \u00c9 CONTINENTE 1KG",
+        "product_short_dsc": "ARROZ COMUM LON",
+        "_20231226": 0.8489674498874881
+    },
+    {
+        "id": 1257,
+        "product_dsc": "MA\u00c7\u00c2 GALA CNT 60/75 1 KG IMP",
+        "product_short_dsc": "MA\u00c7\u00c2 GALA 60/75",
+        "_20231226": 0.8062399594952863
+    },
+    {
+        "id": 1265,
+        "product_dsc": "FAROFA MANDIOCA TEMPERADA YOKI 500G",
+        "product_short_dsc": "FAROFA 500G",
+        "_20231226": 0.8095753048085359
+    },
+    {
+        "id": 1279,
+        "product_dsc": "VITELA AROUQUESA COSTELETAS - AT",
+        "product_short_dsc": "VIT.AROUQ.COST.",
+        "_20231226": 0.7285518160855159
+    },
+    {
+        "id": 1282,
+        "product_dsc": "FAR.TRIGO S/F CONTINENTE T65 5KG",
+        "product_short_dsc": "FAR CONTI T65",
+        "_20231226": 0.8529556167979441
+    },
+    {
+        "id": 1284,
+        "product_dsc": "NECTARINA CNT CAL A/AA KG",
+        "product_short_dsc": "NECTARINA",
+        "_20231226": 0.8867609247382008
+    },
+    {
+        "id": 1285,
+        "product_dsc": "(A\u00c7) MA\u00c7\u00c3 GOLDEN ROSADA CAL. 75/85 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 GOLDEN ROS",
+        "_20231226": 0.8283732802323482
+    },
+    {
+        "id": 1297,
+        "product_dsc": "FARINHA DE ARROZ INT. BIO SEARA 500GR",
+        "product_short_dsc": "FAR.ARROZ 500G",
+        "_20231226": 0.8625287412238449
+    },
+    {
+        "id": 1302,
+        "product_dsc": "MAS.COTOVEL.GROSSOS MILANEZA 500GR",
+        "product_short_dsc": "COTOVEL G MIL",
+        "_20231226": 0.8648569512873557
+    },
+    {
+        "id": 1304,
+        "product_dsc": "MELANCIA MINI FRACIONADA CNT KG",
+        "product_short_dsc": "MELANCIA MINI F",
+        "_20231226": 0.7569521542571003
+    },
+    {
+        "id": 1307,
+        "product_dsc": "MAM\u00c3O REGIONAL FRAC KG",
+        "product_short_dsc": "MAM\u00c3O REGIONAL",
+        "_20231226": 0.827106311465363
+    },
+    {
+        "id": 1310,
+        "product_dsc": "(MD) NOVILHO RABADILHA AT",
+        "product_short_dsc": "(MD) NOVILHO RA",
+        "_20231226": 0.8278291720873018
+    },
+    {
+        "id": 1320,
+        "product_dsc": "ARROZ BASMATI SALUD\u00c3ES 1KG",
+        "product_short_dsc": "ARR BAS SALU 1",
+        "_20231226": 0.8508964443554913
+    },
+    {
+        "id": 1323,
+        "product_dsc": "UVA RED GLOBE KG ILHAS",
+        "product_short_dsc": "UVA RED GLOBE",
+        "_20231226": 0.5835549832983774
+    },
+    {
+        "id": 1324,
+        "product_dsc": "TENT\u00c1CULOS POTA COZIDO CONTINENTE 200G",
+        "product_short_dsc": "TENT POTA CONT",
+        "_20231226": 0.8101889282795551
+    },
+    {
+        "id": 1329,
+        "product_dsc": "FRAMBOESA R0 CNT 150 G",
+        "product_short_dsc": "FRAMBOESA R0",
+        "_20231226": 0.865709341829406
+    },
+    {
+        "id": 1332,
+        "product_dsc": "AMEIXA VERMELHA REGIONAL",
+        "product_short_dsc": "AMEIXA VERMEL.",
+        "_20231226": 0.7739611240637934
+    },
+    {
+        "id": 1333,
+        "product_dsc": "P\u00c1 NOV. ANGUS AT",
+        "product_short_dsc": "P\u00c1 NOV. ANGUS",
+        "_20231226": 0.8771831396145973
+    },
+    {
+        "id": 1341,
+        "product_dsc": "PITAYA VERMELHA CNT KG",
+        "product_short_dsc": "PITAYA VERMELHA",
+        "_20231226": 0.8037544663171655
+    },
+    {
+        "id": 1346,
+        "product_dsc": "MISTURA PARA P\u00c3O DE QUEIJO GLOBO 500G",
+        "product_short_dsc": "M P\u00c3O QJO GLOBO",
+        "_20231226": 0.852463937131567
+    },
+    {
+        "id": 1359,
+        "product_dsc": "LIMAO CAL.60/75 KG (ILHAS)",
+        "product_short_dsc": "LIM\u00c3O",
+        "_20231226": 0.40022642352118876
+    },
+    {
+        "id": 1363,
+        "product_dsc": "SALM\u00c3O FILETE LOJA",
+        "product_short_dsc": "SALMAO FILETE L",
+        "_20231226": 0.7812583446067697
+    },
+    {
+        "id": 1365,
+        "product_dsc": "FLOCOS BATATA CONTINENTE 500G",
+        "product_short_dsc": "FL BAT 500G",
+        "_20231226": 0.8376834391134443
+    },
+    {
+        "id": 1374,
+        "product_dsc": "LENT VERM SPO DALLA COSTA BIO S/GL\u00da 250G",
+        "product_short_dsc": "LENT VERM SPORT",
+        "_20231226": 0.5671243447035818
+    },
+    {
+        "id": 1377,
+        "product_dsc": "ALPERCE VERMELHO CNT 35/45 500 G",
+        "product_short_dsc": "ALPERCE VERMELH",
+        "_20231226": 0.44697912668453854
+    },
+    {
+        "id": 1378,
+        "product_dsc": "MASSA BUCATINI GAROFALO 500GRS",
+        "product_short_dsc": "MASSA BUCATINI",
+        "_20231226": 0.652588944162171
+    },
+    {
+        "id": 1387,
+        "product_dsc": "MELOA REGIONAL GRACIOSA KG",
+        "product_short_dsc": "MELOA GRACIOSA",
+        "_20231226": 0.7304239050806408
+    },
+    {
+        "id": 1390,
+        "product_dsc": "SPAGHETTINI DELVERDE 500G",
+        "product_short_dsc": "SPAGHET BUITONI",
+        "_20231226": 0.8979903121442384
+    },
+    {
+        "id": 1391,
+        "product_dsc": "ANANAS A\u00c7ORES CNT KG MD",
+        "product_short_dsc": "ANANAS A\u00c7ORES",
+        "_20231226": 0.711649138940417
+    },
+    {
+        "id": 1392,
+        "product_dsc": "ARROZ CAROLINO CONTINENTE 5KG",
+        "product_short_dsc": "ARR CAR CONTI",
+        "_20231226": 0.8914651713764234
+    },
+    {
+        "id": 1395,
+        "product_dsc": "SALM\u00c3O POSTA ASC ISL\u00c2NDIA FRESCO KG",
+        "product_short_dsc": "SALMAO POST ASC",
+        "_20231226": 0.7628911759742057
+    },
+    {
+        "id": 1401,
+        "product_dsc": "METADE DE COELHO EM POR\u00c7\u00d5ES LS",
+        "product_short_dsc": "METADE COELHO",
+        "_20231226": 0.8289862357808819
+    },
+    {
+        "id": 1404,
+        "product_dsc": "ARROZ AGULHA SELECIONADO CNT 1KG",
+        "product_short_dsc": "ARR AGUL SELE",
+        "_20231226": 0.6251012451973398
+    },
+    {
+        "id": 1406,
+        "product_dsc": "MA\u00c7\u00c3 REINETA ALCOBA\u00c7A IGP R0 70/80 1 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 REINETA R0",
+        "_20231226": 0.8473679230016654
+    },
+    {
+        "id": 1413,
+        "product_dsc": "MASSA ESPARGUETE C/VEGETAIS INSULAR 500G",
+        "product_short_dsc": "MASSA ESPARGUET",
+        "_20231226": 0.7957105544008535
+    },
+    {
+        "id": 1420,
+        "product_dsc": "M\u00c3O VITELA S/ OSSO CONG CNT KG",
+        "product_short_dsc": "M\u00c3O VITELA S/ O",
+        "_20231226": 0.8896664245584451
+    },
+    {
+        "id": 1421,
+        "product_dsc": "CARAPAU PEQ",
+        "product_short_dsc": "CARAPAU PEQUENO",
+        "_20231226": 0.7069515447027
+    },
+    {
+        "id": 1422,
+        "product_dsc": "CAVALA ALGARVE FRESCA KG",
+        "product_short_dsc": "CAVALA ARGARVE",
+        "_20231226": 0.3809009765244561
+    },
+    {
+        "id": 1424,
+        "product_dsc": "VAZIA NOV. LIMOUSINE AT",
+        "product_short_dsc": "VAZIA NOV LIMOU",
+        "_20231226": 0.7578753997756117
+    },
+    {
+        "id": 1434,
+        "product_dsc": "MA\u00c7\u00c3 GALA ALCOBA\u00c7A IGP R0 70/80 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 GALA ALCOB",
+        "_20231226": 0.8435438981028799
+    },
+    {
+        "id": 1439,
+        "product_dsc": "MASSA PARAFUSOS C/VEGETAIS INSULAR 500GR",
+        "product_short_dsc": "MASSA PARAFUSOS",
+        "_20231226": 0.7530297859960049
+    },
+    {
+        "id": 1444,
+        "product_dsc": "PESSEGO CAL.A/AA/AAA KG (AZ)",
+        "product_short_dsc": "PESSEGO KG",
+        "_20231226": 0.751166776823297
+    },
+    {
+        "id": 1445,
+        "product_dsc": "MASSA MEZZE PENNE TRIC.BARILLA 500GR",
+        "product_short_dsc": "PENNE TRIC",
+        "_20231226": 0.8530173186697025
+    },
+    {
+        "id": 1448,
+        "product_dsc": "CARAPAU PEQUENO ALGARVE",
+        "product_short_dsc": "CARAPAU PEQUENO",
+        "_20231226": 0.46381777980081323
+    },
+    {
+        "id": 1454,
+        "product_dsc": "CUSCUS CONTINENTE 250GR",
+        "product_short_dsc": "CUSC CONTINENT",
+        "_20231226": 0.8501637381720858
+    },
+    {
+        "id": 1456,
+        "product_dsc": "MELOA GALIA BRASIL FRAC CNT KG",
+        "product_short_dsc": "MELOA GALIA FRA",
+        "_20231226": 0.771822493020191
+    },
+    {
+        "id": 1457,
+        "product_dsc": "GRANADILHA NATIVA 200G",
+        "product_short_dsc": "GRANADILHA NATI",
+        "_20231226": 0.776602237333722
+    },
+    {
+        "id": 1461,
+        "product_dsc": "LIM\u00c3O ECONOMICO 1.5 KG",
+        "product_short_dsc": "LIM\u00c3O ECON",
+        "_20231226": 0.8038051916955737
+    },
+    {
+        "id": 1462,
+        "product_dsc": "FIGO FRESCO NATIVA 150 G",
+        "product_short_dsc": "FIGO FRESCO NAT",
+        "_20231226": 0.7772324375827127
+    },
+    {
+        "id": 1466,
+        "product_dsc": "ABACAXI SUPER SWEET FR KG",
+        "product_short_dsc": "ABAC SUP SWE FR",
+        "_20231226": 0.8860468777553551
+    },
+    {
+        "id": 1478,
+        "product_dsc": "PARGO POSTA",
+        "product_short_dsc": "PARGO POSTA",
+        "_20231226": 0.8823163322216451
+    },
+    {
+        "id": 1484,
+        "product_dsc": "MAS.MACARR.MEDIO MOACOR 500GR",
+        "product_short_dsc": "MACARR MOACOR",
+        "_20231226": 0.6124023908576733
+    },
+    {
+        "id": 1486,
+        "product_dsc": "NECTARINA CNT CAL 65/80 KG (ILHAS)",
+        "product_short_dsc": "NECTARINA",
+        "_20231226": 0.6645301591127376
+    },
+    {
+        "id": 1487,
+        "product_dsc": "CARAPAU NEGRAO ALGARVE",
+        "product_short_dsc": "CARAPAU NEGRAO",
+        "_20231226": 0.7961766903861368
+    },
+    {
+        "id": 1488,
+        "product_dsc": "MASSA FETTUCCE RICCE LAMOLISANA 500GR",
+        "product_short_dsc": "MASSA FETTUCCE",
+        "_20231226": 0.6179555960177744
+    },
+    {
+        "id": 1489,
+        "product_dsc": "MAS.LETRAS MILANEZA 250GR",
+        "product_short_dsc": "MASSA MILANEZA",
+        "_20231226": 0.7287888940959125
+    },
+    {
+        "id": 1494,
+        "product_dsc": "MAS.LETRAS CONTINENTE 250GR",
+        "product_short_dsc": "LETRAS CONTINEN",
+        "_20231226": 0.7023144248847835
+    },
+    {
+        "id": 1496,
+        "product_dsc": "TOFU BIOLOGICO SEARA 220GR",
+        "product_short_dsc": "TOFU BIOLOGICO",
+        "_20231226": 0.7298262690517509
+    },
+    {
+        "id": 1510,
+        "product_dsc": "(A\u00c7O) FRANGO METADES CONG SUINIPICO",
+        "product_short_dsc": "FRANGO METADES",
+        "_20231226": 0.6069129911204574
+    },
+    {
+        "id": 1511,
+        "product_dsc": "ARROZ EXTRA LONGO BRANQUEADO ORIENTE 1KG",
+        "product_short_dsc": "ARR E L ORIENTE",
+        "_20231226": 0.5127573711598507
+    },
+    {
+        "id": 1515,
+        "product_dsc": "MASSA L\u00cdRIOS TRICOLOR MILANEZA 500G",
+        "product_short_dsc": "MASSA L\u00cdRIOS TR",
+        "_20231226": 0.8404090555634068
+    },
+    {
+        "id": 1517,
+        "product_dsc": "PICOTAS CNT EMB. 500 G",
+        "product_short_dsc": "PICOTAS CNT EMB",
+        "_20231226": 0.406621433038873
+    },
+    {
+        "id": 1519,
+        "product_dsc": "DOURADA DA COSTA DO ALGARVE (200-600G)KG",
+        "product_short_dsc": "DOUR AL200-600",
+        "_20231226": 0.5930891117863722
+    },
+    {
+        "id": 1520,
+        "product_dsc": "MELOA GALIA FRACIONADA CNT KG",
+        "product_short_dsc": "MELOA GALIA FRA",
+        "_20231226": 0.8352761533871487
+    },
+    {
+        "id": 1528,
+        "product_dsc": "FILETES DE ROBALO 120G",
+        "product_short_dsc": "FILETES ROBALO",
+        "_20231226": 0.659868987344236
+    },
+    {
+        "id": 1547,
+        "product_dsc": "MA\u00c7\u00c3 ROYAL GALA BEIR\u00c3 55/65 800 G",
+        "product_short_dsc": "MA\u00c7\u00c3 ROYAL GALA",
+        "_20231226": 0.8874347728515652
+    },
+    {
+        "id": 1557,
+        "product_dsc": "FAR.TRIGO INSULAR T55 1KG",
+        "product_short_dsc": "FAR INSU T 55",
+        "_20231226": 0.8495142571344959
+    },
+    {
+        "id": 1568,
+        "product_dsc": "MA\u00c7A FUJI CAL 65/75 CNT EMB. KG",
+        "product_short_dsc": "MA\u00c7A FUJI CAL 6",
+        "_20231226": 0.8648684130498171
+    },
+    {
+        "id": 1569,
+        "product_dsc": "CHERNE DA COSTA POSTA",
+        "product_short_dsc": "CHERNE POST",
+        "_20231226": 0.8137058241766497
+    },
+    {
+        "id": 1570,
+        "product_dsc": "TAMARINDO CV 150GR (AZ)",
+        "product_short_dsc": "TAMARINDO CV 15",
+        "_20231226": 0.8070019104350041
+    },
+    {
+        "id": 1571,
+        "product_dsc": "NOODLES UDON JAPON\u00caS SAU TAO 600G",
+        "product_short_dsc": "NOODLES 600G",
+        "_20231226": 0.7802149034615298
+    },
+    {
+        "id": 1575,
+        "product_dsc": "MAS SPAGHETTI CONT.SELE\u00c7\u00c3O ITALIA 500G",
+        "product_short_dsc": "MASS SPAGHETTI",
+        "_20231226": 0.899351936635401
+    },
+    {
+        "id": 1580,
+        "product_dsc": "MASSA DISNEY MICKEY DALLA COSTA BIO 300G",
+        "product_short_dsc": "MASS TRIC DISNE",
+        "_20231226": 0.8512354880388951
+    },
+    {
+        "id": 1591,
+        "product_dsc": "FEIJ\u00c3O BRANCO MEPS 500G",
+        "product_short_dsc": "FEIJ\u00c3O 500G",
+        "_20231226": 0.869964207144266
+    },
+    {
+        "id": 1600,
+        "product_dsc": "ARROZ VAPORIZADO ORIENTE 1KG",
+        "product_short_dsc": "ARR VAP 1KG",
+        "_20231226": 0.8814668068318092
+    },
+    {
+        "id": 1609,
+        "product_dsc": "MASSA FARFALLE LA MOLISANA 500GR",
+        "product_short_dsc": "MASSA FARFALLE",
+        "_20231226": 0.7439149629926938
+    },
+    {
+        "id": 1615,
+        "product_dsc": "JARDINEIRA DE PERU CONTINENTE LS",
+        "product_short_dsc": "JARDINEIRA PERU",
+        "_20231226": 0.8786414204955947
+    },
+    {
+        "id": 1618,
+        "product_dsc": "MAS.ENTREFINA INSULAR 1KG",
+        "product_short_dsc": "MASSA INSULAR",
+        "_20231226": 0.7483463881695714
+    },
+    {
+        "id": 1619,
+        "product_dsc": "MARMELO KG (AZ)",
+        "product_short_dsc": "MARMELO",
+        "_20231226": 0.6067920411495736
+    },
+    {
+        "id": 1622,
+        "product_dsc": "CHICHARRO NEGRAO",
+        "product_short_dsc": "CHICHARRO NEGR\u00c3",
+        "_20231226": 0.553045243065309
+    },
+    {
+        "id": 1624,
+        "product_dsc": "ATUM CABE\u00c7A MSC KG",
+        "product_short_dsc": "ATUM CABE\u00c7A MSC",
+        "_20231226": 0.8930967369672387
+    },
+    {
+        "id": 1631,
+        "product_dsc": "SEITAN VEG IN 250G",
+        "product_short_dsc": "SEITAN VEG IN 2",
+        "_20231226": 0.5727570056033815
+    },
+    {
+        "id": 1635,
+        "product_dsc": "FARINHA DE ARROZ INTEGRAL CNT BIO 500GR",
+        "product_short_dsc": "FARINHA ARROZ",
+        "_20231226": 0.8741570920824083
+    },
+    {
+        "id": 1636,
+        "product_dsc": "CHERNE DA COSTA POSTA EMB",
+        "product_short_dsc": "CHERNE POSTA EM",
+        "_20231226": 0.8922548572956986
+    },
+    {
+        "id": 1644,
+        "product_dsc": "(A\u00c7) NOV.COSTELETAS ACEM REDOND DPCA KG",
+        "product_short_dsc": "NOV. COST REDON",
+        "_20231226": 0.8709999876996317
+    },
+    {
+        "id": 1649,
+        "product_dsc": "(I) (SZ) ROTI VITELA LS",
+        "product_short_dsc": "ROTI VITELA LS",
+        "_20231226": 0.8714716253652283
+    },
+    {
+        "id": 1650,
+        "product_dsc": "COCO SECO CNT KG",
+        "product_short_dsc": "COCO SECO",
+        "_20231226": 0.7816790044158064
+    },
+    {
+        "id": 1652,
+        "product_dsc": "UVA BRANCA C/ GRAINHA KG ILHAS",
+        "product_short_dsc": "UVA BRANCA",
+        "_20231226": 0.8623419216663791
+    },
+    {
+        "id": 1653,
+        "product_dsc": "UVA BRANCA S/ GRAINHA KG ( ILHAS)",
+        "product_short_dsc": "UVA BRANCA S/ G",
+        "_20231226": 0.40003845419135287
+    },
+    {
+        "id": 1658,
+        "product_dsc": "FRAMBOESA BEIRA BAGA 300 G",
+        "product_short_dsc": "FRAMBOESA 300 G",
+        "_20231226": 0.5396141077020233
+    },
+    {
+        "id": 1670,
+        "product_dsc": "TUBETTI RIGATI BET. ARROZ CNT EQ. 250G",
+        "product_short_dsc": "TUBETTI RIGATI",
+        "_20231226": 0.8959201812028454
+    },
+    {
+        "id": 1684,
+        "product_dsc": "ESPARGUETE MILANEZA SEM GL\u00daTEN 500G",
+        "product_short_dsc": "S/GLUTEN MASSA",
+        "_20231226": 0.7335704522833641
+    },
+    {
+        "id": 1685,
+        "product_dsc": "CAVALA GRANDE KG",
+        "product_short_dsc": "CAV.GRANDE",
+        "_20231226": 0.6247863086481682
+    },
+    {
+        "id": 1690,
+        "product_dsc": "MAS.COTOVELOS NACIONAL 500GR",
+        "product_short_dsc": "COTOV NACIONAL",
+        "_20231226": 0.16413854794453264
+    },
+    {
+        "id": 1692,
+        "product_dsc": "QUINOA TRICOLOR SALUTEM 250G",
+        "product_short_dsc": "QUINOA 250G",
+        "_20231226": 0.80679997181558
+    },
+    {
+        "id": 1694,
+        "product_dsc": "MIRTILO BEIRABAGA 400 G",
+        "product_short_dsc": "MIRTILO 400",
+        "_20231226": 0.8495124622307264
+    },
+    {
+        "id": 1698,
+        "product_dsc": "MELAO BRANCO FRACIONADO CNT KG",
+        "product_short_dsc": "MELAO BRANCO FR",
+        "_20231226": 0.8270286053934551
+    },
+    {
+        "id": 1702,
+        "product_dsc": "MA\u00c7\u00c3 ROYAL GALA ALCOBA\u00c7A C.60 + EMB 1KG",
+        "product_short_dsc": "MA\u00c7\u00c3 ROYAL GALA",
+        "_20231226": 0.5909400414906864
+    },
+    {
+        "id": 1710,
+        "product_dsc": "(A\u00c7) BOVINO VAZIA FT PRADO ATL\u00c2NTICO KG",
+        "product_short_dsc": "BOV. VAZIA FT",
+        "_20231226": 0.8200131100514391
+    },
+    {
+        "id": 1717,
+        "product_dsc": "ATUM LOMBO EMB",
+        "product_short_dsc": "ATUM LOMBO EMB",
+        "_20231226": 0.38017792065644435
+    },
+    {
+        "id": 1718,
+        "product_dsc": "CARAPAU MEDIO EMBALADO",
+        "product_short_dsc": "CARAPAU MEDIO E",
+        "_20231226": 0.5008118915790544
+    },
+    {
+        "id": 1730,
+        "product_dsc": "SARGO ALGARVE FRESCO KG",
+        "product_short_dsc": "SARGO ALGARVE",
+        "_20231226": 0.8884930845812773
+    },
+    {
+        "id": 1738,
+        "product_dsc": "FAROFA DE MILHO YOKI 500GR",
+        "product_short_dsc": "FAROFA DE MILHO",
+        "_20231226": 0.7735784315721336
+    },
+    {
+        "id": 1740,
+        "product_dsc": "FILETES ROBALO CONTINENTE 240G PM",
+        "product_short_dsc": "FILETE CONT 240",
+        "_20231226": 0.6305339230325977
+    },
+    {
+        "id": 1743,
+        "product_dsc": "TANGERINA KG ILHAS",
+        "product_short_dsc": "TANGERINA",
+        "_20231226": 0.6702731407039465
+    },
+    {
+        "id": 1747,
+        "product_dsc": "(A\u00c7) CAMAR\u00c3O 20/30 COZIDO CONGELADO",
+        "product_short_dsc": "CAMAR\u00c3O20/30 CZ",
+        "_20231226": 0.87412133176666
+    },
+    {
+        "id": 1749,
+        "product_dsc": "ATUM DESCONGELADO LOMBO QUALIDADE EXTRA",
+        "product_short_dsc": "ATUM LOMBO QUAL",
+        "_20231226": 0.8655593223197694
+    },
+    {
+        "id": 1751,
+        "product_dsc": "NOVILHO COZER 3\u00aa C/OSSO (BALC\u00c3O) A\u00c7ORES",
+        "product_short_dsc": "NOV. COZER 3\u00aa",
+        "_20231226": 0.8927180515329329
+    },
+    {
+        "id": 1758,
+        "product_dsc": "ROBALO MEDIO(200-600G)(ONLINE ALGARVE)KG",
+        "product_short_dsc": "ROBAL MED ON AL",
+        "_20231226": 0.5973115335720407
+    },
+    {
+        "id": 1762,
+        "product_dsc": "UVA ROSADA S/GRAINHA R0 500G",
+        "product_short_dsc": "UVA ROSADA S/GR",
+        "_20231226": 0.8940609211776376
+    },
+    {
+        "id": 1763,
+        "product_dsc": "ATUM POSTA KG",
+        "product_short_dsc": "ATUM POSTA KG",
+        "_20231226": 0.835199122075021
+    },
+    {
+        "id": 1764,
+        "product_dsc": "FRANGO ASAS TEMPERADAS CFA ILHAS",
+        "product_short_dsc": "FRANGO ASAS TEM",
+        "_20231226": 0.7697661396757621
+    },
+    {
+        "id": 1766,
+        "product_dsc": "BOVINO T-BONE ANGUS SKP",
+        "product_short_dsc": "T-BONE BOVINO S",
+        "_20231226": 0.8869753530069147
+    },
+    {
+        "id": 1767,
+        "product_dsc": "MASSA PENNE RIGATE CNT BIO 500G",
+        "product_short_dsc": "MASS PENNE RIGA",
+        "_20231226": 0.7754615061713122
+    },
+    {
+        "id": 1771,
+        "product_dsc": "GORAZ GRANDE (DA COSTA)",
+        "product_short_dsc": "GORAZ GRANDE",
+        "_20231226": 0.20643148634718378
+    },
+    {
+        "id": 1775,
+        "product_dsc": "MARACUJA AMARELO KG ILHAS",
+        "product_short_dsc": "MARACUJA AMAREL",
+        "_20231226": 0.8570490796971432
+    },
+    {
+        "id": 1776,
+        "product_dsc": "FARINHA MILHO AMARELA FARIAS 400GR",
+        "product_short_dsc": "FAR MILHO A",
+        "_20231226": 0.8834867918031484
+    },
+    {
+        "id": 1777,
+        "product_dsc": "PERA ROCHA R0 55/65 CNT 1 KG",
+        "product_short_dsc": "PERA ROCHA R0",
+        "_20231226": 0.8794227648754976
+    },
+    {
+        "id": 1780,
+        "product_dsc": "RISOTTO DE LEGUMES CNT SELE\u00c7\u00c3O 280",
+        "product_short_dsc": "RISOTO CNT",
+        "_20231226": 0.846705047071948
+    },
+    {
+        "id": 1781,
+        "product_dsc": "SALADA ABACAXI 700 GR",
+        "product_short_dsc": "SALADA ABACAXI",
+        "_20231226": 0.845895824790706
+    },
+    {
+        "id": 1782,
+        "product_dsc": "NOVILHO BIFE RABADILHA A\u00c7",
+        "product_short_dsc": "NOV BIF RABADIL",
+        "_20231226": 0.8658850678727903
+    },
+    {
+        "id": 1791,
+        "product_dsc": "AMORA CNT EMB.125 G",
+        "product_short_dsc": "AMORA CNT EMB.1",
+        "_20231226": 0.8756893020242712
+    },
+    {
+        "id": 1795,
+        "product_dsc": "CABAZ FRUTAS E LEGUMES S",
+        "product_short_dsc": "CABAZ FRUTAS E",
+        "_20231226": 0.8910812207174915
+    },
+    {
+        "id": 1796,
+        "product_dsc": "AMIDO MILHO LUSITANA S/F  ESPIGA 500GR",
+        "product_short_dsc": "AMIDO MILHO",
+        "_20231226": 0.5971321852008344
+    },
+    {
+        "id": 1797,
+        "product_dsc": "MELOA GALIA KG AZ FR",
+        "product_short_dsc": "MELOA GALIA FR",
+        "_20231226": 0.7967367012243788
+    },
+    {
+        "id": 1800,
+        "product_dsc": "SUMO LARANJA 250 ML",
+        "product_short_dsc": "SUMO LARANJA 25",
+        "_20231226": 0.8408636272617804
+    },
+    {
+        "id": 1803,
+        "product_dsc": "PESSEGO CNT CAL.A/AA KG (ILHAS)",
+        "product_short_dsc": "PESSEGO",
+        "_20231226": 0.7671798484297694
+    },
+    {
+        "id": 1813,
+        "product_dsc": "DIOSPIRO MADURO CNT 350G",
+        "product_short_dsc": "DIOSPIRO MADURO",
+        "_20231226": 0.8163441345430924
+    },
+    {
+        "id": 1816,
+        "product_dsc": "GRAO DE BICO CONTINENTE 500GR",
+        "product_short_dsc": "GR\u00c3O CNT 500G",
+        "_20231226": 0.8480665403362344
+    },
+    {
+        "id": 1828,
+        "product_dsc": "COXAS DE PERU CONTINENTE LS",
+        "product_short_dsc": "COXA PERU LS",
+        "_20231226": 0.8454746282933678
+    },
+    {
+        "id": 1836,
+        "product_dsc": "MASSA TORTIGLIONI NR37 DELVERDE 500G",
+        "product_short_dsc": "MASS FUSILLI 0,",
+        "_20231226": 0.8154701272713245
+    },
+    {
+        "id": 1838,
+        "product_dsc": "SAFIA ALGARVE KG",
+        "product_short_dsc": "SAFIA ALGARVE",
+        "_20231226": 0.3960017939612662
+    },
+    {
+        "id": 1842,
+        "product_dsc": "MAS.TALHARIM MILANEZA 500GR",
+        "product_short_dsc": "TALHAR MILANEZA",
+        "_20231226": 0.8841756120181731
+    },
+    {
+        "id": 1848,
+        "product_dsc": "MIOLO CAMAR\u00c3O PASTEU S/ ADITIVOS 150G",
+        "product_short_dsc": "MIOLO PAST 150G",
+        "_20231226": 0.8291455488905402
+    },
+    {
+        "id": 1850,
+        "product_dsc": "CUSCUZ TRADICIONAL SINH\u00c1 500G",
+        "product_short_dsc": "CUSCUZ TRA 500G",
+        "_20231226": 0.7366003311577978
+    },
+    {
+        "id": 1852,
+        "product_dsc": "BACALHAU FRESCO",
+        "product_short_dsc": "BACALHAU FRESCO",
+        "_20231226": 0.712019295925511
+    },
+    {
+        "id": 1856,
+        "product_dsc": "MEL\u00c3O BRANCO FRAC CNT KG ILHAS",
+        "product_short_dsc": "MEL\u00c3O BRANCO FR",
+        "_20231226": 0.7768074309468846
+    },
+    {
+        "id": 1865,
+        "product_dsc": "PATO INT. C/MI\u00daDOS LS",
+        "product_short_dsc": "PATO C/M",
+        "_20231226": 0.8555266372117661
+    },
+    {
+        "id": 1876,
+        "product_dsc": "FARINHA CENTEIO INTEGR CEM PORCENTO 500G",
+        "product_short_dsc": "FARINHA CENTEIO",
+        "_20231226": 0.882566796306223
+    },
+    {
+        "id": 1888,
+        "product_dsc": "FRANGO PEITO LIMPO ATM LS CFA",
+        "product_short_dsc": "FRANGO PEITO",
+        "_20231226": 0.6320724450813728
+    },
+    {
+        "id": 1890,
+        "product_dsc": "NOODLES ALB GOLD BIO 250G",
+        "product_short_dsc": "NOODLES",
+        "_20231226": 0.701657069864314
+    },
+    {
+        "id": 1905,
+        "product_dsc": "(A\u00c7O) FRANGO ASAS SACO SALSICOR",
+        "product_short_dsc": "FRANGO ASAS SAC",
+        "_20231226": 0.8230187076912964
+    },
+    {
+        "id": 1909,
+        "product_dsc": "CORVINA AQUACULTURA POSTA KG",
+        "product_short_dsc": "CORVINA AQUA. P",
+        "_20231226": 0.7462618453823882
+    },
+    {
+        "id": 1911,
+        "product_dsc": "BANANA CANARIAS KG (AZ)",
+        "product_short_dsc": "BANANA CANARIAS",
+        "_20231226": 0.8795159007997658
+    },
+    {
+        "id": 1919,
+        "product_dsc": "PESSEGO PARAGUAYO CNT C.A/AA/AAA KG",
+        "product_short_dsc": "PESSEGO PARAGUA",
+        "_20231226": 0.893479959378176
+    },
+    {
+        "id": 1923,
+        "product_dsc": "MASSA MACARRONETE MOA\u00c7OR 500G",
+        "product_short_dsc": "MACARRON MOACOR",
+        "_20231226": 0.7696901816954854
+    },
+    {
+        "id": 1928,
+        "product_dsc": "MELANCIA PRETA P/ SEM FRAC CNT KG",
+        "product_short_dsc": "MELAN PRETA FR",
+        "_20231226": 0.6354235607970314
+    },
+    {
+        "id": 1933,
+        "product_dsc": "(MAD) ATUM CONTRAPESO KG",
+        "product_short_dsc": "ATUM CONTRAPESO",
+        "_20231226": 0.8820073069734133
+    },
+    {
+        "id": 1934,
+        "product_dsc": "GAROUPA LEGITIMA +3KG POSTA",
+        "product_short_dsc": "GAROUP LEG POST",
+        "_20231226": 0.8844190177134296
+    },
+    {
+        "id": 1942,
+        "product_dsc": "CARAPAU MEDIO ALGARVE",
+        "product_short_dsc": "CARAPAU MEDIO",
+        "_20231226": 0.5656339436640462
+    },
+    {
+        "id": 1943,
+        "product_dsc": "MASSA LINGUINE LA MOLISANA 500GR",
+        "product_short_dsc": "MASSA LINGUINE",
+        "_20231226": 0.8045544564257655
+    },
+    {
+        "id": 1948,
+        "product_dsc": "MASSA MACARR\u00c3O INTEGRAL INSULAR 500G",
+        "product_short_dsc": "MASSA MACARR\u00c3O",
+        "_20231226": 0.8331553602799027
+    },
+    {
+        "id": 1949,
+        "product_dsc": "NOVILHO ASSAR DO REDONDO (BALC\u00c3O)",
+        "product_short_dsc": "N. ASSAR DO RED",
+        "_20231226": 0.8730069286967931
+    },
+    {
+        "id": 1951,
+        "product_dsc": "RISOTO PRETO VENERE RISO GALLO 500G",
+        "product_short_dsc": "ARR PRETO VEN",
+        "_20231226": 0.8513951123962683
+    },
+    {
+        "id": 1959,
+        "product_dsc": "SALADA MELANCIA RISCADA 700 GR",
+        "product_short_dsc": "SALADA MELANCIA",
+        "_20231226": 0.8787205436913056
+    },
+    {
+        "id": 1961,
+        "product_dsc": "ARROZ CAROLINO BOM SUCESSO 1KG",
+        "product_short_dsc": "ARR CAR B SUCE",
+        "_20231226": 0.8886829413912003
+    },
+    {
+        "id": 1964,
+        "product_dsc": "COSTELETAS VITEL\u00c3O LS",
+        "product_short_dsc": "COST VIT LS",
+        "_20231226": 0.85178928507635
+    },
+    {
+        "id": 1975,
+        "product_dsc": "BUZIO-CANILHA COZ. KG",
+        "product_short_dsc": "BUZ.-CANILHA",
+        "_20231226": 0.8638004394814792
+    },
+    {
+        "id": 1976,
+        "product_dsc": "COUSCOUS MEDITERRANEO TREVIJANO 300G",
+        "product_short_dsc": "COUSCUS 300G",
+        "_20231226": 0.8820997485653925
+    },
+    {
+        "id": 1986,
+        "product_dsc": "ARROZ SALADAS SALUD\u00c3ES 500G",
+        "product_short_dsc": "ARROZ SALADAS",
+        "_20231226": 0.8672869448447456
+    },
+    {
+        "id": 1994,
+        "product_dsc": "GRAO DE BICO A.P.J. 500GR",
+        "product_short_dsc": "GR\u00c3O APJ 500G",
+        "_20231226": 0.8900849348811968
+    },
+    {
+        "id": 1996,
+        "product_dsc": "DIOSPIRO KG (AZ)",
+        "product_short_dsc": "DIOSPIRO",
+        "_20231226": 0.4874694241876216
+    },
+    {
+        "id": 2003,
+        "product_dsc": "(E) NOVILHO POJADOURO LIMOUSINE AT",
+        "product_short_dsc": "POJADOURO LIMOU",
+        "_20231226": 0.813090941900295
+    },
+    {
+        "id": 2009,
+        "product_dsc": "SUMO CLEMENTINA 0.25 LT",
+        "product_short_dsc": "SUMO CLEMENTINA",
+        "_20231226": 0.770760435813473
+    },
+    {
+        "id": 2013,
+        "product_dsc": "ARROZ DOCE ESPECIAL SALUD\u00c3ES 500G",
+        "product_short_dsc": "ARROZ DOCE",
+        "_20231226": 0.7604021160263524
+    },
+    {
+        "id": 2015,
+        "product_dsc": "ARROZ CAROLINO CONTINENTE 1KG",
+        "product_short_dsc": "ARR CAR CONT",
+        "_20231226": 0.6727589960355158
+    },
+    {
+        "id": 2022,
+        "product_dsc": "FARINHA T65 SEM FERMENTO CNT 1KG",
+        "product_short_dsc": "FARINHA S/F",
+        "_20231226": 0.8250237841222438
+    },
+    {
+        "id": 2029,
+        "product_dsc": "PAPAIA AVI\u00c3O CV 440GR (AZ)",
+        "product_short_dsc": "PAPAIA AVI\u00c3O CV",
+        "_20231226": 0.7734048091157458
+    },
+    {
+        "id": 2034,
+        "product_dsc": "PEIXE ESPADA BRANCO",
+        "product_short_dsc": "P.ESP.BRANCO",
+        "_20231226": 0.7020378540696277
+    },
+    {
+        "id": 2036,
+        "product_dsc": "NOVILHO BIFE VAZIA (BALC\u00c3O)",
+        "product_short_dsc": "NOV BIFE VAZIA",
+        "_20231226": 0.563996743938962
+    },
+    {
+        "id": 2038,
+        "product_dsc": "NECTARINA CAL.C EMB. 1KG",
+        "product_short_dsc": "NECTARINA CAL.C",
+        "_20231226": 0.8301502352059714
+    },
+    {
+        "id": 2045,
+        "product_dsc": "MASSA TAGLIATELLE NACIONAL 500G",
+        "product_short_dsc": "MASSA TAGLIATEL",
+        "_20231226": 0.85211685914306
+    },
+    {
+        "id": 2050,
+        "product_dsc": "(A\u00c7) DESFIADO PATO CONG. 350GR AVIBOM",
+        "product_short_dsc": "DESFIADO PATO C",
+        "_20231226": 0.7744294592505218
+    },
+    {
+        "id": 2051,
+        "product_dsc": "FARINHA DE COCO BIO SALUTEM 200G",
+        "product_short_dsc": "FAR DE COC BIO",
+        "_20231226": 0.8815793068536079
+    },
+    {
+        "id": 2064,
+        "product_dsc": "COUSCOUS TIPIAK EXPRESS 400G",
+        "product_short_dsc": "COUSCOUS 0,400K",
+        "_20231226": 0.6373828297762546
+    },
+    {
+        "id": 2069,
+        "product_dsc": "FARINHA INTEGRAL S/F NACIONAL 1KG",
+        "product_short_dsc": "FARI NTEGRA",
+        "_20231226": 0.8843046810828487
+    },
+    {
+        "id": 2071,
+        "product_dsc": "MASSA FETTUCCINE DELVERDE 500G",
+        "product_short_dsc": "MASS FETTUCCINE",
+        "_20231226": 0.7106965717732181
+    },
+    {
+        "id": 2075,
+        "product_dsc": "VITELA LOMBO SKINPACK LS",
+        "product_short_dsc": "VITELA LOMBO SK",
+        "_20231226": 0.8347721738133551
+    },
+    {
+        "id": 2078,
+        "product_dsc": "FRANGO PEITO C/PELE E OSSO CFA A\u00c7ORES",
+        "product_short_dsc": "FRANGO PEITO",
+        "_20231226": 0.6050241915990787
+    },
+    {
+        "id": 2083,
+        "product_dsc": "FRANGO CAMPO STROGONOFF CAMPOAVES",
+        "product_short_dsc": "FRG CAMPO STROG",
+        "_20231226": 0.7068053037111492
+    },
+    {
+        "id": 2089,
+        "product_dsc": "SALADA MORANGO 100 GR",
+        "product_short_dsc": "SALADA MORANGO",
+        "_20231226": 0.77539828555878
+    },
+    {
+        "id": 2092,
+        "product_dsc": "MIOLO CAMAR\u00c3O COZ 30/40 CONTINENTE 250G",
+        "product_short_dsc": "MOLO CONT 250G",
+        "_20231226": 0.8865454301889838
+    },
+    {
+        "id": 2096,
+        "product_dsc": "MASSA MACCHERONI INT.LAMOLISANA 500GR",
+        "product_short_dsc": "MACCHERONI INTE",
+        "_20231226": 0.8039767665844134
+    },
+    {
+        "id": 2103,
+        "product_dsc": "FARINHA ROSCA SINH\u00c1 500G",
+        "product_short_dsc": "FAR TRIG 0,500K",
+        "_20231226": 0.725504125925184
+    },
+    {
+        "id": 2115,
+        "product_dsc": "PERA ABATE FETEL 60/70 CNT KG",
+        "product_short_dsc": "PERA ABATE FETE",
+        "_20231226": 0.7960436057178879
+    },
+    {
+        "id": 2121,
+        "product_dsc": "ESPARGUETE MILANEZA 500G + 10% GR\u00c1TIS",
+        "product_short_dsc": "ESPARG MILANEZA",
+        "_20231226": 0.7822028775870522
+    },
+    {
+        "id": 2126,
+        "product_dsc": "CASTANHA CNT 5 KG",
+        "product_short_dsc": "CASTANHA CNT 5",
+        "_20231226": 0.8608280840960159
+    },
+    {
+        "id": 2127,
+        "product_dsc": "(I) BOV MED LOMBO AM SUL CONG BEEFCO KG",
+        "product_short_dsc": "BOV MED DO LOMB",
+        "_20231226": 0.8799390341131983
+    },
+    {
+        "id": 2131,
+        "product_dsc": "ALAS DE RAIA FRESCA 300G",
+        "product_short_dsc": "ALAS DE RAIA",
+        "_20231226": 0.8089834410173388
+    },
+    {
+        "id": 2136,
+        "product_dsc": "MELAO AMARELO KG AZ FR",
+        "product_short_dsc": "MELAO AMARELOFR",
+        "_20231226": 0.8724347020028168
+    },
+    {
+        "id": 2137,
+        "product_dsc": "SAPATEIRA COZIDA PASTEURIZADA 400G TINUS",
+        "product_short_dsc": "SAPATEIRA PAST",
+        "_20231226": 0.8782064532804597
+    },
+    {
+        "id": 2139,
+        "product_dsc": "DOURADA MEDIA (200-600GR) EMB",
+        "product_short_dsc": "DOURADA MEDIA",
+        "_20231226": 0.4213252477752895
+    },
+    {
+        "id": 2153,
+        "product_dsc": "CAMAR\u00c3O COZIDO 60/80 CONTINENTE 500G",
+        "product_short_dsc": "CAMAR COZ 60/80",
+        "_20231226": 0.886504842033051
+    },
+    {
+        "id": 2162,
+        "product_dsc": "FARINHA DE MANDIOCA GLOBO 500G",
+        "product_short_dsc": "MAND GLOBO 500G",
+        "_20231226": 0.8977723581125597
+    },
+    {
+        "id": 2164,
+        "product_dsc": "SOJA GROSSA CNT EQ. 400G",
+        "product_short_dsc": "SOJA GROSSA",
+        "_20231226": 0.7910741034127915
+    },
+    {
+        "id": 2171,
+        "product_dsc": "MAS.BUZIOS NACIONAL 500GR",
+        "product_short_dsc": "B\u00daZIOS NACIONAL",
+        "_20231226": 0.8537452479928419
+    },
+    {
+        "id": 2182,
+        "product_dsc": "MASSA GEMELLI DELVERDE SEM. LINHA\u00c7A 450G",
+        "product_short_dsc": "MASS GEMELLI 45",
+        "_20231226": 0.8711842444616229
+    },
+    {
+        "id": 2187,
+        "product_dsc": "P\u00c1 NOV. LIMOUSINE AT",
+        "product_short_dsc": "P\u00c1 NOV. LIMOUSI",
+        "_20231226": 0.8900678704994867
+    },
+    {
+        "id": 2190,
+        "product_dsc": "XILITOL BIO SEARA 250G SEARA 250G",
+        "product_short_dsc": "XILITOL BIO SEA",
+        "_20231226": 0.8673669072699928
+    },
+    {
+        "id": 2192,
+        "product_dsc": "FRANGO COXAS ATM LS CFA",
+        "product_short_dsc": "FRANGO COXAS AT",
+        "_20231226": 0.5699782413496784
+    },
+    {
+        "id": 2198,
+        "product_dsc": "BOCAS SAPATEIRA COZ PAST 500G ERRIGAL",
+        "product_short_dsc": "BOCAS SAP500G",
+        "_20231226": 0.8784388313954115
+    },
+    {
+        "id": 2206,
+        "product_dsc": "TAMARILHO CNT KG",
+        "product_short_dsc": "TAMARILHO",
+        "_20231226": 0.8299355523839013
+    },
+    {
+        "id": 2208,
+        "product_dsc": "MORANGO CANDELA R0 400 G",
+        "product_short_dsc": "MORANGO CANDELA",
+        "_20231226": 0.8741762914106789
+    },
+    {
+        "id": 2213,
+        "product_dsc": "PESCADA CABE\u00c7A",
+        "product_short_dsc": "PESCADA CABECA",
+        "_20231226": 0.8907658258551796
+    },
+    {
+        "id": 2217,
+        "product_dsc": "CANA DOCE CNT KG",
+        "product_short_dsc": "CANA DOCE",
+        "_20231226": 0.8824763415385021
+    },
+    {
+        "id": 2218,
+        "product_dsc": "MEL\u00c3O VERDE POLPA LAR BRASIL FR CNT KG",
+        "product_short_dsc": "MEL\u00c3O VERDE POL",
+        "_20231226": 0.8221526750379615
+    },
+    {
+        "id": 2230,
+        "product_dsc": "MASSA COTOVELINHOS MOA\u00c7OR 500G",
+        "product_short_dsc": "COTOV MOACOR",
+        "_20231226": 0.8618996308578989
+    },
+    {
+        "id": 2248,
+        "product_dsc": "CAMARAO COZIDO MEDIO (60/80) KG",
+        "product_short_dsc": "CAM.COZ.60-80",
+        "_20231226": 0.8090871276773808
+    },
+    {
+        "id": 2249,
+        "product_dsc": "FLOC\u00c3O DE MILHO SINH\u00c1 500G",
+        "product_short_dsc": "FLOCAO 0,500KG",
+        "_20231226": 0.8182340573415859
+    },
+    {
+        "id": 2283,
+        "product_dsc": "FILETES DE DOURADA FRESCOS 120G",
+        "product_short_dsc": "FILETES DOURADA",
+        "_20231226": 0.7679874656890059
+    },
+    {
+        "id": 2291,
+        "product_dsc": "FEIJAO ENCARNADO CONTINENTE 500GR",
+        "product_short_dsc": "FEIJ CNT E500G",
+        "_20231226": 0.8141064740491203
+    },
+    {
+        "id": 2294,
+        "product_dsc": "PERA RED BARLET/ANJOU KG",
+        "product_short_dsc": "PERA RED BARLE",
+        "_20231226": 0.8852205819072956
+    },
+    {
+        "id": 2297,
+        "product_dsc": "BIFE DE FRANGO BIOL\u00d3GICO LS",
+        "product_short_dsc": "BIFE DE FRAN B",
+        "_20231226": 0.718998389382273
+    },
+    {
+        "id": 2300,
+        "product_dsc": "MACA PINK LADY NOVA CAMP CNT 75/80 KG",
+        "product_short_dsc": "MACA PINK LADY",
+        "_20231226": 0.7582535955327282
+    },
+    {
+        "id": 2301,
+        "product_dsc": "CARAPAU GRANDE KG",
+        "product_short_dsc": "CARAP.GRANDE KG",
+        "_20231226": 0.8153060110525907
+    },
+    {
+        "id": 2302,
+        "product_dsc": "NESPERA CAL G/GG 500 GR",
+        "product_short_dsc": "NESPERA 500 GR",
+        "_20231226": 0.8757235921913927
+    },
+    {
+        "id": 2303,
+        "product_dsc": "UVA BRANCA S/GRAINHA VALE DA ROSA 800 G",
+        "product_short_dsc": "UVA BRANCA S/GR",
+        "_20231226": 0.7239564254728974
+    },
+    {
+        "id": 2304,
+        "product_dsc": "VITELA AROUQUESA ASSAR - AT",
+        "product_short_dsc": "VIT.AROUQ.ASSAR",
+        "_20231226": 0.7138522124279656
+    },
+    {
+        "id": 2306,
+        "product_dsc": "MASSA GAROFALO MAFALDA CORTA 500G",
+        "product_short_dsc": "MAFALDA CORTA",
+        "_20231226": 0.8578627279323611
+    },
+    {
+        "id": 2307,
+        "product_dsc": "PESCADA GRANDE ANZOL POSTA KG",
+        "product_short_dsc": "PESCADA GR ANZO",
+        "_20231226": 0.8187385960585739
+    },
+    {
+        "id": 2310,
+        "product_dsc": "NOODLES UDON FUXING 200G",
+        "product_short_dsc": "NOODLES 200G",
+        "_20231226": 0.6810714151967975
+    },
+    {
+        "id": 2313,
+        "product_dsc": "MAS ESPIRAIS TRICOLOR MILANEZA 500G+10%",
+        "product_short_dsc": "MAS ESPIRAIS TR",
+        "_20231226": 0.8922489236526994
+    },
+    {
+        "id": 2329,
+        "product_dsc": "PHYSALIS NATIVA 100 G",
+        "product_short_dsc": "PHYSALIS NATIVA",
+        "_20231226": 0.8048667268539965
+    },
+    {
+        "id": 2332,
+        "product_dsc": "QUINOA TRICOLOR ORIGENS BIO 250G",
+        "product_short_dsc": "QUINOA TRICOLOR",
+        "_20231226": 0.838665515024199
+    },
+    {
+        "id": 2336,
+        "product_dsc": "MASSA FUSILLI CNT BIO 500G",
+        "product_short_dsc": "MASSA FUSILLI",
+        "_20231226": 0.559304721087125
+    },
+    {
+        "id": 2338,
+        "product_dsc": "TAPIOCA HIDRATADA CONTINENTE 500GR",
+        "product_short_dsc": "TAPIOCA HIDR",
+        "_20231226": 0.8229386962966143
+    },
+    {
+        "id": 2340,
+        "product_dsc": "MAS ESPIRAIS MILANEZA ESP WOK 500G",
+        "product_short_dsc": "ESPIRAIS",
+        "_20231226": 0.8687746185080288
+    },
+    {
+        "id": 2343,
+        "product_dsc": "ROM\u00c3 CNT KG ILHAS",
+        "product_short_dsc": "ROM\u00c3",
+        "_20231226": 0.8967768324108716
+    },
+    {
+        "id": 2348,
+        "product_dsc": "MA\u00c7\u00c3 REINETA ALCOBA\u00c7A IGP R0 80/90 KG",
+        "product_short_dsc": "MA\u00c7\u00c3 REINETA R0",
+        "_20231226": 0.7432521106746921
+    },
+    {
+        "id": 2354,
+        "product_dsc": "FRANGO ECONOMICO C/M FRESC. A\u00c7ORAVES",
+        "product_short_dsc": "FRANGO ECON C/M",
+        "_20231226": 0.8288709465914877
+    },
+    {
+        "id": 2361,
+        "product_dsc": "PENNE RIGATE INTEGRAL LA MOLISANA 500G",
+        "product_short_dsc": "PENNE INTEGRAL",
+        "_20231226": 0.8901744189292536
+    },
+    {
+        "id": 2364,
+        "product_dsc": "FAR.TRIGO S/F MOACOR T/65 5KG",
+        "product_short_dsc": "FAR MOACOR 5KG",
+        "_20231226": 0.8906485291862272
+    },
+    {
+        "id": 2368,
+        "product_dsc": "MIX 3 FARINHAS BJORG S/GL\u00da BIO 500G",
+        "product_short_dsc": "MIX 3 FARI S/GL",
+        "_20231226": 0.762564395317951
+    },
+    {
+        "id": 2369,
+        "product_dsc": "MASSA LETRAS CONTINENTE  250G",
+        "product_short_dsc": "MASSA LETRAS",
+        "_20231226": 0.7035110771016091
+    },
+    {
+        "id": 2375,
+        "product_dsc": "MAMAO FRACIONADO CNT KG",
+        "product_short_dsc": "MAMAO FRACIONAD",
+        "_20231226": 0.8777785823254535
+    },
+    {
+        "id": 2376,
+        "product_dsc": "(I) (MD) NOVILHO LOMBO/VAZIA AT",
+        "product_short_dsc": "NOV LOMBO/VAZIA",
+        "_20231226": 0.8331902997210886
+    },
+    {
+        "id": 2380,
+        "product_dsc": "NOVILHO POJADOURO ANGUS AT",
+        "product_short_dsc": "POJADOURO ANGUS",
+        "_20231226": 0.8477088320676738
+    },
+    {
+        "id": 2393,
+        "product_dsc": "MASSA VIANEZA ROLITOS AVEIA 250G",
+        "product_short_dsc": "MASSA 250G",
+        "_20231226": 0.8607825951987339
+    },
+    {
+        "id": 2402,
+        "product_dsc": "MA\u00c7\u00c3 GOLDEN NACIONALCAL 63/73 EMB. KG",
+        "product_short_dsc": "MA\u00c7\u00c3 GOLDEN EMB",
+        "_20231226": 0.8765898907003523
+    },
+    {
+        "id": 2405,
+        "product_dsc": "XAROPE DE AGAVE CONTINENTE BIO 500G",
+        "product_short_dsc": "XAROPE DE AGAVE",
+        "_20231226": 0.893066566579864
+    },
+    {
+        "id": 2406,
+        "product_dsc": "QUINOA CONTINENTE BIO 500G",
+        "product_short_dsc": "QUINOA",
+        "_20231226": 0.3444734886604081
+    },
+    {
+        "id": 2407,
+        "product_dsc": "FRAMBOESA SUDOBERRY 200 G",
+        "product_short_dsc": "FRAMBOESA SUD",
+        "_20231226": 0.8368790533458003
+    },
+    {
+        "id": 2409,
+        "product_dsc": "KIWI (65-75) EMB.1KG",
+        "product_short_dsc": "KIWI (65-75) EM",
+        "_20231226": 0.8594375602867376
+    },
+    {
+        "id": 2419,
+        "product_dsc": "PATO INT.C/M GRANEL AT",
+        "product_short_dsc": "PATO C/M AT",
+        "_20231226": 0.2465922504322937
+    },
+    {
+        "id": 2425,
+        "product_dsc": "SAPATEIRA RECHEADA 250G",
+        "product_short_dsc": "SAPATEIRA RECHE",
+        "_20231226": 0.8272978017606089
+    },
+    {
+        "id": 2427,
+        "product_dsc": "MASSA FESTONATI DELVERDE NR225 500G",
+        "product_short_dsc": "MASS FUSILLI 0,",
+        "_20231226": 0.5937115971292914
+    },
+    {
+        "id": 2428,
+        "product_dsc": "MASSA BARILLA INTEGRAL PENNETTE 500G",
+        "product_short_dsc": "MASSA 500G",
+        "_20231226": 0.7419465338673713
+    },
+    {
+        "id": 2433,
+        "product_dsc": "SAPATEIRA",
+        "product_short_dsc": "SAPATEIRA",
+        "_20231226": 0.8567368474878284
+    },
+    {
+        "id": 2434,
+        "product_dsc": "MELAO BRANCO INTEIRO CNT KG",
+        "product_short_dsc": "MELAO BRANCO",
+        "_20231226": 0.8544076148918793
+    },
+    {
+        "id": 2438,
+        "product_dsc": "VITELA AROUQUESA COSTELA MENDINHA - AT",
+        "product_short_dsc": "VIT.AROUQ.MEND.",
+        "_20231226": 0.8738237961470514
+    },
+    {
+        "id": 2439,
+        "product_dsc": "SARDA",
+        "product_short_dsc": "SARDA",
+        "_20231226": 0.8046966406865321
+    },
+    {
+        "id": 2441,
+        "product_dsc": "FRANGO METADES EMB. SUINIPICO",
+        "product_short_dsc": "FRANGO METADES",
+        "_20231226": 0.8349086037453498
+    },
+    {
+        "id": 2444,
+        "product_dsc": "(I) MASSA COTOVELINHOS FIN E CNT 500G",
+        "product_short_dsc": "COTOVELINHOS E",
+        "_20231226": 0.8450726115760285
+    },
+    {
+        "id": 2451,
+        "product_dsc": "FARINHA AM\u00caNDOA SEARA BIO 200G",
+        "product_short_dsc": "FARINHA AM\u00caNDOA",
+        "_20231226": 0.8361770134949965
+    },
+    {
+        "id": 2452,
+        "product_dsc": "FRANGO METADES DPCA ACORES",
+        "product_short_dsc": "FRANGO METADES",
+        "_20231226": 0.28651518717404445
+    },
+    {
+        "id": 2457,
+        "product_dsc": "BIFE BEIJINHO ANGUS SKP 200G",
+        "product_short_dsc": "BIFE BEIJINHO A",
+        "_20231226": 0.7168076913713076
+    },
+    {
+        "id": 2464,
+        "product_dsc": "PERA ROCHA 55/60 EMB. 800 GR",
+        "product_short_dsc": "PERA ROCHA",
+        "_20231226": 0.7056194025579937
+    },
+    {
+        "id": 2465,
+        "product_dsc": "PARGO POSTA KG",
+        "product_short_dsc": "PARGO POSTA KG",
+        "_20231226": 0.7035340547262973
+    },
+    {
+        "id": 2477,
+        "product_dsc": "MIRTILO 1 KG",
+        "product_short_dsc": "MIRTILO 1 KG",
+        "_20231226": 0.7898109258046971
+    },
+    {
+        "id": 2480,
+        "product_dsc": "(I)MAS.ESTRELINHA CONTINENTE 250GR",
+        "product_short_dsc": "ESTREL CONT",
+        "_20231226": 0.8929276737350268
+    },
+    {
+        "id": 2504,
+        "product_dsc": "BICAS",
+        "product_short_dsc": "BICAS",
+        "_20231226": 0.3928564178468586
+    },
+    {
+        "id": 2508,
+        "product_dsc": "ARROZ VAPORIZADO UNCLE BEN'S 1KG",
+        "product_short_dsc": "ARR VAPOR UBENS",
+        "_20231226": 0.8750905530513543
+    },
+    {
+        "id": 2515,
+        "product_dsc": "NOVILHO ESTUFAR CNT LS",
+        "product_short_dsc": "NOVILHO ESTUFAR",
+        "_20231226": 0.8086010122793598
+    },
+    {
+        "id": 2523,
+        "product_dsc": "RISOTTO PRONTO C/TRUFA RISO GALLO 175G",
+        "product_short_dsc": "RISOTTO 175G",
+        "_20231226": 0.6871217394104987
+    },
+    {
+        "id": 2524,
+        "product_dsc": "MACA GRANNY CNT R0 CAL.73/85 KG",
+        "product_short_dsc": "MACA GRANNY R0",
+        "_20231226": 0.8865364717958393
+    },
+    {
+        "id": 2529,
+        "product_dsc": "CARAPAU PELIM EMB. KG",
+        "product_short_dsc": "CARAPAU PEQ. KG",
+        "_20231226": 0.48569907872424145
+    },
+    {
+        "id": 2530,
+        "product_dsc": "MIRTILO CNT 200 G",
+        "product_short_dsc": "MIRTILO 200 G",
+        "_20231226": 0.4720671475352293
+    }
+]

@@ -1,0 +1,4832 @@
+[
+    {
+        "name": "Mimosa Queijo Flamengo Barra Magro",
+        "price": "10.99",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Pimento Verde",
+        "price": "3.49",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Lombos de Cação",
+        "price": "6.39",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Pargo Mulato",
+        "price": "6.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Pescada Rede Emalhar",
+        "price": "5.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Tomate Chucha",
+        "price": "2.49",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Beira Lamego Pernil Porco Fumado",
+        "price": "9.99",
+        "brand": "beira-lamego"
+    },
+    {
+        "name": "Froiz Noz da Califórnia",
+        "price": "6.09",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Alho Francês",
+        "price": "2.69",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Cavala/Sarda",
+        "price": "3.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Manga",
+        "price": "2.99",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Bifes Vitela 1ª",
+        "price": "13.48",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Galinha Grande",
+        "price": "2.39",
+        "brand": "froiz"
+    },
+    {
+        "name": "Mimosa Queijo Flamengo Barra Inteiro",
+        "price": "9.42",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Paysan Breton Queijo Camembert Le Pays",
+        "price": "23.89",
+        "brand": "paysan-breton"
+    },
+    {
+        "name": "Pimento Vermelho",
+        "price": "2.95",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Porco Rojões",
+        "price": "4.89",
+        "brand": "froiz"
+    },
+    {
+        "name": "Zespri Kiwi Verde",
+        "price": "5.99",
+        "brand": "zespri"
+    },
+    {
+        "name": "Froiz Lula",
+        "price": "12.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Entrecosto de Porco para Grelhar",
+        "price": "6.29",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Selecção Kiwi Gold",
+        "price": "5.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Queijo Sandwich Barra",
+        "price": "10.87",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Chouriço Vela Extra",
+        "price": "12.58",
+        "brand": "froiz"
+    },
+    {
+        "name": "Beringela",
+        "price": "2.49",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Pescada Pequena 700g",
+        "price": "10.55",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Coelho Embalado",
+        "price": "7.79",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Língua Vitela",
+        "price": "8.50",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Dourada",
+        "price": "7.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Esparregado",
+        "price": "5.79",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Peito Frango Bifes",
+        "price": "6.45",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Robalo do Alto Mar 800g a 1.2Kg",
+        "price": "24.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Primor Fiambre Sandwich Barra",
+        "price": "5.49",
+        "brand": "primor"
+    },
+    {
+        "name": "Continente Abacate Hass",
+        "price": "4.49",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Cenouras",
+        "price": "0,95",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Couve Roxa",
+        "price": "2.25",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Bovino Medalhões",
+        "price": "14.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Revilla Chouriço Tradição",
+        "price": "18.99",
+        "brand": "revilla"
+    },
+    {
+        "name": "Nobre Fiambre Suculento Extra",
+        "price": "7.69",
+        "brand": "nobre"
+    },
+    {
+        "name": "Lusiaves Canjinha de Galinha",
+        "price": "2.99",
+        "brand": "lusiaves"
+    },
+    {
+        "name": "Maçã Pink Lady",
+        "price": "2.85",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Congro em Postas",
+        "price": "8.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Fácil & Bom Espetadas de Peru",
+        "price": "6.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Pota Descongelada",
+        "price": "6.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Toranja Vermelha",
+        "price": "1.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Salsichão Extra",
+        "price": "12.24",
+        "brand": "froiz"
+    },
+    {
+        "name": "Bollo Melão",
+        "price": "2.79",
+        "brand": "bollo"
+    },
+    {
+        "name": "Batata Doce",
+        "price": "1.99",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Polvo-Cabeçudo",
+        "price": "6.39",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Couve Lombarda",
+        "price": "1.29",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Abóbora",
+        "price": "2.11",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Costeletas Vitelão",
+        "price": "12.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Président Queijo Roquefort",
+        "price": "30.39",
+        "brand": "president"
+    },
+    {
+        "name": "Continente Porco Costeletas do Cachaço",
+        "price": "4.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Pepinos",
+        "price": "1.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Tomate em Cacho",
+        "price": "2.65",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Cenoura",
+        "price": "1.19",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Côco",
+        "price": "2.19",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Banana Culinária",
+        "price": "3.55",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Elpozo Salsichão Montanhês",
+        "price": "18.99",
+        "brand": "elpozo"
+    },
+    {
+        "name": "Campofrio Fiambre de Peito de Frango",
+        "price": "16.89",
+        "brand": "campofrio"
+    },
+    {
+        "name": "Continente Entremeada com Osso Familiar",
+        "price": "4.89",
+        "brand": "continente"
+    },
+    {
+        "name": "Marinhas Queijo de Vaca 16% Matéria Gorda",
+        "price": "21.69",
+        "brand": "marinhas"
+    },
+    {
+        "name": "Primor Fiambre Peito de Peru",
+        "price": "12.75",
+        "brand": "primor"
+    },
+    {
+        "name": "Batata para Assar",
+        "price": "1.35",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Continente Cogumelo Marron Selecção",
+        "price": "5.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Cogumelos Setas",
+        "price": "7.15",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Azeitona Verde Retalhada",
+        "price": "5.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Fiambre de Peito de Peru Fatiado no Balcão",
+        "price": "12.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Campoaves Frango do Campo",
+        "price": "4.48",
+        "brand": "campoaves"
+    },
+    {
+        "name": "Froiz Bacon Fumado Natural",
+        "price": "10.90",
+        "brand": "froiz"
+    },
+    {
+        "name": "Quinta dos Ingleses Queijo",
+        "price": "12.70",
+        "brand": "quinta-dos-ingleses"
+    },
+    {
+        "name": "Primor Fiambre da Perna",
+        "price": "11.29",
+        "brand": "primor"
+    },
+    {
+        "name": "Maçarico Azeitonas Pretas Oxidadas Inteira",
+        "price": "5.99",
+        "brand": "macarico"
+    },
+    {
+        "name": "Beira Lamego Presunto Reserva",
+        "price": "21.99",
+        "brand": "beira-lamego"
+    },
+    {
+        "name": "Froiz Pera Ercolini",
+        "price": "4.65",
+        "brand": "froiz"
+    },
+    {
+        "name": "Del Monte Abacaxi",
+        "price": "2.65",
+        "brand": "del-monte"
+    },
+    {
+        "name": "Froiz Tamboril",
+        "price": "11.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Tomate",
+        "price": "3.19",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Robalo Grande",
+        "price": "8.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Tomate Calibre 70/102",
+        "price": "2.29",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Cachaço de Porco com Osso",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Terra Nostra Queijo Flamengo em Barrra",
+        "price": "10.89",
+        "brand": "terra-nostra"
+    },
+    {
+        "name": "Continente Selecção Frango Campo Perninhas",
+        "price": "7.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Asas de Raia",
+        "price": "14.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Primor Bacon Extra Manta",
+        "price": "17.55",
+        "brand": "primor"
+    },
+    {
+        "name": "Alface Iceberg",
+        "price": "1.05",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Peito Frango",
+        "price": "6.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Entremeada Porco Fresca",
+        "price": "4.89",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Robalo",
+        "price": "7.50",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Pêra Conferência",
+        "price": "2.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Broa de Milho com Chouriço",
+        "price": "3.79",
+        "brand": "froiz"
+    },
+    {
+        "name": "Angus Novilho Lombo Fatiado",
+        "price": "29.99",
+        "brand": "angus"
+    },
+    {
+        "name": "Campofrio Fiambre de Peito de Peru Fatiado no Balcão",
+        "price": "17.99",
+        "brand": "campofrio"
+    },
+    {
+        "name": "Garcia Baquero Queijo Castelhano Semi-curado",
+        "price": "17.00",
+        "brand": "garcia-baquero"
+    },
+    {
+        "name": "Cantoliva Azeitona Mista com Azeite, Alho e Orégãos",
+        "price": "6.39",
+        "brand": "cantoliva"
+    },
+    {
+        "name": "Président Queijo Brie",
+        "price": "17.99",
+        "brand": "president"
+    },
+    {
+        "name": "San Luis Chouriço Galego",
+        "price": "13.81",
+        "brand": "san-luis"
+    },
+    {
+        "name": "Beira Lamego Paio Lombo Cura Natural",
+        "price": "19.49",
+        "brand": "beira-lamego"
+    },
+    {
+        "name": "Froiz Tomate Pera",
+        "price": "2.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Camarão Selvagem Madagáscar 20/30 Congelado",
+        "price": "29.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Beira Lamego Toucinho Fumado",
+        "price": "21.69",
+        "brand": "beira-lamego"
+    },
+    {
+        "name": "Coren Frango do Campo",
+        "price": "4.48",
+        "brand": "coren"
+    },
+    {
+        "name": "Continente Tamarilho",
+        "price": "12.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Alho Francês",
+        "price": "2.85",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Laranja do Algarve",
+        "price": "1.25",
+        "brand": "froiz"
+    },
+    {
+        "name": "Santa Teresa Marmelada Natural",
+        "price": "16.66",
+        "brand": "santa-teresa"
+    },
+    {
+        "name": "Nordigal Arroz Xau-Xau",
+        "price": "3.96",
+        "brand": "nordigal"
+    },
+    {
+        "name": "Froiz Bacalhau da Noruega Especial",
+        "price": "18.75",
+        "brand": "froiz"
+    },
+    {
+        "name": "Pepino",
+        "price": "1.99",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Agrodelta Azeitonas Pretas Oxidadas",
+        "price": "6.99",
+        "brand": "agrodelta"
+    },
+    {
+        "name": "Froiz Porco Pá York Fresca",
+        "price": "3.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Paysan Breton Queijo Brie",
+        "price": "18.99",
+        "brand": "paysan-breton"
+    },
+    {
+        "name": "Primor Bacon Extra sem Couro e sem Cartilagem",
+        "price": "16.75",
+        "brand": "primor"
+    },
+    {
+        "name": "Collell Salame Extra Ervas Finas",
+        "price": "13.36",
+        "brand": "collell"
+    },
+    {
+        "name": "Froiz Moelas Frango",
+        "price": "3.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Perninhas de Peru",
+        "price": "3.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Pingo Doce Bife de Frango Embalagem",
+        "price": "6.98",
+        "brand": "pingo-doce"
+    },
+    {
+        "name": "Froiz Arinca",
+        "price": "5.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Camarão Cozido 30/50 Fresco",
+        "price": "10.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Kumquat Selecção",
+        "price": "13.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Mexilhão",
+        "price": "2.19",
+        "brand": "continente"
+    },
+    {
+        "name": "Continente Uva Branca sem Grainha",
+        "price": "2.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Tentáculos de Pota",
+        "price": "6.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Fiambre Perna Extra",
+        "price": "12.18",
+        "brand": "froiz"
+    },
+    {
+        "name": "Avibom Pato Congelado",
+        "price": "4.98",
+        "brand": "avibom"
+    },
+    {
+        "name": "Froiz Papaia",
+        "price": "5.59",
+        "brand": "froiz"
+    },
+    {
+        "name": "Nordfish Bacalhau Lombos 200/300",
+        "price": "21.79",
+        "brand": "nordfish"
+    },
+    {
+        "name": "Elpozo Mortadela com Azeitonas",
+        "price": "7.29",
+        "brand": "elpozo"
+    },
+    {
+        "name": "Primor Paio York Vermelho",
+        "price": "11.79",
+        "brand": "primor"
+    },
+    {
+        "name": "Froiz Costeletas Vitela 1ª",
+        "price": "13.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "García Baquero Queijo Cabra",
+        "price": "24.41",
+        "brand": "garcia-baquero"
+    },
+    {
+        "name": "Froiz Amêijoa Branca",
+        "price": "9.10",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Carcaça de Frango",
+        "price": "1.19",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Lombo de Porco sem Osso",
+        "price": "5.29",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Rojões de Porco",
+        "price": "4.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Camarão 50-70",
+        "price": "9.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Bollo Clementina Folha",
+        "price": "2.85",
+        "brand": "bollo"
+    },
+    {
+        "name": "Froiz Pescada Pequena 1-2Kg",
+        "price": "8.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Lombo de Atum MSC Descongelado",
+        "price": "14.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Porco Pernil Fumado",
+        "price": "6.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Sombrero de Copa Queijo Gouda Redondo",
+        "price": "13.24",
+        "brand": "sombrero-de-copa"
+    },
+    {
+        "name": "Froiz Mexilhão",
+        "price": "2.69",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Asas Peru",
+        "price": "2.48",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Carapauzinho",
+        "price": "3.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Elpozo Mortadela de Peru com Azeitonas",
+        "price": "8.95",
+        "brand": "elpozo"
+    },
+    {
+        "name": "Bollo Laranja de Mesa",
+        "price": "1.85",
+        "brand": "bollo"
+    },
+    {
+        "name": "Bama Queijo Arzúa-Ulloa Grande",
+        "price": "13.20",
+        "brand": "bama"
+    },
+    {
+        "name": "Froiz Porco Ouvidos",
+        "price": "5.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Bacalhau Noruega Graúdo",
+        "price": "15.75",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Peito Frango Bife",
+        "price": "8.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Dourada Grande",
+        "price": "8.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Mão de Vitela",
+        "price": "5.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Vazio Vitela",
+        "price": "19.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Navidul Presunto Ibérico Serrado Reserva 12 meses",
+        "price": "89.00",
+        "brand": "navidul"
+    },
+    {
+        "name": "Froiz Peito de Peru",
+        "price": "7.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Primor Mortadela com Pimenta",
+        "price": "5.69",
+        "brand": "primor"
+    },
+    {
+        "name": "Uva Rosada",
+        "price": "3.85",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Porco Cabeça Fumada",
+        "price": "8.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Pota",
+        "price": "5.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Clementina Nacional",
+        "price": "1.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Amêijoa-Japonesa",
+        "price": "9.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Inhame",
+        "price": "5.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Repolho",
+        "price": "0,99",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Continente Maçã Gala Resíduo Zero 600g",
+        "price": "1.69",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Solha-Legítima",
+        "price": "8.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "D. Dinis Queijo Curado Prato",
+        "price": "9.85",
+        "brand": "d-dinis"
+    },
+    {
+        "name": "Froiz Verdinho",
+        "price": "2.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Borrego Nacional Fresco com Cabeça 5-7Kg",
+        "price": "15.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Aba de Vitelão",
+        "price": "9.98",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Vazio Vitelão",
+        "price": "19.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Lombinho de Porco",
+        "price": "7.89",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Panados de Porco",
+        "price": "7.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "ElPozo Mortadela",
+        "price": "7.29",
+        "brand": "elpozo"
+    },
+    {
+        "name": "Froiz Porco Costeletas do Cachaço",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Nabo sem Rama",
+        "price": "1.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Patros Queijo Barra",
+        "price": "11.36",
+        "brand": "patros"
+    },
+    {
+        "name": "Froiz Asas de Frango",
+        "price": "2.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Congro",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Sardinha Petinga",
+        "price": "5.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Lusiaves Asas Frango Tempero Pimentão",
+        "price": "4.95",
+        "brand": "lusiaves"
+    },
+    {
+        "name": "Froiz Entremeada Fatias",
+        "price": "5.29",
+        "brand": "froiz"
+    },
+    {
+        "name": "Toranja Vermelha",
+        "price": "2.09",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Maçã Royal Gala Nacional",
+        "price": "1.89",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Maçã Reineta",
+        "price": "1.89",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Carapau",
+        "price": "4.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Porco Entrecosto",
+        "price": "5.69",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Vitela Acém com Osso",
+        "price": "11.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Maçarico Tremoços",
+        "price": "4.45",
+        "brand": "macarico"
+    },
+    {
+        "name": "Continente Equilíbrio Fiambre Peito de Frango",
+        "price": "11.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Froiz Maçã Granny Smith",
+        "price": "2.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Fígado Frango",
+        "price": "2.29",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Camarão Cozido Grande",
+        "price": "10.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Lima",
+        "price": "4.09",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Couve Flor",
+        "price": "3.75",
+        "brand": "froiz"
+    },
+    {
+        "name": "El Pastor Queijo Mistura Curado",
+        "price": "17.97",
+        "brand": "el-pastor"
+    },
+    {
+        "name": "Froiz Fiambre da Perna Extra Reduzido Teor em Sal",
+        "price": "12.18",
+        "brand": "froiz"
+    },
+    {
+        "name": "Cogumelo Branco",
+        "price": "4.79",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Continente Ameijoa Japonesa",
+        "price": "11.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Maçã Golden Primeira",
+        "price": "3.45",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Beira Lamego Chouriço Corrente Vinho",
+        "price": "9.29",
+        "brand": "beira-lamego"
+    },
+    {
+        "name": "Elpozo Mortadela Legado Ibérica",
+        "price": "8.95",
+        "brand": "elpozo"
+    },
+    {
+        "name": "Froiz Bochechas Porco Frescas",
+        "price": "10.49",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Faneca Fresca",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "García Baquero Queijo Curado Maestro Reserva 12 Meses",
+        "price": "22.58",
+        "brand": "garcia-baquero"
+    },
+    {
+        "name": "Primor Chourição",
+        "price": "6.75",
+        "brand": "primor"
+    },
+    {
+        "name": "Froiz Maçã Jonagored",
+        "price": "1.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Mandioca",
+        "price": "3.99",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Continente Porco Bifanas Familiar",
+        "price": "3.99",
+        "brand": "continente"
+    },
+    {
+        "name": "Maçã Golden",
+        "price": "1.79",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Froiz Alho",
+        "price": "7.59",
+        "brand": "froiz"
+    },
+    {
+        "name": "Revilla Chouriço Tradição Picante",
+        "price": "18.99",
+        "brand": "revilla"
+    },
+    {
+        "name": "Froiz Cebola Achatada",
+        "price": "1.95",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Pera Conferência de Bierzo",
+        "price": "1.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Sicasal Fiambre da Pá",
+        "price": "9.49",
+        "brand": "sicasal"
+    },
+    {
+        "name": "Froiz Presunto Serrano Reduzido Em Sal Reserva Fatias",
+        "price": "22.31",
+        "brand": "froiz"
+    },
+    {
+        "name": "Dicarvi Lombo de Porco Temperado",
+        "price": "5.89",
+        "brand": "dicarvi"
+    },
+    {
+        "name": "El Quijote Marmelada Lata",
+        "price": "4.75",
+        "brand": "el-quijote"
+    },
+    {
+        "name": "Nobre Toucinho Fumado Extra Metades",
+        "price": "25.39",
+        "brand": "nobre"
+    },
+    {
+        "name": "Froiz Porco Costeletas do Lombo",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Continente Frango para Churrasco",
+        "price": "3.49",
+        "brand": "continente"
+    },
+    {
+        "name": "Gresso Chef Queijo Mozzarella Barra",
+        "price": "12.99",
+        "brand": "gresso"
+    },
+    {
+        "name": "Froiz Pato Extra Fresco",
+        "price": "4.48",
+        "brand": "froiz"
+    },
+    {
+        "name": "Froiz Porco Costeletas Mistas",
+        "price": "4.99",
+        "brand": "froiz"
+    },
+    {
+        "name": "Maçã Golden Nacional",
+        "price": "1.39",
+        "brand": "sem-marca"
+    },
+    {
+        "name": "Compal Feijão Branco da Horta Lata 410g",
+        "price": "1.06",
+        "brand": "compal"
+    },
+    {
+        "name": "Gillette Lâminas Descartáveis Venus Simply Basic 4un",
+        "price": "1.60",
+        "brand": "gillette"
+    },
+    {
+        "name": "Compal Feijão Frade da Horta Lata 410g",
+        "price": "1.06",
+        "brand": "compal"
+    },
+    {
+        "name": "Gullón Bolacha Chip Choco Diet Nature 125g",
+        "price": "2.13",
+        "brand": "gullon"
+    },
+    {
+        "name": "Nestlé Saqueta Sobremesa Láctea Yogolino Maçã e Morango 100g",
+        "price": "1.03",
+        "brand": "nestle"
+    },
+    {
+        "name": "Margao Noz Moscada em Grão 70g",
+        "price": "3.46",
+        "brand": "margao"
+    },
+    {
+        "name": "Compal Tomate Triturado da Horta 500g",
+        "price": "1.33",
+        "brand": "compal"
+    },
+    {
+        "name": "Kinder Ovo Chocolate Surpresa 3x20g",
+        "price": "3.61",
+        "brand": "kinder"
+    },
+    {
+        "name": "L'OR Cápsulas Café Expresso Forza 10un",
+        "price": "2.90",
+        "brand": "lor"
+    },
+    {
+        "name": "Reese's Chocolate Mini Recheio Manteiga Amendoim 90g",
+        "price": "1.73",
+        "brand": "reeses"
+    },
+    {
+        "name": "Delaviuda Bombons Trufas Chocolate Leite 150g",
+        "price": "1.90",
+        "brand": "delaviuda"
+    },
+    {
+        "name": "Adega Ponte de Lima Vinho Verde Rosé 75cl",
+        "price": "2.54",
+        "brand": "adega-ponte-de-lima"
+    },
+    {
+        "name": "Pintarolas Drageias de Chocolate 3x22g",
+        "price": "1.53",
+        "brand": "pintarolas"
+    },
+    {
+        "name": "Knorr Caldo para Arroz  8 Cubos 80g",
+        "price": "1.21",
+        "brand": "knorr"
+    },
+    {
+        "name": "Nestlé Chocolate de Leite Extra Fino 125g",
+        "price": "1.86",
+        "brand": "nestle"
+    },
+    {
+        "name": "Nestlé Chocolate Preto 125g",
+        "price": "2.00",
+        "brand": "nestle"
+    },
+    {
+        "name": "Oreo Bolacha Coberta com Chocolate Branco 246g",
+        "price": "2.67",
+        "brand": "oreo"
+    },
+    {
+        "name": "Compal Feijão Encarnado da Horta Lata 410g",
+        "price": "1.06",
+        "brand": "compal"
+    },
+    {
+        "name": "Palmolive Sabonete Indulging Delight Leite & Mel 360g",
+        "price": "2.54",
+        "brand": "palmolive"
+    },
+    {
+        "name": "Fontenário de Pegões Vinho Tinto Setúbal 75cl",
+        "price": "2.16",
+        "brand": "fontanario-de-pegoes"
+    },
+    {
+        "name": "Nutella Bolachas Crocantes Recheadas com Chocolate B-Ready 2x44g",
+        "price": "1.14",
+        "brand": "nutella"
+    },
+    {
+        "name": "Vieira Amêndoas Chocolate Branco com Flocos de Framboesa Premium  160g",
+        "price": "3.74",
+        "brand": "vieira"
+    },
+    {
+        "name": "Listerine Elixir Bucal Total Care 1l",
+        "price": "9.38",
+        "brand": "listerine"
+    },
+    {
+        "name": "Luso Fruta Água Sabor Limão 1L",
+        "price": "1.54",
+        "brand": "luso"
+    },
+    {
+        "name": "Vieira Amêndoas de Chocolate Branco com Sabor Limão Premium 160g",
+        "price": "3.74",
+        "brand": "vieira"
+    },
+    {
+        "name": "Nobre Especialidade Vegetariana de Tofu Tipo Salsicha Vegalia 8un",
+        "price": "1.94",
+        "brand": "nobre"
+    },
+    {
+        "name": "Porminho Salame Fatiado Preço Amigo 80g",
+        "price": "1.14",
+        "brand": "porminho"
+    },
+    {
+        "name": "Kinder Coelho de Chocolate com Surpresa Rosa 75g",
+        "price": "2.67",
+        "brand": "kinder"
+    },
+    {
+        "name": "Nacional Granola de Aveia Integral com Cacau e Chocolate Negro 300g",
+        "price": "2.54",
+        "brand": "nacional"
+    },
+    {
+        "name": "Pantagruel Pepitas de Chocolate 70% Cacau 200g",
+        "price": "3.15",
+        "brand": "pantagruel"
+    },
+    {
+        "name": "Branca De Neve Preparado Bolo Laranja 450g",
+        "price": "3.84",
+        "brand": "branca-de-neve"
+    },
+    {
+        "name": "Hansaplast Pensos para Bolhas SOS 5un",
+        "price": "4.61",
+        "brand": "hansaplast"
+    },
+    {
+        "name": "Rialto Picagrill Cubitos Tostados Com Alho E Salsa 75g",
+        "price": "1.03",
+        "brand": "rialto"
+    },
+    {
+        "name": "La Piara Paté de Fígado de Porco 75g",
+        "price": "0,67",
+        "brand": "la-piara"
+    },
+    {
+        "name": "Milaneza Massa de Espirais Molde Bronze 500g",
+        "price": "0,88",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Lagoalva Vinho Tinto Tejo Reserva 75cl",
+        "price": "6.27",
+        "brand": "quinta-da-lagoalva"
+    },
+    {
+        "name": "Milka Bolachas Cookies Sensations Oreo 156g",
+        "price": "2.94",
+        "brand": "milka"
+    },
+    {
+        "name": "Limiano Queijo de Mistura Amanteigado 450g",
+        "price": "5.26",
+        "brand": "limiano"
+    },
+    {
+        "name": "Agros Leite com Chocolate 4x200ml",
+        "price": "1.48",
+        "brand": "agros"
+    },
+    {
+        "name": "Nestlé Chocolate Preto 90g",
+        "price": "1.27",
+        "brand": "nestle"
+    },
+    {
+        "name": "Pavão Vinho Verde Branco 75cl",
+        "price": "1.84",
+        "brand": "pavao"
+    },
+    {
+        "name": "Ferbar Feijão Branco Cozido 380g",
+        "price": "0,86",
+        "brand": "ferbar"
+    },
+    {
+        "name": "Gullón Bolacha Vitalday Aveia e Chips Chocolate 240g",
+        "price": "2.20",
+        "brand": "gullon"
+    },
+    {
+        "name": "Gullón Vitalday Tortitas Biológicas de Arroz Integral e Chocolate Negro 105g",
+        "price": "2.54",
+        "brand": "gullon"
+    },
+    {
+        "name": "Ferbar Ananás Rodelas em Sumo Natural  820g",
+        "price": "3.49",
+        "brand": "ferbar"
+    },
+    {
+        "name": "Sunquick Concentrado Laranja e Pêssego 70cl",
+        "price": "4.14",
+        "brand": "sunquick"
+    },
+    {
+        "name": "Paladin Molho Para Batatas Fritas  Top Down 275ml",
+        "price": "1.29",
+        "brand": "paladin"
+    },
+    {
+        "name": "Ferreira Vinho do Porto Dona Antónia Reserva Tawny 75cl",
+        "price": "12.06",
+        "brand": "ferreira"
+    },
+    {
+        "name": "Mimosa Manteiga de Alho 20x10g",
+        "price": "2.43",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Giovanni Rana Ravioli Boletus Edulis 250g",
+        "price": "3.74",
+        "brand": "giovanni-rana"
+    },
+    {
+        "name": "Babybel Queijo Light Mini 6un 120g",
+        "price": "2.53",
+        "brand": "babybel"
+    },
+    {
+        "name": "Snickers Chocolate Snack 3x50g",
+        "price": "2.13",
+        "brand": "snickers"
+    },
+    {
+        "name": "Compal Feijão Preto da Horta Lata 425g",
+        "price": "1.19",
+        "brand": "compal"
+    },
+    {
+        "name": "Milka Chocolate Leite Bubbly 90g",
+        "price": "1.80",
+        "brand": "milka"
+    },
+    {
+        "name": "Domini Vinho Tinto Douro 75cl",
+        "price": "4.79",
+        "brand": "domini"
+    },
+    {
+        "name": "Mombasa Club Gin 70cl",
+        "price": "31.86",
+        "brand": "mombasa-club"
+    },
+    {
+        "name": "Nacional Bolachas Alfa 180g",
+        "price": "1.02",
+        "brand": "nacional"
+    },
+    {
+        "name": "Matinal Queijo Fresco Magro 3x72g",
+        "price": "1.95",
+        "brand": "matinal"
+    },
+    {
+        "name": "Royal Fermento em Pó 80g",
+        "price": "1.15",
+        "brand": "royal"
+    },
+    {
+        "name": "Koka Noodles Instantâneos Cogumelos 85g",
+        "price": "0,79",
+        "brand": "koka"
+    },
+    {
+        "name": "Milka Bolacha Mini Waffers 110g",
+        "price": "2.07",
+        "brand": "milka"
+    },
+    {
+        "name": "Mimosa Manteiga com Sal 20x8g",
+        "price": "1.91",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Milka Bolacha Cookies XL Choco 184g",
+        "price": "2.75",
+        "brand": "milka"
+    },
+    {
+        "name": "Quinta da Alorna Vinho Branco Tejo 75cl",
+        "price": "3.51",
+        "brand": "quinta-da-alorna"
+    },
+    {
+        "name": "Margão Mistura de Pimenta em Grão 25g",
+        "price": "1.61",
+        "brand": "margao"
+    },
+    {
+        "name": "Suchard Express Bebida de Chocolate Solúvel 500g",
+        "price": "2.91",
+        "brand": "suchard"
+    },
+    {
+        "name": "Bom Petisco Bacalhau em Azeite Virgem Extra e Alho 120g",
+        "price": "3.40",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Lindt Chocolate Excellence Preto Chili 100g",
+        "price": "2.94",
+        "brand": "lindt"
+    },
+    {
+        "name": "Conde de Arraiolos Vinho Tinto Alentejo 75cl",
+        "price": "2.15",
+        "brand": "conde-de-arraiolos"
+    },
+    {
+        "name": "Guloso Tomate em Pedaços com Orégãos e Manjericão 400g",
+        "price": "1.73",
+        "brand": "guloso"
+    },
+    {
+        "name": "Gullón Bolacha Vitalday Crocante Chocolate 280g",
+        "price": "2.20",
+        "brand": "gullon"
+    },
+    {
+        "name": "Oreo Bolacha com Cobertura de Chocolate de Leite 246g",
+        "price": "2.67",
+        "brand": "oreo"
+    },
+    {
+        "name": "Bom Petisco Sardinhas em Tomate 120g",
+        "price": "1.14",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Caçarola Arroz Basmati 1Kg",
+        "price": "2.30",
+        "brand": "cacarola"
+    },
+    {
+        "name": "Cigala Arroz Basmati Brajma 1Kg",
+        "price": "2.42",
+        "brand": "cigala"
+    },
+    {
+        "name": "Vista Alegre Conjunto Chávena de Café e Pires Porcelana Sagres",
+        "price": "2.40",
+        "brand": "vista-alegre"
+    },
+    {
+        "name": "Tuc Bolachas Cracker Integral 267g",
+        "price": "2.67",
+        "brand": "tuc"
+    },
+    {
+        "name": "Garofalo Massa Gnocchi Di Patate 500g",
+        "price": "1.96",
+        "brand": "garofalo"
+    },
+    {
+        "name": "Rummo Massa Penne Integral Bio 500g",
+        "price": "1.34",
+        "brand": "rummo"
+    },
+    {
+        "name": "Miyata Massa Udon Noodles 300g",
+        "price": "1.42",
+        "brand": "miyata"
+    },
+    {
+        "name": "Artiach Bolacha Filipinos Cobertas Frutos Vermelhos 128g",
+        "price": "1.66",
+        "brand": "artiach"
+    },
+    {
+        "name": "Koka Noodles Instantâneos Caril 85g",
+        "price": "0,62",
+        "brand": "koka"
+    },
+    {
+        "name": "Paladin Vinagre de Vinho Tinto 500ml",
+        "price": "1.14",
+        "brand": "paladin"
+    },
+    {
+        "name": "Milaneza Massa Spaghetti Tricolore 500g",
+        "price": "1.03",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Mistolin Spray Tira Gorduras com Lixívia 545ml",
+        "price": "2.13",
+        "brand": "mistolin"
+    },
+    {
+        "name": "Monsaraz Vinho Tinto Reserva Alentejo 75cl",
+        "price": "4.87",
+        "brand": "monsaraz"
+    },
+    {
+        "name": "Oreo Bolacha com Creme 220g",
+        "price": "2.13",
+        "brand": "oreo"
+    },
+    {
+        "name": "Ucal Leite com Chocolate Light 6x250ml",
+        "price": "5.20",
+        "brand": "ucal"
+    },
+    {
+        "name": "Gullón Bolacha Vitalday Cereais Frutos Vermelhos 240g",
+        "price": "2.20",
+        "brand": "gullon"
+    },
+    {
+        "name": "Vercoope Vinho Branco 1L",
+        "price": "1.65",
+        "brand": "vercoope"
+    },
+    {
+        "name": "Bom Petisco Hamburgers de Atum 2x75g",
+        "price": "3.53",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Vileda Recarga Esfregona Tiras Microfibra Azuis Super 1un",
+        "price": "5.35",
+        "brand": "vileda"
+    },
+    {
+        "name": "Ferrero Rocher Tablete de Chocolate e Avelã 90g",
+        "price": "2.80",
+        "brand": "ferrero"
+    },
+    {
+        "name": "Finish Abrilhantador Brilho & Secagem Limão 800ml",
+        "price": "7.36",
+        "brand": "finish"
+    },
+    {
+        "name": "Toblerone Chocolate Branco 100g",
+        "price": "2.67",
+        "brand": "toblerone"
+    },
+    {
+        "name": "Riberalves Bacalhau Desfiado 400g",
+        "price": "4.84",
+        "brand": "riberalves"
+    },
+    {
+        "name": "CRF Aguardente Velha Reserva com Oferta Copo 70cl",
+        "price": "16.30",
+        "brand": "crf"
+    },
+    {
+        "name": "Kellogg's Cereais All Bran Fruta e Fibra 500g",
+        "price": "3.61",
+        "brand": "kelloggs"
+    },
+    {
+        "name": "Cem Porcento Bolacha Tradicional Integral 250g",
+        "price": "1.94",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Monte da Ravasqueira Vinho Tinto Premium Alentejo 75cl",
+        "price": "35.74",
+        "brand": "monte-da-ravasqueira"
+    },
+    {
+        "name": "José Maria Da Fonseca Vinho Branco Verdelho Colecçao Privada 2014 Setúbal 75cl",
+        "price": "7.58",
+        "brand": "jose-maria-da-fonseca"
+    },
+    {
+        "name": "Jameson Whisky Vlack Barrel com Oferta Copo 70cl",
+        "price": "31.37",
+        "brand": "jameson"
+    },
+    {
+        "name": "Amoos Rolo de Cozinha Aquactive com Sabão 1un",
+        "price": "4.95",
+        "brand": "amoos"
+    },
+    {
+        "name": "Heinz Molho de Soja 150ml",
+        "price": "1.33",
+        "brand": "heinz"
+    },
+    {
+        "name": "Paladin Mostarda 250g",
+        "price": "1.01",
+        "brand": "paladin"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi sem Lactose Morango/Banana 4x160g",
+        "price": "2.07",
+        "brand": "nestle"
+    },
+    {
+        "name": "Milka  Chocolate Bolacha  300g",
+        "price": "3.74",
+        "brand": "milka"
+    },
+    {
+        "name": "Lagosta Vinho Verde Rosé 75cl",
+        "price": "3.02",
+        "brand": "lagosta"
+    },
+    {
+        "name": "Milka Tablete de Chocolate com Oreo Sandwich 92g",
+        "price": "1.80",
+        "brand": "milka"
+    },
+    {
+        "name": "Mutti Molho Tomate para Pizza 400g",
+        "price": "1.33",
+        "brand": "mutti"
+    },
+    {
+        "name": "Cem Porcento Biscoitos Integrais Alfarroba 250g",
+        "price": "2.27",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Poliphonia Vinho Branco Reserva 2013 Alentejo 75cl",
+        "price": "7.76",
+        "brand": "poliphonia"
+    },
+    {
+        "name": "V.Barris Vinho Tinto Setúbal 75cl",
+        "price": "2.28",
+        "brand": "vbarris"
+    },
+    {
+        "name": "Milka Chocolate Caramelo Peanut 276g",
+        "price": "4.31",
+        "brand": "milka"
+    },
+    {
+        "name": "Garofalo Massa Spaghettini 500g",
+        "price": "1.46",
+        "brand": "garofalo"
+    },
+    {
+        "name": "Bom Petisco Filete de Cavala em Azeite Virgem Extra 120g",
+        "price": "2.24",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Pescanova Medalhões Pescada 1Kg",
+        "price": "12.36",
+        "brand": "pescanova"
+    },
+    {
+        "name": "Calve Molho Mad Chips Top Down 250ml",
+        "price": "1.73",
+        "brand": "calve"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Deqafeinatus 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Palmolive Sabonete Naturals Sensitive 4x90g",
+        "price": "1.54",
+        "brand": "palmolive"
+    },
+    {
+        "name": "Parmalat Natas para Bater 200ml",
+        "price": "0,81",
+        "brand": "parmalat"
+    },
+    {
+        "name": "Nestlé Leite Condensado Tradicional 370g",
+        "price": "1.79",
+        "brand": "nestle"
+    },
+    {
+        "name": "Milka Chocolate Choco Jelly  250g",
+        "price": "4.31",
+        "brand": "milka"
+    },
+    {
+        "name": "Oreo Bolacha com Creme Tubo 154g",
+        "price": "1.43",
+        "brand": "oreo"
+    },
+    {
+        "name": "Sugus Caramelos de Morango 45g",
+        "price": "0,98",
+        "brand": "sugus"
+    },
+    {
+        "name": "Omo Detergente em Pó 540g",
+        "price": "2.00",
+        "brand": "omo"
+    },
+    {
+        "name": "Delta Q Café Cápsulas MythiQ 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Qalidus 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Primor Manteiga com Sal Cuvete 250g",
+        "price": "2.12",
+        "brand": "primor"
+    },
+    {
+        "name": "Bom Petisco Atum Ao Natural 120g",
+        "price": "1.54",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Nescafé Café Dolce Gusto Cappuccino 16un",
+        "price": "4.98",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Guloso  Polpa de Tomate Garrafa 500g",
+        "price": "1.16",
+        "brand": "guloso"
+    },
+    {
+        "name": "Oreo Bolacha com Creme Family Format 440g",
+        "price": "3.73",
+        "brand": "oreo"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Frutos Tropicais 4x160g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Gordon's Gin Premium Pink 70cl",
+        "price": "17.81",
+        "brand": "gordons"
+    },
+    {
+        "name": "Gillette Máquina Barbear Descartável Blue II 5+1un",
+        "price": "2.06",
+        "brand": "gillette"
+    },
+    {
+        "name": "Chiclets Pastilhas Elásticas Ice Spearmint 17g",
+        "price": "0,74",
+        "brand": "chiclets"
+    },
+    {
+        "name": "Paladin Molho Coentros 250ml",
+        "price": "1.87",
+        "brand": "paladin"
+    },
+    {
+        "name": "Nescafé Café Solúvel Gold Espresso Intenso 100g",
+        "price": "5.82",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Hellmann's Maionese Frasco 208g",
+        "price": "2.79",
+        "brand": "hellmanns"
+    },
+    {
+        "name": "Próvida Bebida Vegetal de Aveia sem Glúten Biológica 1L",
+        "price": "1.91",
+        "brand": "provida"
+    },
+    {
+        "name": "Milka Chocolate de Iogurte Morango 100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Cuétara Bolacha Maria 4x200g",
+        "price": "2.45",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Mimosa Iogurte Morango/Coco/Tutti-Frutti 8x125g",
+        "price": "1.68",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Trident Pastilha Elástica Peppermint Oral B  17g",
+        "price": "0,98",
+        "brand": "trident"
+    },
+    {
+        "name": "Trident Pastilha Elástica Spearmint Oral B  17g",
+        "price": "0,98",
+        "brand": "trident"
+    },
+    {
+        "name": "Sensodyne Pasta Dentifríca Multicare 2x75ml",
+        "price": "5.21",
+        "brand": "sensodyne"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Tinto Palmela 75cl",
+        "price": "3.77",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Cuétara Bolacha Recheada com Bocaditos Limão 150g",
+        "price": "1.66",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Danone Iogurte Morango/Banana/Tutti Frutti 8x120g",
+        "price": "1.61",
+        "brand": "danone"
+    },
+    {
+        "name": "Nestlé Chocolate Culinário 44% Cacau 200g",
+        "price": "2.06",
+        "brand": "nestle"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Epiq 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Baileys Licor Irish Cream 70cl",
+        "price": "15.07",
+        "brand": "baileys"
+    },
+    {
+        "name": "Gordon's Gin 70cl",
+        "price": "13.70",
+        "brand": "gordons"
+    },
+    {
+        "name": "Saborosa Bolachas Belgas Manteiga 220g",
+        "price": "1.44",
+        "brand": "saborosa"
+    },
+    {
+        "name": "Lindt Chocolate Preto Excellence 85%  100g",
+        "price": "3.41",
+        "brand": "lindt"
+    },
+    {
+        "name": "Pantagruel Chocolate Culinário Branco 200g",
+        "price": "3.46",
+        "brand": "pantagruel"
+    },
+    {
+        "name": "Milka  Chocolate Creme De Cacau 100g",
+        "price": "1.86",
+        "brand": "milka"
+    },
+    {
+        "name": "Bacardi Rum Carta Blanca 70cl",
+        "price": "16.99",
+        "brand": "bacardi"
+    },
+    {
+        "name": "Mateus Vinho Rosé 75cl",
+        "price": "3.49",
+        "brand": "mateus"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Morango 4x160g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Casal Garcia Vinho Verde Branco 75cl",
+        "price": "3.34",
+        "brand": "casal-garcia"
+    },
+    {
+        "name": "Cadbury Chocolate Crunchie 40g",
+        "price": "1.34",
+        "brand": "cadbury"
+    },
+    {
+        "name": "Koala Gelatina de Morango 130g",
+        "price": "1.01",
+        "brand": "koala"
+    },
+    {
+        "name": "Nescafé Café Dolce Gusto Au Lait 16un",
+        "price": "4.98",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Cacho Fresco Vinho Frisante Branco 75cl",
+        "price": "1.64",
+        "brand": "cacho-fresco"
+    },
+    {
+        "name": "Porta da Ravessa Vinho Tinto Alentejo 75cl",
+        "price": "1.91",
+        "brand": "porta-da-ravessa"
+    },
+    {
+        "name": "Toblerone Chocolate de Leite 100g",
+        "price": "3.86",
+        "brand": "toblerone"
+    },
+    {
+        "name": "Tena Slip Incontinência Plus L 14un",
+        "price": "12.57",
+        "brand": "tena"
+    },
+    {
+        "name": "Mexifoods Wraps de Trigo 370g",
+        "price": "2.40",
+        "brand": "mexifoods"
+    },
+    {
+        "name": "Biokill Spray Inseticida 375ml",
+        "price": "5.55",
+        "brand": "biokill"
+    },
+    {
+        "name": "Chiclets Pastilhas Elásticas Fire Canela 17g",
+        "price": "0,74",
+        "brand": "chiclets"
+    },
+    {
+        "name": "Tena Cuecas Incontinência Plus M 14un",
+        "price": "11.02",
+        "brand": "tena"
+    },
+    {
+        "name": "Kinder Chocolate Bueno 43g",
+        "price": "1.12",
+        "brand": "kinder"
+    },
+    {
+        "name": "Ajax Lava Tudo Fabuloso Montanha 1.25L",
+        "price": "2.23",
+        "brand": "ajax"
+    },
+    {
+        "name": "Harpic Gel Desinfetante Duraguard Pinho 750ml",
+        "price": "1.77",
+        "brand": "harpic"
+    },
+    {
+        "name": "Tetley Chá Cidreira 10 saquetas",
+        "price": "0,87",
+        "brand": "tetley"
+    },
+    {
+        "name": "Mars Chocolate Single 50g",
+        "price": "0,81",
+        "brand": "mars"
+    },
+    {
+        "name": "Trident Pastilhas Elásticas Frutos Silvestres 15g",
+        "price": "0,61",
+        "brand": "trident"
+    },
+    {
+        "name": "Nescafé Café Dolce Gusto Marrakesh 16un",
+        "price": "5.43",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Branca de Neve Farinha Super Fina 1Kg",
+        "price": "1.40",
+        "brand": "branca-de-neve"
+    },
+    {
+        "name": "Mentos Drageias Frutas 40g",
+        "price": "0,81",
+        "brand": "mentos"
+    },
+    {
+        "name": "Carefree Pensos Diários Protege-slip Plus Maxi 36un",
+        "price": "2.31",
+        "brand": "carefree"
+    },
+    {
+        "name": "Eristoff Vodka 70cl",
+        "price": "13.70",
+        "brand": "eristoff"
+    },
+    {
+        "name": "Raid Spray Inseticida Casa e Plantas 400ml",
+        "price": "4.46",
+        "brand": "raid"
+    },
+    {
+        "name": "Nescafé Café Solúvel 200g",
+        "price": "7.75",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Nestlé Leite Condensado Magro 387g",
+        "price": "1.90",
+        "brand": "nestle"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Morango e Banana 4x160g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Linic Champô Homem Cool Sport Mentol Anticaspa 360ml",
+        "price": "4.46",
+        "brand": "linic"
+    },
+    {
+        "name": "Trident Pastilhas Elásticas White Spearmint 15g",
+        "price": "0,61",
+        "brand": "trident"
+    },
+    {
+        "name": "Ajax Lava Tudo Fabuloso Lavanda 1.25L",
+        "price": "2.23",
+        "brand": "ajax"
+    },
+    {
+        "name": "Koala Gelatina de Manga 130g",
+        "price": "1.01",
+        "brand": "koala"
+    },
+    {
+        "name": "Trident Pastilhas Max Frost Watermelon sem Açúcar 20g",
+        "price": "0,83",
+        "brand": "trident"
+    },
+    {
+        "name": "Snickers Chocolate Snack Single 50g",
+        "price": "0,81",
+        "brand": "snickers"
+    },
+    {
+        "name": "Catisfactions Snack Gato Queijo 60g",
+        "price": "2.22",
+        "brand": "catisfactions"
+    },
+    {
+        "name": "Finish Abrilhantador Máquina Loiça 400ml",
+        "price": "4.69",
+        "brand": "finish"
+    },
+    {
+        "name": "Harpic Gel Anticalcário Desinfetante 750ml",
+        "price": "1.77",
+        "brand": "harpic"
+    },
+    {
+        "name": "Veet Spray Depilatório Peles Sensíveis 150ml",
+        "price": "8.16",
+        "brand": "veet"
+    },
+    {
+        "name": "Vinha Grande Vinho Tinto Douro 75cl",
+        "price": "10.46",
+        "brand": "vinha-grande"
+    },
+    {
+        "name": "Chiclets Pastilhas Elásticas Morango 17g",
+        "price": "0,74",
+        "brand": "chiclets"
+    },
+    {
+        "name": "Twix Chocolate Single 50g",
+        "price": "0,81",
+        "brand": "twix"
+    },
+    {
+        "name": "Cuétara Cereais Choco Flakes 500g",
+        "price": "3.32",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Trident Pastilhas Elásticas Melancia Melão 14.5g",
+        "price": "0,61",
+        "brand": "trident"
+    },
+    {
+        "name": "Campofrio Mortadela de Peru 140g",
+        "price": "1.72",
+        "brand": "campofrio"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº 100 Louro Meio Claro",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Cuétara Bolacha Choco Flakes Callejeros 250g",
+        "price": "2.76",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Skittles Drageias Fruits 38g",
+        "price": "0,93",
+        "brand": "skittles"
+    },
+    {
+        "name": "Sensodyne Pasta de Dentes Sensibilidade e Gengivas 75ml",
+        "price": "4.23",
+        "brand": "sensodyne"
+    },
+    {
+        "name": "Bom Petisco Atum Posta Em Óleo 120g",
+        "price": "1.16",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Nacional Massa Cuscus 250g",
+        "price": "0,62",
+        "brand": "nacional"
+    },
+    {
+        "name": "Oral-B Pasta Dentífrica Gengivas & Esmalte Repair Original 75ml",
+        "price": "3.72",
+        "brand": "oral-b"
+    },
+    {
+        "name": "Tena Slip Incontinência Plus L 20un",
+        "price": "14.64",
+        "brand": "tena"
+    },
+    {
+        "name": "Cem Porcento Soja Fina 400g",
+        "price": "1.47",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Halls Rebuçados Mel e Limão 32g",
+        "price": "0,75",
+        "brand": "halls"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº4 Castanho",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Passport Whisky 70cl",
+        "price": "12.60",
+        "brand": "passport"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Tutti Frutti 8x160g",
+        "price": "3.60",
+        "brand": "nestle"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº1 Preto",
+        "price": "5.35",
+        "brand": "garnier"
+    },
+    {
+        "name": "Colgate Total Pasta de Dentes Frescura Activa 75ml",
+        "price": "2.59",
+        "brand": "colgate"
+    },
+    {
+        "name": "Ausonia Pensos Diários Protege-Slip Normal 40un",
+        "price": "1.97",
+        "brand": "ausonia"
+    },
+    {
+        "name": "Compal Feijão Manteiga da Horta Lata 845g",
+        "price": "1.64",
+        "brand": "compal"
+    },
+    {
+        "name": "Reese's Chocolate com Manteiga de Amendoim 42g",
+        "price": "1.37",
+        "brand": "reeses"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Morango 8x180g",
+        "price": "3.60",
+        "brand": "nestle"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme nº7.3 Louro Dourado",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Cem Porcento Bolachas Mini Marinheiras Chia 50g",
+        "price": "0,88",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Gullón Bolachas Vitalday Crocante de Fruta e Fibras 300g",
+        "price": "2.13",
+        "brand": "gullon"
+    },
+    {
+        "name": "Prozis Foods Manteiga Amendoim Crocante e 100% Natural 500g",
+        "price": "3.81",
+        "brand": "prozis"
+    },
+    {
+        "name": "Nestlé Nesquik Petit 6x60g",
+        "price": "2.20",
+        "brand": "nestle"
+    },
+    {
+        "name": "Knorr Caldo de Marisco 8 Cubos 80g",
+        "price": "1.46",
+        "brand": "knorr"
+    },
+    {
+        "name": "Compal Feijão Encarnado da Horta Lata 845g",
+        "price": "1.64",
+        "brand": "compal"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº 6 Louro Escuro",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Mimosa Nata Cremosa 200ml",
+        "price": "0,88",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Nestlé Queijinho Yoco Suissinho Maxi Morango 4x90g",
+        "price": "2.02",
+        "brand": "nestle"
+    },
+    {
+        "name": "Compal Grão de Bico da Horta 845g",
+        "price": "1.64",
+        "brand": "compal"
+    },
+    {
+        "name": "Catisfactions Snack Gato Galinha 60g",
+        "price": "2.22",
+        "brand": "catisfactions"
+    },
+    {
+        "name": "Compal Feijão Frade da Horta Lata 845g",
+        "price": "1.64",
+        "brand": "compal"
+    },
+    {
+        "name": "Primor Manteiga com Sal Tradicional 250g",
+        "price": "2.02",
+        "brand": "primor"
+    },
+    {
+        "name": "Fanta Refrigerante Com Gás Guaraná 1L",
+        "price": "1.40",
+        "brand": "fanta"
+    },
+    {
+        "name": "Tena Slip Incontinência Plus M 20un",
+        "price": "12.46",
+        "brand": "tena"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoco Morango 6x90g",
+        "price": "2.02",
+        "brand": "nestle"
+    },
+    {
+        "name": "Compal Feijão Branco da Horta Lata 845g",
+        "price": "1.64",
+        "brand": "compal"
+    },
+    {
+        "name": "Compal Feijão Preto da Horta Lata 850g",
+        "price": "1.72",
+        "brand": "compal"
+    },
+    {
+        "name": "Prozis Food Manteiga de Amendoim Smooth 500g",
+        "price": "3.81",
+        "brand": "prozis"
+    },
+    {
+        "name": "Cuétara Bolacha Flakes Nocilla 175g",
+        "price": "2.97",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Giovanni Rana Massa Ravioli 4 Queijos 250g",
+        "price": "2.97",
+        "brand": "giovanni-rana"
+    },
+    {
+        "name": "Porta da Ravessa Vinho Branco Alentejo 75cl",
+        "price": "1.91",
+        "brand": "porta-da-ravessa"
+    },
+    {
+        "name": "Milhafre Manteiga com Sal 250g",
+        "price": "2.07",
+        "brand": "milhafre"
+    },
+    {
+        "name": "Tabasco Tempero Picante 60ml",
+        "price": "2.40",
+        "brand": "tabasco"
+    },
+    {
+        "name": "Margão Bicarbonato de Sódio 60g",
+        "price": "0,76",
+        "brand": "margao"
+    },
+    {
+        "name": "Reguengos Vinho Tinto Alentejo 75cl",
+        "price": "2.38",
+        "brand": "reguengos"
+    },
+    {
+        "name": "Balconi Bolo Trancetto com Recheio Cacau 10x28g",
+        "price": "1.71",
+        "brand": "balconi"
+    },
+    {
+        "name": "Bar Royal Vinho Espumante Aromatizado Morango 75cl",
+        "price": "4.15",
+        "brand": "bar-royal"
+    },
+    {
+        "name": "Knorr Caldo de Galinha 24 Cubos 240g",
+        "price": "2.21",
+        "brand": "knorr"
+    },
+    {
+        "name": "Valle Pradinhos Vinho Tinto Trás Os Montes 75cl",
+        "price": "12.73",
+        "brand": "valle-pradinhos"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Ultra Color Nº 4.26 Castanho Violino",
+        "price": "5.78",
+        "brand": "garnier"
+    },
+    {
+        "name": "Seara Biscoitos de Limão &Chia Bio 220g",
+        "price": "1.66",
+        "brand": "seara"
+    },
+    {
+        "name": "Compal Clássico Néctar Tutti-Frutti 3x20cl",
+        "price": "1.32",
+        "brand": "compal"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoco Frutas Variadas 6x90g",
+        "price": "2.02",
+        "brand": "nestle"
+    },
+    {
+        "name": "Gallo Molho  Piri Piri   Extra Forte 50ml",
+        "price": "2.13",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Chiclets Pastilhas Elásticas Peppermint 17g",
+        "price": "0,74",
+        "brand": "chiclets"
+    },
+    {
+        "name": "Vimeiro Água com Gás 6x25cl",
+        "price": "2.44",
+        "brand": "vimeiro"
+    },
+    {
+        "name": "Palmolive Creme Barbear Classic Palm Extract 100ml",
+        "price": "2.43",
+        "brand": "palmolive"
+    },
+    {
+        "name": "Bar Royal Vinho Espumante Aromatizado Pêssego 75cl",
+        "price": "4.15",
+        "brand": "bar-royal"
+    },
+    {
+        "name": "Espiga Farinha de Trigo Fina T65 sem Fermento 1Kg",
+        "price": "1.04",
+        "brand": "espiga"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Tinto Reserva 2012 Palmela 75cl",
+        "price": "7.38",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Ajax Lava Tudo Fabuloso Flor de Primavera 1.25L",
+        "price": "2.23",
+        "brand": "ajax"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoco Morango e Banana 6x90g",
+        "price": "2.02",
+        "brand": "nestle"
+    },
+    {
+        "name": "Maille Mostarda Dijon Originale 215g",
+        "price": "2.51",
+        "brand": "maille"
+    },
+    {
+        "name": "Milka Chocolate Branco com Oreo 100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Gran Pavesi Bolachas Crackers Sem Sal 250g",
+        "price": "2.37",
+        "brand": "gran-pavesi"
+    },
+    {
+        "name": "Monte Velho Vinho Tinto Alentejo 75cl",
+        "price": "3.81",
+        "brand": "monte-velho"
+    },
+    {
+        "name": "Faisão Vinho Branco Frutado 75cl",
+        "price": "1.95",
+        "brand": "faisao"
+    },
+    {
+        "name": "Milaneza Massa Fusilli Espirais Tricolor 500g",
+        "price": "1.03",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Mimosa Leite Meio Gordo Bem Essencial 3x200ml",
+        "price": "1.18",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Gancia Asti Espumante 75cl",
+        "price": "7.31",
+        "brand": "gancia"
+    },
+    {
+        "name": "McVitie's Bolachas Digestive To Go Chocolate Negro 200g",
+        "price": "2.35",
+        "brand": "mcvities"
+    },
+    {
+        "name": "Grant's Whisky 70cl",
+        "price": "12.73",
+        "brand": "grants"
+    },
+    {
+        "name": "Compal Clássico Néctar Laranja do Algarve 3x20cl",
+        "price": "1.46",
+        "brand": "compal"
+    },
+    {
+        "name": "La Mole Bolachas Crackers de Rosmaninho 250g",
+        "price": "2.08",
+        "brand": "la-mole"
+    },
+    {
+        "name": "Vianeza  Maionese Económica Top Down 430g",
+        "price": "2.07",
+        "brand": "vianeza"
+    },
+    {
+        "name": "Hellmann's Maionese Top Down 412g",
+        "price": "3.07",
+        "brand": "hellmanns"
+    },
+    {
+        "name": "Vitacress Salada Aromatica 100g",
+        "price": "1.29",
+        "brand": "vitacress"
+    },
+    {
+        "name": "Gallo Vinagre de Vinho Tinto 250ml",
+        "price": "1.19",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Ayam Leite de Coco 200ml",
+        "price": "1.48",
+        "brand": "ayam"
+    },
+    {
+        "name": "Vitacress Salada Ibérica 100g",
+        "price": "1.29",
+        "brand": "vitacress"
+    },
+    {
+        "name": "Compal Clássico Néctar Pêra 3x20cl",
+        "price": "1.32",
+        "brand": "compal"
+    },
+    {
+        "name": "Lipton Chá de Cidreira 10un",
+        "price": "0,78",
+        "brand": "lipton"
+    },
+    {
+        "name": "Nestlé Iogurte Mix-in Smarties 2x128g",
+        "price": "1.61",
+        "brand": "nestle"
+    },
+    {
+        "name": "Danone Iogurte Grego Oikos Natural 4x115g",
+        "price": "2.02",
+        "brand": "danone"
+    },
+    {
+        "name": "Real Lavrador Vinho tinto Regional Alentejo 75cl",
+        "price": "1.64",
+        "brand": "real-lavrador"
+    },
+    {
+        "name": "Renova Papel Higiénico Super Compacto Dupla Folha 4un",
+        "price": "2.27",
+        "brand": "renova"
+    },
+    {
+        "name": "Calém Vinho do Porto Tawny Velhotes 75cl",
+        "price": "5.30",
+        "brand": "calem"
+    },
+    {
+        "name": "Muralhas Vinho Verde Branco Alvarinho Trajadoura 75cl",
+        "price": "4.18",
+        "brand": "muralhas"
+    },
+    {
+        "name": "Mistolin Spray Tira Gorduras 545ml",
+        "price": "2.25",
+        "brand": "mistolin"
+    },
+    {
+        "name": "Raposeira Espumante Doce Reserva 75cl",
+        "price": "6.42",
+        "brand": "raposeira"
+    },
+    {
+        "name": "Kellogg's Cereais Special K Frutos Vermelhos 300g",
+        "price": "3.66",
+        "brand": "kelloggs"
+    },
+    {
+        "name": "Margão Canela em Pau 30g",
+        "price": "1.44",
+        "brand": "margao"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Qharacter 40un",
+        "price": "11.66",
+        "brand": "delta"
+    },
+    {
+        "name": "Compal Clássico Néctar Manga Magdalena 3x200ml",
+        "price": "1.46",
+        "brand": "compal"
+    },
+    {
+        "name": "Matinal Queijo Fresco 3x72g",
+        "price": "1.95",
+        "brand": "matinal"
+    },
+    {
+        "name": "Compal Clássico Néctar Pêssego 3x20cl",
+        "price": "1.32",
+        "brand": "compal"
+    },
+    {
+        "name": "Herdade dos Grous Vinho Tinto Alentejo 75cl",
+        "price": "10.97",
+        "brand": "herdade-dos-grous"
+    },
+    {
+        "name": "Amarguinha Licor Amêndoa Amarga 70cl",
+        "price": "9.38",
+        "brand": "amarguinha"
+    },
+    {
+        "name": "Reguengos Vinho Tinto Reserva Alentejo 75cl",
+        "price": "4.42",
+        "brand": "reguengos"
+    },
+    {
+        "name": "Margão Mistura de Ervas Segredos Alho e Ervas Aromáticas Frasco 40g",
+        "price": "2.75",
+        "brand": "margao"
+    },
+    {
+        "name": "Nova Açores Manteiga com Sal Cuvete 250g",
+        "price": "1.95",
+        "brand": "nova-acores"
+    },
+    {
+        "name": "Esteva Vinho Tinto Douro 75cl",
+        "price": "4.37",
+        "brand": "esteva"
+    },
+    {
+        "name": "Casa Da Prisca Doce de Frutos Vermelhos Biológico 240g",
+        "price": "3.82",
+        "brand": "casa-da-prisca"
+    },
+    {
+        "name": "Papa Figos Vinho Branco 2015 Douro 75cl",
+        "price": "6.40",
+        "brand": "papa-figos"
+    },
+    {
+        "name": "Macieira Brandy 70cl",
+        "price": "10.93",
+        "brand": "macieira"
+    },
+    {
+        "name": "Nestlé Iogurte Mix-in Kit Kat 2x115g",
+        "price": "1.61",
+        "brand": "nestle"
+    },
+    {
+        "name": "Frutorra Cocktail de Frutos Secos 150g",
+        "price": "1.33",
+        "brand": "frutorra"
+    },
+    {
+        "name": "Calvé Mostarda Top Down 257g",
+        "price": "1.60",
+        "brand": "calve"
+    },
+    {
+        "name": "Annas Bolachas Gengibre 150g",
+        "price": "2.60",
+        "brand": "annas"
+    },
+    {
+        "name": "Monsaraz Vinho Tinto Alentejo 75cl",
+        "price": "3.14",
+        "brand": "monsaraz"
+    },
+    {
+        "name": "Fairy Detergente Manual Loiça Ultra Limão 480ml",
+        "price": "2.40",
+        "brand": "fairy"
+    },
+    {
+        "name": "Planalto Vinho Branco Reserva Douro 75cl",
+        "price": "4.30",
+        "brand": "planalto"
+    },
+    {
+        "name": "Barnhouse Granola KrunchyPur Aveia Biológica 375g",
+        "price": "3.47",
+        "brand": "barnhouse"
+    },
+    {
+        "name": "Milaneza Massa Farfalle Tricolores 500g",
+        "price": "1.03",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Casa Da Prisca Doce Mirtilos Nature sem Açucar 250g",
+        "price": "2.40",
+        "brand": "casa-da-prisca"
+    },
+    {
+        "name": "Papa Figos Vinho Tinto Douro 75cl",
+        "price": "6.40",
+        "brand": "papa-figos"
+    },
+    {
+        "name": "Ucal Leite com Chocolate 6x250ml",
+        "price": "4.37",
+        "brand": "ucal"
+    },
+    {
+        "name": "Knorr Creme de Marisco 72g",
+        "price": "1.29",
+        "brand": "knorr"
+    },
+    {
+        "name": "Marion Bacon em Tiras 130g",
+        "price": "2.27",
+        "brand": "marion"
+    },
+    {
+        "name": "Branca de Neve Farinha para Bolos Fina 1Kg",
+        "price": "1.13",
+        "brand": "branca-de-neve"
+    },
+    {
+        "name": "Raposeira Espumante Bruto Reserva 75cl",
+        "price": "6.42",
+        "brand": "raposeira"
+    },
+    {
+        "name": "Nestum Flocos de Cereais Clássico Mel 300g",
+        "price": "2.00",
+        "brand": "nestum"
+    },
+    {
+        "name": "Knorr Caldo de Galinha 8 Cubos 80g",
+        "price": "1.17",
+        "brand": "knorr"
+    },
+    {
+        "name": "Nestlé Nata Pasteurizada Longa Vida 200ml",
+        "price": "1.84",
+        "brand": "nestle"
+    },
+    {
+        "name": "Philadelphia Queijo para Barrar de Ervas Finas 150g",
+        "price": "2.30",
+        "brand": "philadelphia"
+    },
+    {
+        "name": "Milaneza Massa Fettuccine 500g",
+        "price": "1.03",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Cem Porcento Chá Infusão Sem Barriga 10un",
+        "price": "0,83",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Cigala Noodles Banzai 67g",
+        "price": "0,87",
+        "brand": "cigala"
+    },
+    {
+        "name": "Gallo Vinagre de Vinho Branco 250ml",
+        "price": "1.17",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Casa de Santar Vinho Tinto Reserva Dão 75cl",
+        "price": "14.78",
+        "brand": "casa-de-santar"
+    },
+    {
+        "name": "Galbani Queijo Mozzarella Fresca 125g",
+        "price": "1.49",
+        "brand": "galbani"
+    },
+    {
+        "name": "Aperol Aperitivo Rosso 70cl",
+        "price": "15.81",
+        "brand": "aperol"
+    },
+    {
+        "name": "Hellmann's Maionese Frasco 416g",
+        "price": "3.38",
+        "brand": "hellmanns"
+    },
+    {
+        "name": "Paladin  Ketchup À Portuguesa Top Down 450g",
+        "price": "2.04",
+        "brand": "paladin"
+    },
+    {
+        "name": "L'OR Cápsulas Café Espresso Ristretto 10un",
+        "price": "2.91",
+        "brand": "lor"
+    },
+    {
+        "name": "Danone Iogurte Grego Oikos Natural 900g",
+        "price": "3.58",
+        "brand": "danone"
+    },
+    {
+        "name": "Koka Noodles Instantâneos Galinha 85g",
+        "price": "0,80",
+        "brand": "koka"
+    },
+    {
+        "name": "Mimosa Iogurte Morango/Banana/Ananás 8x120g",
+        "price": "1.68",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Bimbo Pão de Forma Integral 480g",
+        "price": "1.84",
+        "brand": "bimbo"
+    },
+    {
+        "name": "Nacional Massa de Cotovelinhos 500g",
+        "price": "1.03",
+        "brand": "nacional"
+    },
+    {
+        "name": "La Mole Bolachas Crackers Natural 250g",
+        "price": "2.08",
+        "brand": "la-mole"
+    },
+    {
+        "name": "Ramirez Atum Posta em Óleo 120g",
+        "price": "1.13",
+        "brand": "ramirez"
+    },
+    {
+        "name": "Delta Q Café Cápsulas MythiQ Intensidade 15 40un",
+        "price": "11.66",
+        "brand": "delta"
+    },
+    {
+        "name": "Papa Figos DOC Douro Vinho Rosé 75cl",
+        "price": "6.40",
+        "brand": "papa-figos"
+    },
+    {
+        "name": "Herdade dos Grous Vinho Branco Alentejo 75cl",
+        "price": "10.97",
+        "brand": "herdade-dos-grous"
+    },
+    {
+        "name": "Condi Aroma Alimentar Baunilha 25ml",
+        "price": "1.17",
+        "brand": "condi"
+    },
+    {
+        "name": "Alpro Bebida Vegetal de Aveia sem Açúcar 1L",
+        "price": "1.93",
+        "brand": "alpro"
+    },
+    {
+        "name": "Koka Noodles Instantâneos Camarão 85g",
+        "price": "0,80",
+        "brand": "koka"
+    },
+    {
+        "name": "Marnoto Flor de Sal 250g",
+        "price": "1.77",
+        "brand": "marnoto"
+    },
+    {
+        "name": "Primor Manteiga sem Sal Natural 250g",
+        "price": "2.07",
+        "brand": "primor"
+    },
+    {
+        "name": "Marnoto Sal Marinho Tradicional 1Kg",
+        "price": "0,82",
+        "brand": "marnoto"
+    },
+    {
+        "name": "Prova Régia Vinho Branco Arinto Bucelas 75cl",
+        "price": "5.16",
+        "brand": "prova-regia"
+    },
+    {
+        "name": "Fermipan Fermento de Padeiro 4x11g",
+        "price": "1.73",
+        "brand": "fermipan"
+    },
+    {
+        "name": "Koka Noodles Instantâneos Legumes 85g",
+        "price": "0,79",
+        "brand": "koka"
+    },
+    {
+        "name": "Nestlé Clusters Cereais de Trigo Integral com Pedaços de Amêndoa 325g",
+        "price": "4.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Monte da Ravasqueira Vinho Tinto Vinha Das Romas 75cl",
+        "price": "14.78",
+        "brand": "monte-da-ravasqueira"
+    },
+    {
+        "name": "Hellmann's Maionese Magra Frasco 459g",
+        "price": "3.17",
+        "brand": "hellmanns"
+    },
+    {
+        "name": "Nescafé Café Solúvel Cappuccino Viena 8x18g",
+        "price": "2.16",
+        "brand": "nescafe"
+    },
+    {
+        "name": "1920 Brandy 70cl",
+        "price": "11.52",
+        "brand": "1920"
+    },
+    {
+        "name": "Nutella Bolachas Recheadas B-Ready 153g",
+        "price": "2.83",
+        "brand": "nutella"
+    },
+    {
+        "name": "Carm Vinho Tinto do Douro Touriga Nacional 75cl",
+        "price": "24.63",
+        "brand": "carm"
+    },
+    {
+        "name": "Philadelphia Queijo Fresco Light 270g",
+        "price": "3.10",
+        "brand": "philadelphia"
+    },
+    {
+        "name": "Delta Bebida Cereais Cevada e Chicória com Café Mistura Peninsular Torrada Moída 220g",
+        "price": "1.81",
+        "brand": "delta"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Tinto Reserva Cabernet Sauvignon 2013 Setúbal 75cl",
+        "price": "9.85",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Origens Leite de Côco Biológico 400ml",
+        "price": "2.54",
+        "brand": "origens-bio"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Qalidus 40un",
+        "price": "11.66",
+        "brand": "delta"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Tinto Syrah Setúbal 75cl",
+        "price": "9.85",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Alpro Yofu Soja Manga sem Açúcar 400g",
+        "price": "2.11",
+        "brand": "alpro"
+    },
+    {
+        "name": "Joi Refrigerante sem Gás Manga/Laranja 1.5L",
+        "price": "1.13",
+        "brand": "joi"
+    },
+    {
+        "name": "Carm Vinho Rosé 2012 Douro 75cl",
+        "price": "8.61",
+        "brand": "carm"
+    },
+    {
+        "name": "Ramirez Sardinhas em Azeite Baixo em Sal 125g",
+        "price": "0,80",
+        "brand": "ramirez"
+    },
+    {
+        "name": "Regina Tablete de Chocolate Floc Choc sem Glúten 100g",
+        "price": "1.54",
+        "brand": "regina"
+    },
+    {
+        "name": "Quinta Da Leda Vinho Tinto Gourmet Douro 75cl",
+        "price": "49.28",
+        "brand": "quinta-da-leda"
+    },
+    {
+        "name": "Seara Flocos Aveia Instântaneos 400g",
+        "price": "1.22",
+        "brand": "seara"
+    },
+    {
+        "name": "Super Pop Detergente Manual Loiça Maçã 1350ml",
+        "price": "2.54",
+        "brand": "super-pop"
+    },
+    {
+        "name": "Quinta do Carmo Vinho Branco Reserva Alentejo 75cl",
+        "price": "24.21",
+        "brand": "quinta-do-carmo"
+    },
+    {
+        "name": "Adega Ponte de Lima Verde Branco Loureiro Colheita Seleccionada 75cl",
+        "price": "3.81",
+        "brand": "adega-ponte-de-lima"
+    },
+    {
+        "name": "Paladin Piri Piri Sacana Cannabis 75ml",
+        "price": "1.86",
+        "brand": "paladin"
+    },
+    {
+        "name": "Vatel Sal Iodado Purificado 1Kg",
+        "price": "0,54",
+        "brand": "vatel"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Qharacter 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Nairns Bolachas de Aveia e Frutos Vermelhos sem Glúten 160g",
+        "price": "1.79",
+        "brand": "nairns"
+    },
+    {
+        "name": "Mimosa Leite Magro Bem Essencial 3x200ml",
+        "price": "1.18",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Izidoro Salsichas Hot Dog 4un 235g",
+        "price": "1.93",
+        "brand": "izidoro"
+    },
+    {
+        "name": "Knorr Sopa de Cozido em Pó 69g",
+        "price": "1.34",
+        "brand": "knorr"
+    },
+    {
+        "name": "Porminho Bacon Extra Fatiado 80g",
+        "price": "1.19",
+        "brand": "porminho"
+    },
+    {
+        "name": "Giovanni Rana Ravioli com Fiambre e Queijo 250g",
+        "price": "2.97",
+        "brand": "giovanni-rana"
+    },
+    {
+        "name": "São Domingos Espumante Extra Bruto 75cl",
+        "price": "6.96",
+        "brand": "sao-domingos"
+    },
+    {
+        "name": "Nicola Café Cápsulas 100% Arábica Intensidade 10 10un",
+        "price": "2.24",
+        "brand": "nicola"
+    },
+    {
+        "name": "Tetley Chá Camomila 10 saquetas",
+        "price": "0,87",
+        "brand": "tetley"
+    },
+    {
+        "name": "Mars Chocolate Snack  3x45g",
+        "price": "2.31",
+        "brand": "mars"
+    },
+    {
+        "name": "Bom Petisco Sardinha em Azeite 120g",
+        "price": "1.72",
+        "brand": "bom-petisco"
+    },
+    {
+        "name": "Margão Pimentão Doce 35g",
+        "price": "1.03",
+        "brand": "margao"
+    },
+    {
+        "name": "Du Bois de la Roche Bolachas Cracker  Integrais 500g",
+        "price": "2.96",
+        "brand": "du-bois-de-la-roche"
+    },
+    {
+        "name": "Campofrio Mortadela de Peru com Azeitonas 140g",
+        "price": "1.72",
+        "brand": "campofrio"
+    },
+    {
+        "name": "Ferrero Rocher Tablete de Chocolate Negro e Avelã 90g",
+        "price": "2.60",
+        "brand": "ferrero"
+    },
+    {
+        "name": "Condi Gelatina Zero Manga sem Glúten 26g",
+        "price": "1.68",
+        "brand": "condi"
+    },
+    {
+        "name": "Catisfactions Snack Gato Salmão 60g",
+        "price": "2.22",
+        "brand": "catisfactions"
+    },
+    {
+        "name": "Condi Gelatina Zero Papaia 28g",
+        "price": "1.60",
+        "brand": "condi"
+    },
+    {
+        "name": "Caçarola Arroz Extra Longo Carolino Vaporizado 1Kg",
+        "price": "1.69",
+        "brand": "cacarola"
+    },
+    {
+        "name": "Gordon's Gin Sicilian Lemon 70cl",
+        "price": "17.83",
+        "brand": "gordons"
+    },
+    {
+        "name": "Paiva Queijo Flamengo sem Lactose 150g",
+        "price": "1.95",
+        "brand": "paiva"
+    },
+    {
+        "name": "Duraglit Algodão Ativo Limpa Pratas 75g",
+        "price": "5.08",
+        "brand": "duraglit"
+    },
+    {
+        "name": "Nestlé Achocolatado em Pó Nesquik Extra Choc 390g",
+        "price": "3.81",
+        "brand": "nestle"
+    },
+    {
+        "name": "Kinder Chocolate Maxi 42g",
+        "price": "0,99",
+        "brand": "kinder"
+    },
+    {
+        "name": "Cigala Noodle Banzai Caril 67g",
+        "price": "0,87",
+        "brand": "cigala"
+    },
+    {
+        "name": "Penha Caramelos de Leite 100g",
+        "price": "1.06",
+        "brand": "penha"
+    },
+    {
+        "name": "Kinder Fantasia Lover 37g",
+        "price": "1.07",
+        "brand": "kinder"
+    },
+    {
+        "name": "Compal Feijão Manteiga da Horta Lata 410g",
+        "price": "1.20",
+        "brand": "compal"
+    },
+    {
+        "name": "Branca De Neve Creme Pasteleiro Recheio 100g",
+        "price": "1.46",
+        "brand": "branca-de-neve"
+    },
+    {
+        "name": "Quinta Da Alorna Vinho Branco Colheita Tardia Tejo 37.5cl",
+        "price": "12.93",
+        "brand": "quinta-da-alorna"
+    },
+    {
+        "name": "Ferbar Cogumelos Inteiros 290g",
+        "price": "1.33",
+        "brand": "ferbar"
+    },
+    {
+        "name": "Glint Iogurte Natural Açucarado 2x125g",
+        "price": "1.38",
+        "brand": "glint"
+    },
+    {
+        "name": "Seara Arroz Integral Longo Bio 1Kg",
+        "price": "4.22",
+        "brand": "seara"
+    },
+    {
+        "name": "Ramirez Lulas Recheadas em Caldeirada 120g",
+        "price": "2.47",
+        "brand": "ramirez"
+    },
+    {
+        "name": "Nacional Bolachas Mini Alfa 120g",
+        "price": "1.01",
+        "brand": "nacional"
+    },
+    {
+        "name": "Alucinado Dão Vinho Branco 75cl",
+        "price": "4.05",
+        "brand": "alucinado"
+    },
+    {
+        "name": "Quinta da Alorna Vinho Tinto Tejo 75cl",
+        "price": "3.51",
+        "brand": "quinta-da-alorna"
+    },
+    {
+        "name": "Kopke Vinho Tinto Douro Reserva 75cl",
+        "price": "10.29",
+        "brand": "kopke"
+    },
+    {
+        "name": "Brutalis Vinho Tinto Da Estremadura 2005 Lisboa 75cl",
+        "price": "48.06",
+        "brand": "brutalis"
+    },
+    {
+        "name": "Air Wick Ambientador Stick Up Fresh Aqua 2em1 2un",
+        "price": "2.94",
+        "brand": "air-wick"
+    },
+    {
+        "name": "Kellogg's Cereais Krave Chocolate com Avelã 375g",
+        "price": "3.29",
+        "brand": "kelloggs"
+    },
+    {
+        "name": "Aliança Espumante Bruto Reserva 75cl",
+        "price": "8.84",
+        "brand": "alianca"
+    },
+    {
+        "name": "Vileda Balde com Espremedor Naturals Supermocio",
+        "price": "16.89",
+        "brand": "vileda"
+    },
+    {
+        "name": "Guloso  Polpa de Tomate com Cebola e Alho Garrafa 500g",
+        "price": "1.46",
+        "brand": "guloso"
+    },
+    {
+        "name": "Kellogg's Cereais Choco Krispies Arroz Tostado com Chocolate 330g",
+        "price": "3.09",
+        "brand": "kelloggs"
+    },
+    {
+        "name": "Tremoceira Azeitonas Verdes Recheadas 360g",
+        "price": "1.23",
+        "brand": "tremoceira"
+    },
+    {
+        "name": "Margão Bio Manjericão Frasco 11g",
+        "price": "1.50",
+        "brand": "margao"
+    },
+    {
+        "name": "Condi Gelatina de Morango Light 30g",
+        "price": "1.60",
+        "brand": "condi"
+    },
+    {
+        "name": "Agros Leite com Chocolate 1L",
+        "price": "1.72",
+        "brand": "agros"
+    },
+    {
+        "name": "Parmalat Nata para Bater 500ml",
+        "price": "2.30",
+        "brand": "parmalat"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Quarisma 10un",
+        "price": "2.92",
+        "brand": "delta"
+    },
+    {
+        "name": "Colgate Pasta Dentifríca Anti-Tártaro + Branqueador 75ml",
+        "price": "1.72",
+        "brand": "colgate"
+    },
+    {
+        "name": "Bombay Gin Saphire Gin & Tonic Lata 25cl",
+        "price": "2.60",
+        "brand": "bombay"
+    },
+    {
+        "name": "Milka Chocolate Confetti 100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Delta Café Torrado Gold Grão 500g",
+        "price": "13.95",
+        "brand": "delta"
+    },
+    {
+        "name": "Lipton Ice Tea Limão 1L",
+        "price": "1.50",
+        "brand": "lipton"
+    },
+    {
+        "name": "Lipton Ice Tea Pessego 1L",
+        "price": "1.50",
+        "brand": "lipton"
+    },
+    {
+        "name": "Condi Gelatina de Ananás Light 2x15g",
+        "price": "1.60",
+        "brand": "condi"
+    },
+    {
+        "name": "Condi Gelatina Zero Ananás 28g",
+        "price": "1.68",
+        "brand": "condi"
+    },
+    {
+        "name": "Milka Tablete de Chocolate com Amendoim e Caramelo Crocante 90g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Veet Creme Depilatório Banho Peles Normais 150ml",
+        "price": "6.52",
+        "brand": "veet"
+    },
+    {
+        "name": "Milka Chocolate de Leite Recheado com Oreo Brownie 100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Sunquick Concentrado Laranja Zero 70cl",
+        "price": "4.49",
+        "brand": "sunquick"
+    },
+    {
+        "name": "Danone Iogurte Natural 4x120g",
+        "price": "1.11",
+        "brand": "danone"
+    },
+    {
+        "name": "Calgon Pó Anti-calcário Máquina Roupa 950g",
+        "price": "6.23",
+        "brand": "calgon"
+    },
+    {
+        "name": "Izidoro Salsichas de Aves Vita 5un 260g",
+        "price": "1.93",
+        "brand": "izidoro"
+    },
+    {
+        "name": "Lipton Ice Tea Manga 1L",
+        "price": "1.50",
+        "brand": "lipton"
+    },
+    {
+        "name": "Raposeira Espumante Bruto Velha Reserva 75cl",
+        "price": "13.00",
+        "brand": "raposeira"
+    },
+    {
+        "name": "Tuc Bolachas Cracker Original 250g",
+        "price": "0,62",
+        "brand": "tuc"
+    },
+    {
+        "name": "Oreo Bolacha com Creme Original 66g",
+        "price": "0,76",
+        "brand": "oreo"
+    },
+    {
+        "name": "Luso Água sem Gás 1.5L",
+        "price": "0,53",
+        "brand": "luso"
+    },
+    {
+        "name": "Nestlé Kit Kat Snack Chocolate Chunky Peanut Butter 42g",
+        "price": "0,93",
+        "brand": "nestle"
+    },
+    {
+        "name": "Danone Iogurte Líquido Danacol Morango 12x100g",
+        "price": "5.54",
+        "brand": "danone"
+    },
+    {
+        "name": "Lagosta Vinho Verde Branco Bordalesa 75cl",
+        "price": "3.05",
+        "brand": "lagosta"
+    },
+    {
+        "name": "Knorr Caldo de Galinha 16 Cubos 160g",
+        "price": "2.33",
+        "brand": "knorr"
+    },
+    {
+        "name": "Casal Da Eira Vinho Tinto 1L",
+        "price": "1.46",
+        "brand": "casal-da-eira"
+    },
+    {
+        "name": "Cacho Fresco Vinho Rosé 75cl",
+        "price": "1.64",
+        "brand": "cacho-fresco"
+    },
+    {
+        "name": "Danone Iogurte Pêssego/Morango/Manga 8x120g",
+        "price": "1.60",
+        "brand": "danone"
+    },
+    {
+        "name": "Colgate Pasta Dentifríca Herbal Original 75ml",
+        "price": "1.72",
+        "brand": "colgate"
+    },
+    {
+        "name": "Vimeiro Água Com Gás 1.5L",
+        "price": "0,64",
+        "brand": "vimeiro"
+    },
+    {
+        "name": "Agros Nata para Bater 200ml",
+        "price": "0,84",
+        "brand": "agros"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse nº 3 Castanho Escuro",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Royal Fermento em Pó 226g",
+        "price": "2.49",
+        "brand": "royal"
+    },
+    {
+        "name": "Duraglit Algodão Ativo Limpa Metais 75g",
+        "price": "5.08",
+        "brand": "duraglit"
+    },
+    {
+        "name": "Duorum Vinho Tinto Gourmet Douro 75cl",
+        "price": "10.18",
+        "brand": "duorum"
+    },
+    {
+        "name": "Philadelphia Queijo Fresco para Barrar sem Lactose 150g",
+        "price": "2.38",
+        "brand": "philadelphia"
+    },
+    {
+        "name": "Sagres Pack de Cerveja Radler Limão 6x33cl",
+        "price": "4.84",
+        "brand": "sagres"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº 5.3 Castanho Claro Dourado",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Fresh & Clean Gel Íntimo Ph 5.5 Flor Calêndula 250ml",
+        "price": "2.81",
+        "brand": "fresh-clean"
+    },
+    {
+        "name": "Fanta Refrigerante com Gás Maracujá 1.5L",
+        "price": "1.40",
+        "brand": "fanta"
+    },
+    {
+        "name": "Meia Encosta Vinho Maduro Branco Dão 75cl",
+        "price": "3.64",
+        "brand": "meia-encosta"
+    },
+    {
+        "name": "Carefree Pensos Diários Protege-Slip Plus Long 40un",
+        "price": "3.33",
+        "brand": "carefree"
+    },
+    {
+        "name": "Gallo Vinagre Balsâmico Branco 250ml",
+        "price": "1.93",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Bimbo Pão The Rustik Bakery Massa-Mãe 450g",
+        "price": "2.37",
+        "brand": "bimbo"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Frutos Silvestres 4x160g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Milka Chocolate Caramelo E Avelãs 100g",
+        "price": "4.31",
+        "brand": "milka"
+    },
+    {
+        "name": "Fanta Refrigerante Com Gás Ananás 1.5L",
+        "price": "1.40",
+        "brand": "fanta"
+    },
+    {
+        "name": "Milka Chocolate com Amêndoa e Caramelo 300g",
+        "price": "4.31",
+        "brand": "milka"
+    },
+    {
+        "name": "Carm Vinho Branco Rabigato 2014 Douro 75cl",
+        "price": "13.54",
+        "brand": "carm"
+    },
+    {
+        "name": "Eno Digestivo Sais de Fruta Laranja Saquetas 10x5g",
+        "price": "4.89",
+        "brand": "eno"
+    },
+    {
+        "name": "Parmalat Nata com 3 Queijos 200ml",
+        "price": "1.14",
+        "brand": "parmalat"
+    },
+    {
+        "name": "Jeronimos 5 Folhas De Gelatina 9g",
+        "price": "0,66",
+        "brand": "jeronimos"
+    },
+    {
+        "name": "Ramirez Sardinhas em Azeite  125g",
+        "price": "1.29",
+        "brand": "ramirez"
+    },
+    {
+        "name": "Margão Mistura de Ervas Segredos Alho e Salsa Frasco 43g",
+        "price": "2.40",
+        "brand": "margao"
+    },
+    {
+        "name": "Nestlé Lindahls Pudding Proteína Baunilha 150g",
+        "price": "1.46",
+        "brand": "nestle"
+    },
+    {
+        "name": "Gancia Espumante Prosecco 75cl",
+        "price": "10.53",
+        "brand": "gancia"
+    },
+    {
+        "name": "Faisão Vinho Rosé Frutado 75cl",
+        "price": "1.95",
+        "brand": "faisao"
+    },
+    {
+        "name": "Schwarzkopf Condicionador Gliss Ultimate Repair 200ml",
+        "price": "2.44",
+        "brand": "schwarzkopf"
+    },
+    {
+        "name": "Evian Água sem Gás Sport 75cl",
+        "price": "1.36",
+        "brand": "evian"
+    },
+    {
+        "name": "Calgon Gel 2 em 1 Anti-calcário Máquina Roupa 750ml",
+        "price": "6.23",
+        "brand": "calgon"
+    },
+    {
+        "name": "Martini Fierro 75cl",
+        "price": "10.96",
+        "brand": "martini"
+    },
+    {
+        "name": "Jameson Whisky Irlandês 1L",
+        "price": "24.22",
+        "brand": "jameson"
+    },
+    {
+        "name": "Woolite Detergente Líquido Proteção Cores 30 doses",
+        "price": "6.84",
+        "brand": "woolite"
+    },
+    {
+        "name": "Serras de Azeitão Vinho Branco Setúbal 75cl",
+        "price": "3.68",
+        "brand": "serras-de-azeitao"
+    },
+    {
+        "name": "Montes Ermos Reserva DOC Douro Tinto 75cl",
+        "price": "5.91",
+        "brand": "montes-ermos"
+    },
+    {
+        "name": "Gullón Tortitas de Milho Vitalday com Chocolate Preto 4x25g",
+        "price": "2.67",
+        "brand": "gullon"
+    },
+    {
+        "name": "Adega de Borba Vinho Tinto Premium Alentejo 75cl",
+        "price": "4.92",
+        "brand": "adega-de-borba"
+    },
+    {
+        "name": "Longa Vida Iogurte Magro Natural 6x120g",
+        "price": "1.95",
+        "brand": "nestle"
+    },
+    {
+        "name": "Koala Gelatina Incolor 5 Folhas 9g",
+        "price": "0,74",
+        "brand": "koala"
+    },
+    {
+        "name": "Compal Grão de Bico da Horta 410g",
+        "price": "1.20",
+        "brand": "compal"
+    },
+    {
+        "name": "Eno Po Efervescente Tradicional 50g",
+        "price": "4.89",
+        "brand": "eno"
+    },
+    {
+        "name": "Milka Chocolate Bubbly 250g",
+        "price": "4.31",
+        "brand": "milka"
+    },
+    {
+        "name": "Ponte Nova Queijo de Vaca Curado 450g",
+        "price": "4.38",
+        "brand": "ponte-nova"
+    },
+    {
+        "name": "Ajax Lava Tudo Fabuloso Floral 1.25L",
+        "price": "2.23",
+        "brand": "ajax"
+    },
+    {
+        "name": "Knorr Caldo para Bifes 8 Cubos 80g",
+        "price": "1.53",
+        "brand": "knorr"
+    },
+    {
+        "name": "Campainha Queijo Flamengo Fatias 800g",
+        "price": "6.85",
+        "brand": "campainha"
+    },
+    {
+        "name": "McVitie's Bolachas Digestive To Go Chocolate de Leite 200g",
+        "price": "2.35",
+        "brand": "mcvities"
+    },
+    {
+        "name": "Cem Porcento Biscoitos Gengibre e Canela 250g",
+        "price": "2.52",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Ausonia Pensos Diários Protegeslip Maxi 30un",
+        "price": "1.97",
+        "brand": "ausonia"
+    },
+    {
+        "name": "Koala Gelatina de Ananás 130g",
+        "price": "1.01",
+        "brand": "koala"
+    },
+    {
+        "name": "Reese's Chocolate Nutrageous 47g",
+        "price": "1.77",
+        "brand": "reeses"
+    },
+    {
+        "name": "Kinder Délice 39g",
+        "price": "0,85",
+        "brand": "kinder"
+    },
+    {
+        "name": "Linic Champô Homem Eficácia Ativa 2 em 1 Anticaspa 360ml",
+        "price": "4.46",
+        "brand": "linic"
+    },
+    {
+        "name": "Izidoro Salsichas Vegan 5un 410g",
+        "price": "3.26",
+        "brand": "izidoro"
+    },
+    {
+        "name": "Herdade do Esporão Azeite Virgem Extra Galega 50cl",
+        "price": "12.08",
+        "brand": "herdade-do-esporao"
+    },
+    {
+        "name": "Colgate Pasta Dentifríca Fresh Gel 75ml",
+        "price": "1.72",
+        "brand": "colgate"
+    },
+    {
+        "name": "Primor Manteiga Light 0% Lactose 125g",
+        "price": "1.97",
+        "brand": "primor"
+    },
+    {
+        "name": "Koala Gelatina de Melancia 130g",
+        "price": "1.01",
+        "brand": "koala"
+    },
+    {
+        "name": "Harpic Gel Lixívia Casa de Banho Eucalipto 750ml",
+        "price": "1.77",
+        "brand": "harpic"
+    },
+    {
+        "name": "Nicola Cápsulas de Café Intenso Int 12 30un",
+        "price": "6.89",
+        "brand": "nicola"
+    },
+    {
+        "name": "Izidoro Salsichas de Aves 8un 200g",
+        "price": "1.41",
+        "brand": "izidoro"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Ananás e Coco 4x160g",
+        "price": "1.64",
+        "brand": "nestle"
+    },
+    {
+        "name": "Bar Royal Vinho Espumante Aromatizado Limão 75cl",
+        "price": "4.15",
+        "brand": "bar-royal"
+    },
+    {
+        "name": "Red Bull Bebida Energética 47.3cl",
+        "price": "2.88",
+        "brand": "red-bull"
+    },
+    {
+        "name": "Tanqueray Gin Ten 70cl",
+        "price": "35.13",
+        "brand": "tanqueray"
+    },
+    {
+        "name": "Real Lavrador Vinho Branco Alentejo 75cl",
+        "price": "1.64",
+        "brand": "real-lavrador"
+    },
+    {
+        "name": "Nacional Massa Macarronete Riscado 500g",
+        "price": "1.20",
+        "brand": "nacional"
+    },
+    {
+        "name": "Denim Men Desodorizante Original Spray 150ml",
+        "price": "2.59",
+        "brand": "denim"
+    },
+    {
+        "name": "Lindt Chocolate Leite 300g",
+        "price": "8.19",
+        "brand": "lindt"
+    },
+    {
+        "name": "Serras de Azeitão Vinho Tinto Setúbal 75cl",
+        "price": "3.68",
+        "brand": "serras-de-azeitao"
+    },
+    {
+        "name": "Palha Canas Vinho Tinto Regional Estremadura 75cl",
+        "price": "3.70",
+        "brand": "palha-canas"
+    },
+    {
+        "name": "Cem Porcento Chouriço 100% Vegetal 200g",
+        "price": "2.97",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Nestlé A Leiteira Mousse de Chocolate de Leite 4x60g",
+        "price": "2.01",
+        "brand": "nestle"
+    },
+    {
+        "name": "Garofalo Massa Spaghetti Nero Di Sepia 500g",
+        "price": "2.53",
+        "brand": "garofalo"
+    },
+    {
+        "name": "Fresh & Clean Gel Íntimo pH 5.5 Tomilho & Própolis 250ml",
+        "price": "2.81",
+        "brand": "fresh-clean"
+    },
+    {
+        "name": "Kopke Vinho Branco Douro 75cl",
+        "price": "5.41",
+        "brand": "kopke"
+    },
+    {
+        "name": "Casa Da Prisca Doce de Pêssego Biológico 240g",
+        "price": "3.88",
+        "brand": "casa-da-prisca"
+    },
+    {
+        "name": "Danone Iogurte Líquido Danonino BebeDino Morango/Banana 4x100g",
+        "price": "1.96",
+        "brand": "danone"
+    },
+    {
+        "name": "Bombay Sapphire Premier Cru 70cl",
+        "price": "34.59",
+        "brand": "bombay"
+    },
+    {
+        "name": "Granja San Francisco Mel Serras de Portugal 500g",
+        "price": "6.93",
+        "brand": "granja-san-francisco"
+    },
+    {
+        "name": "Casa da Prisca Alheira de Caça 180g",
+        "price": "2.03",
+        "brand": "casa-da-prisca"
+    },
+    {
+        "name": "Glenfiddich Whisky Malte 15 Anos 70cl",
+        "price": "57.58",
+        "brand": "glenfiddich"
+    },
+    {
+        "name": "Linic Champô Homem Antiqueda Anticaspa 225ml",
+        "price": "3.26",
+        "brand": "linic"
+    },
+    {
+        "name": "Parmalat Nata 0% Lactose 200ml",
+        "price": "1.18",
+        "brand": "parmalat"
+    },
+    {
+        "name": "Izidoro Salsichas Aves Hot Dog 4un",
+        "price": "2.07",
+        "brand": "izidoro"
+    },
+    {
+        "name": "Quinta da Mimosa Vinho Tinto 2013 Palmela 75cl",
+        "price": "9.42",
+        "brand": "quinta-da-mimosa"
+    },
+    {
+        "name": "Knorr Sopa de Rabo de Boi 71g",
+        "price": "1.34",
+        "brand": "knorr"
+    },
+    {
+        "name": "Malibu Rum Licor de Coco 70cl",
+        "price": "13.94",
+        "brand": "malibu"
+    },
+    {
+        "name": "Danone Iogurte Líquido Dan Up Stracciatella 4x160g",
+        "price": "1.70",
+        "brand": "danone"
+    },
+    {
+        "name": "Nivea Creme Hidratante Clássico 75ml",
+        "price": "2.02",
+        "brand": "nivea"
+    },
+    {
+        "name": "Maggi Puré de Batata Flocos 250g",
+        "price": "2.62",
+        "brand": "maggi"
+    },
+    {
+        "name": "Champomy Espumante sem Álcool Crianças 75cl",
+        "price": "3.88",
+        "brand": "champomy"
+    },
+    {
+        "name": "Vileda Recarga Esfregona Suave 2un",
+        "price": "7.10",
+        "brand": "vileda"
+    },
+    {
+        "name": "Tang Refresco Em Pó Laranja 30g",
+        "price": "0,81",
+        "brand": "tang"
+    },
+    {
+        "name": "A Vaca que Ri Palitos Pik e Croq 35g",
+        "price": "0,65",
+        "brand": "a-vaca-que-ri"
+    },
+    {
+        "name": "Sidul Açucar Areado Amarelo 1Kg",
+        "price": "1.45",
+        "brand": "sidul"
+    },
+    {
+        "name": "Monchique Água sem Gás 5L",
+        "price": "1.20",
+        "brand": "monchique"
+    },
+    {
+        "name": "Milka Chocolate  Chips Ahoy 100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Adega de Borba Vinho Branco Alentejo 75cl",
+        "price": "2.28",
+        "brand": "adega-de-borba"
+    },
+    {
+        "name": "Margão Pimenta Branca Moída Frasco 40g",
+        "price": "2.32",
+        "brand": "margao"
+    },
+    {
+        "name": "Danone Iogurte Líquido Danacol Reduz Colesterol Aveia 6x100g",
+        "price": "2.95",
+        "brand": "danone"
+    },
+    {
+        "name": "Espiga Farinha de Milho 500g",
+        "price": "0,94",
+        "brand": "espiga"
+    },
+    {
+        "name": "Delta Café Lote Chávena Grão 1Kg",
+        "price": "12.13",
+        "brand": "delta"
+    },
+    {
+        "name": "Vileda Recarga Esfregona Tiras Microfibra Brancas e Vermelhas Premium 1un",
+        "price": "5.03",
+        "brand": "vileda"
+    },
+    {
+        "name": "Quinta da Pacheca Vinho Tinto Douro 75cl",
+        "price": "5.04",
+        "brand": "quinta-da-pacheca"
+    },
+    {
+        "name": "Nacional Massa de Macarrão Riscado 500g",
+        "price": "1.20",
+        "brand": "nacional"
+    },
+    {
+        "name": "Mistolin Recarga Tira-gorduras 545ml",
+        "price": "2.12",
+        "brand": "mistolin"
+    },
+    {
+        "name": "Heinz Feijões Cozidos em Molho de Tomate 415g",
+        "price": "1.79",
+        "brand": "heinz"
+    },
+    {
+        "name": "Absolut Vodka Blue 70cl",
+        "price": "18.09",
+        "brand": "absolut"
+    },
+    {
+        "name": "Courvoisier Cognac VS 70cl",
+        "price": "33.92",
+        "brand": "courvoisier"
+    },
+    {
+        "name": "Mundus Vinho Leve Rosé 75cl",
+        "price": "1.84",
+        "brand": "mundus"
+    },
+    {
+        "name": "Calgon Pastilhas Anti-calcário Máquina Roupa 15 doses",
+        "price": "6.10",
+        "brand": "calgon"
+    },
+    {
+        "name": "Cabriz Vinho Branco Encruzado Dão 75cl",
+        "price": "9.23",
+        "brand": "cabriz"
+    },
+    {
+        "name": "Lipton Infusão Camomila 10un",
+        "price": "0,78",
+        "brand": "lipton"
+    },
+    {
+        "name": "Margão Pimentão Doce Colorau 60g",
+        "price": "1.37",
+        "brand": "margao"
+    },
+    {
+        "name": "Trident Pastilhas Elásticas Extreme Mentol 14g",
+        "price": "0,63",
+        "brand": "trident"
+    },
+    {
+        "name": "Triunfo Bolacha Digestivas Go Maçã 171g",
+        "price": "1.79",
+        "brand": "triunfo"
+    },
+    {
+        "name": "Milaneza Massa Conchas Tricolores 500g",
+        "price": "1.08",
+        "brand": "milaneza"
+    },
+    {
+        "name": "Aurora Madalenas de Laranja 420g",
+        "price": "2.40",
+        "brand": "aurora"
+    },
+    {
+        "name": "Pantagruel Chocolate Culinária 85% Cacau sem Glúten 200g",
+        "price": "4.96",
+        "brand": "pantagruel"
+    },
+    {
+        "name": "Margão Canela Moída Frasco 39g",
+        "price": "1.88",
+        "brand": "margao"
+    },
+    {
+        "name": "Tang Refresco Em Pó Morango 30g",
+        "price": "0,81",
+        "brand": "tang"
+    },
+    {
+        "name": "Margao Noz Moscada Moída 32g",
+        "price": "2.21",
+        "brand": "margao"
+    },
+    {
+        "name": "Seara Biscoitos de Alfarroba 250g",
+        "price": "1.66",
+        "brand": "seara"
+    },
+    {
+        "name": "Gallo Vinagre Balsâmico Sidra 250ml",
+        "price": "1.93",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Ultra Color nº 4.15 Castanho Tiramissu",
+        "price": "5.35",
+        "brand": "garnier"
+    },
+    {
+        "name": "Fiuza Vinho Branco Chardonnay Tejo 75cl",
+        "price": "4.92",
+        "brand": "fiuza"
+    },
+    {
+        "name": "Danone Iogurte Líquido Corpos Danone Morango e Kiwi 4x155g",
+        "price": "1.70",
+        "brand": "danone"
+    },
+    {
+        "name": "McVitie's Bolacha Digestivas 400g",
+        "price": "2.35",
+        "brand": "mcvities"
+    },
+    {
+        "name": "Sensodyne Pasta Dentífrica Rapid Action 75ml",
+        "price": "4.23",
+        "brand": "sensodyne"
+    },
+    {
+        "name": "Margão Caril em Pó 35g",
+        "price": "1.33",
+        "brand": "margao"
+    },
+    {
+        "name": "Harpic Gel Desinfetante Tripla Ação Lixívia 750ml",
+        "price": "1.77",
+        "brand": "harpic"
+    },
+    {
+        "name": "Lion Snack De Chocolate Mini 42g",
+        "price": "0,75",
+        "brand": "nestle"
+    },
+    {
+        "name": "Macieira Brandy 1L",
+        "price": "14.74",
+        "brand": "macieira"
+    },
+    {
+        "name": "Margão Paprika Fumada Saqueta 35g",
+        "price": "1.37",
+        "brand": "margao"
+    },
+    {
+        "name": "Destop Desentupidor Gel Express Soda Cáustica 1L",
+        "price": "4.90",
+        "brand": "destop"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Tinto Touriga Nacional Reserva 2013 Setúbal 75cl",
+        "price": "9.85",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "V.Barris Vinho Branco Setúbal 75cl",
+        "price": "2.28",
+        "brand": "vbarris"
+    },
+    {
+        "name": "Ferreira Vinho do Porto Dona Antónia Reserva Branco 75cl",
+        "price": "12.86",
+        "brand": "ferreira"
+    },
+    {
+        "name": "Delta Café Pastilhas Platium 16un",
+        "price": "3.32",
+        "brand": "delta"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Ultra Color Nº 6.60 Vermelho Vibrante",
+        "price": "5.35",
+        "brand": "garnier"
+    },
+    {
+        "name": "Milka  Chocolate Com Creme De Caramelo  100g",
+        "price": "1.48",
+        "brand": "milka"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Vinho Branco Palmela Reserva 75cl",
+        "price": "7.38",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Margão Açafrão das Índias 35g",
+        "price": "1.18",
+        "brand": "margao"
+    },
+    {
+        "name": "Quinta da Pacheca Vinho Branco Superior Douro 75cl",
+        "price": "9.60",
+        "brand": "quinta-da-pacheca"
+    },
+    {
+        "name": "Skittles Drageias de Fruta Crazy Sours 38g",
+        "price": "0,93",
+        "brand": "skittles"
+    },
+    {
+        "name": "Ramirez Sardinhas em Óleo Vegetal 125g",
+        "price": "1.00",
+        "brand": "ramirez"
+    },
+    {
+        "name": "Albergaria Xarope de Groselha 1L",
+        "price": "4.01",
+        "brand": "albergaria"
+    },
+    {
+        "name": "Lu Bolacha Barquette Morango 120g",
+        "price": "2.27",
+        "brand": "lu"
+    },
+    {
+        "name": "Adega Velha Aguardente Velha Reserva 6 Anos 50cl",
+        "price": "23.73",
+        "brand": "adega-velha"
+    },
+    {
+        "name": "Alpro Yofu Pedaços Pêssego/Frutas Exóticas 4x125g",
+        "price": "2.53",
+        "brand": "alpro"
+    },
+    {
+        "name": "Monchique Água sem Gás 6x34cl",
+        "price": "2.03",
+        "brand": "monchique"
+    },
+    {
+        "name": "Monchique Água sem Gás 6x51cl",
+        "price": "2.14",
+        "brand": "monchique"
+    },
+    {
+        "name": "Glenfiddich Whisky Malte 12 Anos 70cl",
+        "price": "44.65",
+        "brand": "glenfiddich"
+    },
+    {
+        "name": "Delta Q Café Cápsulas Pack Intensidade 40un",
+        "price": "10.66",
+        "brand": "delta"
+    },
+    {
+        "name": "EuroFumeiro Alheira de Mirandela IG 200g",
+        "price": "1.47",
+        "brand": "eurofumeiro"
+    },
+    {
+        "name": "Nacional Esparguete 500g + 10%",
+        "price": "0,84",
+        "brand": "nacional"
+    },
+    {
+        "name": "Sidul Açúcar Zing Mascavado + Stevia 500g",
+        "price": "2.54",
+        "brand": "sidul"
+    },
+    {
+        "name": "Johnnie Walker Whisky Double Black 70cl",
+        "price": "41.13",
+        "brand": "johnnie-walker"
+    },
+    {
+        "name": "Alpro Yofu Soja Liquído Morango e Cereja 750g",
+        "price": "2.69",
+        "brand": "alpro"
+    },
+    {
+        "name": "Mistolin Spray Tira Nódoas 500ml",
+        "price": "2.15",
+        "brand": "mistolin"
+    },
+    {
+        "name": "Knorr Caldo de Carne  8 Cubos 80g",
+        "price": "1.22",
+        "brand": "knorr"
+    },
+    {
+        "name": "Finish Ambientador Máquina Loiça Citro Fresh + Recarga 2x60g",
+        "price": "5.20",
+        "brand": "finish"
+    },
+    {
+        "name": "Frutorra Cocktail Frutos Secos Salgado 150g",
+        "price": "1.33",
+        "brand": "frutorra"
+    },
+    {
+        "name": "Delta Café Pastilhas Descafeínado 16un",
+        "price": "3.03",
+        "brand": "delta"
+    },
+    {
+        "name": "Fim De Século Aguardente Velha 70cl",
+        "price": "18.51",
+        "brand": "fim-de-seculo"
+    },
+    {
+        "name": "Dan Cake Bolachas de Manteiga Sortidas 454g",
+        "price": "4.71",
+        "brand": "dan-cake"
+    },
+    {
+        "name": "Condi Fermento de Padeiro 4x11g",
+        "price": "1.37",
+        "brand": "condi"
+    },
+    {
+        "name": "Mare Gin 70cl",
+        "price": "38.89",
+        "brand": "mare"
+    },
+    {
+        "name": "Cem Porcento Açúcar de Cana Integral 500g",
+        "price": "1.92",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Margão Cebolinho 3g",
+        "price": "2.23",
+        "brand": "margao"
+    },
+    {
+        "name": "Alpro Yofu Soja Natural sem Açúcar 400g",
+        "price": "2.37",
+        "brand": "alpro"
+    },
+    {
+        "name": "Dona Ermelinda Grande Reserva Regional Península de Setúbal Vinho Tinto 75cl",
+        "price": "26.11",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Nivea Creme Classico 150ml",
+        "price": "2.95",
+        "brand": "nivea"
+    },
+    {
+        "name": "Nobre Salsichas Hot Dog Frasco 8un 650g",
+        "price": "3.55",
+        "brand": "nobre"
+    },
+    {
+        "name": "Linic Champo Men Controlo de Oleosidade 250ml",
+        "price": "3.26",
+        "brand": "linic"
+    },
+    {
+        "name": "Casa Ermelinda Freitas Moscatel de Setúbal 75cl",
+        "price": "5.68",
+        "brand": "casa-ermelinda-freitas"
+    },
+    {
+        "name": "Mentos Drageias Menta 38g",
+        "price": "0,81",
+        "brand": "mentos"
+    },
+    {
+        "name": "Tanqueray Gin Flor de Sevilha 70cl",
+        "price": "28.78",
+        "brand": "tanqueray"
+    },
+    {
+        "name": "Alpro Yofu Soja Pedaços Framboesa/Amora 4x125g",
+        "price": "2.42",
+        "brand": "alpro"
+    },
+    {
+        "name": "Pantagruel Chocolate de Leite Culinária sem Glúten 200g",
+        "price": "3.68",
+        "brand": "pantagruel"
+    },
+    {
+        "name": "Muros Antigos Vinho Verde Branco Alvarinho 75cl",
+        "price": "9.55",
+        "brand": "muros-antigos"
+    },
+    {
+        "name": "Mionetto Espumante Prosecco Branco Bruto 75cl",
+        "price": "9.05",
+        "brand": "mionetto"
+    },
+    {
+        "name": "Trina Refrigerante Sem Gás Frutos Tropicais 1.5L",
+        "price": "1.50",
+        "brand": "trina"
+    },
+    {
+        "name": "Linic Champo Men Cool Eficácia Activa 250ml",
+        "price": "3.26",
+        "brand": "linic"
+    },
+    {
+        "name": "Grey Goose Vodka 70cl",
+        "price": "47.60",
+        "brand": "grey-goose"
+    },
+    {
+        "name": "Du Bois de la Roche Bolachas Crackers com Sal 500g",
+        "price": "3.03",
+        "brand": "du-bois-de-la-roche"
+    },
+    {
+        "name": "Margão Especiarias para Aves Frasco 140g",
+        "price": "2.31",
+        "brand": "margao"
+    },
+    {
+        "name": "Garnier Coloração Permanente Nutrisse Creme Nº8 Louro Claro",
+        "price": "5.86",
+        "brand": "garnier"
+    },
+    {
+        "name": "Branca De Neve Topping de Chocolate Belga 390g",
+        "price": "3.13",
+        "brand": "branca-de-neve"
+    },
+    {
+        "name": "Giovanni Rana Gnocchi Fresco 400g",
+        "price": "2.67",
+        "brand": "giovanni-rana"
+    },
+    {
+        "name": "St Dalfour Doce de Laranja com Farripas 284g",
+        "price": "3.42",
+        "brand": "st-dalfour"
+    },
+    {
+        "name": "Skippy Creme de Amendoim Cremoso 340g",
+        "price": "3.64",
+        "brand": "skippy"
+    },
+    {
+        "name": "Cruz Vinho do Porto 10 Anos 75cl",
+        "price": "14.80",
+        "brand": "cruz"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Limonada 4x180g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Cachaça 51 Cachaça 70cl",
+        "price": "11.65",
+        "brand": "cachaca-51"
+    },
+    {
+        "name": "Margão Sal Preto do Chipre com Moinho 90g",
+        "price": "3.64",
+        "brand": "margao"
+    },
+    {
+        "name": "Delta Café Platinum Grão 500g",
+        "price": "16.49",
+        "brand": "delta"
+    },
+    {
+        "name": "Cem Porcento Salsichas de Soja 390g",
+        "price": "2.90",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Nestlé Iogurte Líquido Yoggi Banana 4x160g",
+        "price": "1.55",
+        "brand": "nestle"
+    },
+    {
+        "name": "Polident Pastilhas Limpeza Prótese Dentaria Branqueadora 30un",
+        "price": "3.66",
+        "brand": "polident"
+    },
+    {
+        "name": "Super Pop Detergente Manual Loiça Limão 700ml",
+        "price": "1.92",
+        "brand": "super-pop"
+    },
+    {
+        "name": "Danone Iogurte Activia Fibras Cereais Integrais 4x120g",
+        "price": "1.95",
+        "brand": "danone"
+    },
+    {
+        "name": "Danone Yopro Iogurte Líquido Proteína Morango e Framboesa 300g",
+        "price": "1.84",
+        "brand": "danone"
+    },
+    {
+        "name": "Danone Iogurte Activia Fibras Aveia e Nozes 4x120g",
+        "price": "1.95",
+        "brand": "danone"
+    },
+    {
+        "name": "Cuétara Bolachas Maria Choco 265g",
+        "price": "1.77",
+        "brand": "cuetara"
+    },
+    {
+        "name": "Origens Bio Mel de Flores 350g",
+        "price": "4.84",
+        "brand": "origens-bio"
+    },
+    {
+        "name": "Skippy Creme de Amendoim Chunk 340g",
+        "price": "3.64",
+        "brand": "skippy"
+    },
+    {
+        "name": "Trident Pastilhas Elásticas Senses Tropical 23g",
+        "price": "0,77",
+        "brand": "trident"
+    },
+    {
+        "name": "Feno Creme Corporal Dermonatura Nutritivo 400ml",
+        "price": "4.46",
+        "brand": "feno-de-portugal"
+    },
+    {
+        "name": "Renova Lenços Bolso Sensitive 10un",
+        "price": "2.80",
+        "brand": "renova"
+    },
+    {
+        "name": "Gallo Vinagre de Sidra Bio 250ml",
+        "price": "2.21",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Feno Creme Corporal Dermonatura Regenerador 400ml",
+        "price": "4.46",
+        "brand": "feno-de-portugal"
+    },
+    {
+        "name": "Feno Gel de Banho Dermonatura Nutritivo 700ml",
+        "price": "4.31",
+        "brand": "feno-de-portugal"
+    },
+    {
+        "name": "Carm Vinho Tinto Grande Reserva Douro 75cl",
+        "price": "36.96",
+        "brand": "carm"
+    },
+    {
+        "name": "Oliveira da Serra Molho Piri Piri Azeite Audaz 50ml",
+        "price": "1.87",
+        "brand": "oliveira-da-serra"
+    },
+    {
+        "name": "Tanqueray Gin Rangpur 70cl",
+        "price": "30.16",
+        "brand": "tanqueray"
+    },
+    {
+        "name": "Philadelphia Queijo Creme com Salmão 150g",
+        "price": "2.30",
+        "brand": "philadelphia"
+    },
+    {
+        "name": "Danone Iogurte Oikos Caramelo 4x115g",
+        "price": "1.99",
+        "brand": "danone"
+    },
+    {
+        "name": "Nova Açores Queijo Flamengo Fatias 200g",
+        "price": "2.14",
+        "brand": "nova-acores"
+    },
+    {
+        "name": "Longa Vida Iogurte Magro Morango 6x120g",
+        "price": "2.02",
+        "brand": "nestle"
+    },
+    {
+        "name": "Limiano Queijo Flamengo Fatias 200g",
+        "price": "2.05",
+        "brand": "limiano"
+    },
+    {
+        "name": "Nestlé Cereais de Aveia Integral com Chocolate Fitness 375g",
+        "price": "3.24",
+        "brand": "nestle"
+    },
+    {
+        "name": "CRF Aguardente Velha Reserva 70cl",
+        "price": "17.14",
+        "brand": "crf"
+    },
+    {
+        "name": "Casa do Porco Preto Salsichão de Porco Preto Bolota Fatias 80g",
+        "price": "3.07",
+        "brand": "casa-do-porco-preto"
+    },
+    {
+        "name": "Limiano Queijo -50% Menos Gordura Fatias 200g",
+        "price": "2.05",
+        "brand": "limiano"
+    },
+    {
+        "name": "Fastio Água Go 500ml",
+        "price": "0,42",
+        "brand": "fastio"
+    },
+    {
+        "name": "Toffiffe Bombons Toffifee 125g",
+        "price": "3.84",
+        "brand": "toffiffe"
+    },
+    {
+        "name": "Linic Champô Homem Legend CR7 Anticaspa 225ml",
+        "price": "3.26",
+        "brand": "linic"
+    },
+    {
+        "name": "Danone Iogurte Oikos Morango 4x115g",
+        "price": "1.99",
+        "brand": "danone"
+    },
+    {
+        "name": "Feno Gel de Banho Dermonatura Regenera 700ml",
+        "price": "4.31",
+        "brand": "feno-de-portugal"
+    },
+    {
+        "name": "Cigala Arroz Integral 1Kg",
+        "price": "1.26",
+        "brand": "cigala"
+    },
+    {
+        "name": "Vatel Sal Grosso 800g",
+        "price": "1.14",
+        "brand": "vatel"
+    },
+    {
+        "name": "Danone Iogurte Oikos Sensations Stracciatella 4x115g",
+        "price": "1.99",
+        "brand": "danone"
+    },
+    {
+        "name": "Schwarzkopf Condicionador Gliss Ultimate Color 200ml",
+        "price": "2.44",
+        "brand": "schwarzkopf"
+    },
+    {
+        "name": "Mistolin Desengordurante Cozinha Dia a Dia Pistola 750ml",
+        "price": "2.35",
+        "brand": "mistolin"
+    },
+    {
+        "name": "Cem Porcento Hamburguer de Soja 150g",
+        "price": "2.76",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Danone Yopro Iogurte Líquido Proteína Manga 300g",
+        "price": "1.84",
+        "brand": "danone"
+    },
+    {
+        "name": "Old Parr Whisky 12 Anos 1L",
+        "price": "52.97",
+        "brand": "old-parr"
+    },
+    {
+        "name": "Casal Da Eira Vinho Branco 1L",
+        "price": "1.46",
+        "brand": "casal-da-eira"
+    },
+    {
+        "name": "Beefeater Gin Dry 70cl",
+        "price": "17.42",
+        "brand": "beefeater"
+    },
+    {
+        "name": "Paladin Maionese Top Down 225g",
+        "price": "1.46",
+        "brand": "paladin"
+    },
+    {
+        "name": "Terra Nostra Leite Magro de Pastagem 1L",
+        "price": "0,89",
+        "brand": "terra-nostra"
+    },
+    {
+        "name": "Cem Porcento Chocolate Negro Com Coco 125g",
+        "price": "2.68",
+        "brand": "cem-porcento"
+    },
+    {
+        "name": "Casal Da Eira Vinho Branco 25cl",
+        "price": "0,63",
+        "brand": "casal-da-eira"
+    },
+    {
+        "name": "Casa da Prisca Chouriça Tradicional 180g",
+        "price": "2.87",
+        "brand": "casa-da-prisca"
+    },
+    {
+        "name": "Danone Yopro Iogurte Líquido Proteína Mirtilo 300g",
+        "price": "1.84",
+        "brand": "danone"
+    },
+    {
+        "name": "Nobre Fiambre da Perna Extra Fatias Finíssimas 220g",
+        "price": "3.74",
+        "brand": "nobre"
+    },
+    {
+        "name": "Cristal Pack de Cerveja 6x33cl",
+        "price": "3.49",
+        "brand": "cristal"
+    },
+    {
+        "name": "Palhais Queijo Chevre 180g",
+        "price": "3.11",
+        "brand": "palhais"
+    },
+    {
+        "name": "Nescafé Café Dolce Gusto Buondi 16un",
+        "price": "4.98",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Mr. Muscle Desentupidor Forza 1L",
+        "price": "7.86",
+        "brand": "mr-muscle"
+    },
+    {
+        "name": "Raid Spray Inseticida Moscas e Mosquitos 400ml",
+        "price": "4.46",
+        "brand": "raid"
+    },
+    {
+        "name": "Sagres Cerveja 1L",
+        "price": "1.74",
+        "brand": "sagres"
+    },
+    {
+        "name": "Gallo Vinagre Balsâmico Rosé 250ml",
+        "price": "1.93",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Nescafé Café Dolce Gusto Barista 16un",
+        "price": "4.98",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Oliveira da Serra Azeite Virgem Extra Clássico 75cl",
+        "price": "5.99",
+        "brand": "oliveira-da-serra"
+    },
+    {
+        "name": "Gallo Vinagre Balsâmico Modena Gourmet 250ml",
+        "price": "2.20",
+        "brand": "gallo-027"
+    },
+    {
+        "name": "Nescafé Café Cápsulas Dolce Gusto Espresso Ristretto Napoli 16un",
+        "price": "4.98",
+        "brand": "nescafe"
+    },
+    {
+        "name": "Bravo Esfregão Super Desengordurante Super Brilho Clássico 6un",
+        "price": "0,95",
+        "brand": "bravo-299"
+    },
+    {
+        "name": "Sical Café 5 Estrelas Clássico Grão 1Kg",
+        "price": "11.91",
+        "brand": "sical"
+    },
+    {
+        "name": "Pescanova Filetes De Pescada Panados c/Limao 4un 400g",
+        "price": "4.95",
+        "brand": "pescanova"
+    },
+    {
+        "name": "Chivas Regal Whisky Velho 12 Anos 70cl",
+        "price": "31.12",
+        "brand": "chivas-regal"
+    },
+    {
+        "name": "Logan Whisky 12 Anos 70cl",
+        "price": "19.17",
+        "brand": "logan"
+    },
+    {
+        "name": "Delta Café Torrado Lote Chávena Moagem Máquina 250g",
+        "price": "3.03",
+        "brand": "delta"
+    },
+    {
+        "name": "Ricard Aperitivo 70cl",
+        "price": "16.44",
+        "brand": "ricard"
+    },
+    {
+        "name": "Koala Leite de Coco 400ml",
+        "price": "1.81",
+        "brand": "koala"
+    },
+    {
+        "name": "Ajax Recarga Limpa Vidros Cristal 500ml",
+        "price": "1.49",
+        "brand": "ajax"
+    },
+    {
+        "name": "Delta Café Torrado Lote Chávena Moagem Grossa 250g",
+        "price": "3.03",
+        "brand": "delta"
+    },
+    {
+        "name": "Vahine Gelatina Alimentar Em Folhas 17g",
+        "price": "1.73",
+        "brand": "vahine"
+    },
+    {
+        "name": "Mimosa Iogurte Natural 4x125g",
+        "price": "1.06",
+        "brand": "mimosa"
+    },
+    {
+        "name": "Danone Yopro Iogurte Líquido Proteína Coco 300g",
+        "price": "1.84",
+        "brand": "danone"
+    },
+    {
+        "name": "Vieira Bolacha Digestiva Aveia 258g",
+        "price": "1.88",
+        "brand": "vieira"
+    },
+    {
+        "name": "Martini Bianco 1L",
+        "price": "8.48",
+        "brand": "martini"
+    },
+    {
+        "name": "Compal Ervilhas da Horta 425g",
+        "price": "1.34",
+        "brand": "compal"
+    },
+    {
+        "name": "Porminho Bacon Extra 200g",
+        "price": "2.69",
+        "brand": "porminho"
+    },
+    {
+        "name": "Danone Yopro Iogurte Proteína Morango 160g",
+        "price": "0,98",
+        "brand": "danone"
+    }
+]
